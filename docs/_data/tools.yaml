@@ -274,7 +274,7 @@
   watch: 21
   updated: '2023-02-26T07:06:01Z'
   issues: 71
-  forks: 148
+  forks: 149
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3052
+  stars: 3055
   watch: 107
-  forks: 527
-  updated: '2023-02-26T17:45:34Z'
-  issues: 224
+  forks: 528
+  updated: '2023-02-28T22:11:15Z'
+  issues: 226
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4121
+  stars: 4122
   watch: 826
-  updated: '2023-02-27T20:20:07Z'
+  updated: '2023-02-28T04:57:08Z'
   issues: 80
   forks: 731
   license: MIT
@@ -403,7 +403,7 @@
   archived: false
   stars: 190
   watch: 4
-  forks: 24
+  forks: 25
   updated: '2023-02-15T12:12:03Z'
   issues: 21
   owner: BRIKEV
@@ -604,6 +604,26 @@
   logo: 'https://avatars.githubusercontent.com/u/1565?v=4'
   downloads: 0
   uuid: f26832d8-99b4-4ad5-b5b6-1a638ed004d7
+- name: api-spec-converter
+  description: >-
+    Convert API descriptions between popular formats such as OpenAPI(fka
+    Swagger), RAML, API Blueprint, WADL, etc.
+  github: 'https://github.com/LucyBot-Inc/api-spec-converter'
+  v2: true
+  language: JavaScript
+  category: '?'
+  archived: false
+  stars: 985
+  watch: 21
+  updated: '2023-02-28T14:55:34Z'
+  issues: 91
+  forks: 153
+  license: MIT
+  owner: LucyBot-Inc
+  logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
+  downloads: 712016
+  downloadStr: 712.02K
+  uuid: bcf24fcc-360c-4175-bd84-13ac17bc02d0
 - name: Restler
   description: >-
     Simple and effective multi-format Web API Server to host your PHP API as
@@ -614,7 +634,7 @@
   category: '?'
   archived: false
   stars: 1358
-  watch: 91
+  watch: 90
   updated: '2023-02-24T17:13:14Z'
   issues: 35
   forks: 322
@@ -667,10 +687,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 285
+  stars: 286
   watch: 11
   forks: 46
-  updated: '2023-01-28T08:33:18Z'
+  updated: '2023-02-28T11:14:41Z'
   issues: 24
   license: Apache-2.0
   owner: Mermade
@@ -718,6 +738,26 @@
   downloads: 187314
   downloadStr: 187.31K
   uuid: 8068538e-ab2e-4ac9-acf0-8ec988fcbb40
+- name: openapi-gui
+  category: editors
+  language: JavaScript
+  link: 'https://mermade.github.io/openapi-gui'
+  github: 'https://github.com/Mermade/openapi-gui'
+  description: GUI / visual editor for creating and editing OpenAPI / Swagger definitions
+  v2: true
+  v3: true
+  archived: false
+  stars: 1198
+  watch: 41
+  forks: 155
+  updated: '2023-02-24T02:00:09Z'
+  issues: 21
+  license: MIT
+  owner: Mermade
+  logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
+  downloads: 272
+  downloadStr: '272'
+  uuid: d6b51617-c257-413d-94f9-c2c5436fd5a6
 - github: 'https://github.com/Mermade/openapi-lint-vscode'
   v3: true
   category: editors
@@ -789,6 +829,28 @@
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
   downloads: 0
   uuid: 56ca6d03-36e6-452d-83f4-3f9128231b97
+- name: widdershins
+  category: documentation
+  demo: 'https://mermade.github.io/shins'
+  github: 'https://github.com/Mermade/widdershins'
+  language: JavaScript
+  description: >-
+    OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible
+    markdown
+  v2: true
+  v3: true
+  archived: false
+  stars: 1238
+  watch: 17
+  forks: 296
+  updated: '2023-02-26T17:25:19Z'
+  issues: 80
+  license: MIT
+  owner: Mermade
+  logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
+  downloads: 526505
+  downloadStr: 526.51K
+  uuid: 4d40960b-23a1-4e76-bbe6-f41a5e32faf2
 - name: spec-synthase
   description: >-
     Spec-synthase is a tool to help deal with big swagger files, by building the
@@ -2159,6 +2221,24 @@
   downloads: 532
   downloadStr: '532'
   uuid: 2b081767-6f34-45ad-8d53-c1cb44b7fe83
+- github: 'https://github.com/contiamo/restful-react'
+  v3: true
+  category: unclassified
+  uuid: 3b60311d-3abc-4cff-8e1b-7827496a8acb
+  name: restful-react
+  description: "A consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs \U0001F525"
+  language: TypeScript
+  archived: false
+  stars: 1878
+  watch: 19
+  forks: 108
+  updated: '2023-02-18T12:12:05Z'
+  issues: 52
+  owner: contiamo
+  logo: 'https://avatars.githubusercontent.com/u/862286?v=4'
+  license: MIT
+  downloads: 517466
+  downloadStr: 517.47K
 - github: 'https://github.com/cxxxr/apispec'
   v3: true
   category: unclassified
@@ -2299,6 +2379,23 @@
   unsure: true
   downloads: 0
   uuid: 9aca64e6-853a-4e09-b8ba-349a2c067565
+- github: 'https://github.com/dgarcia360/openapi-boilerplate'
+  v3: true
+  category: unclassified
+  uuid: 902435fa-97fa-4448-b542-fe898bfaf03c
+  name: openapi-boilerplate
+  description: "\U0001F4D8 Multi-file boilerplate for Open API Specification"
+  language: Shell
+  archived: false
+  stars: 273
+  watch: 5
+  forks: 74
+  updated: '2023-02-23T14:01:14Z'
+  issues: 1
+  owner: dgarcia360
+  logo: 'https://avatars.githubusercontent.com/u/9107969?v=4'
+  license: ''
+  downloads: 0
 - github: 'https://github.com/dgouyette/play-api-refiner'
   v3: true
   category: unclassified
@@ -2510,6 +2607,40 @@
   unsure: true
   downloads: 0
   uuid: 465174bf-1e8c-46ca-9bdc-9f294d653db3
+- github: 'https://github.com/ethereum/eth2.0-APIs'
+  v3: true
+  category: unclassified
+  uuid: 14ec3934-1fbe-4061-8bb7-506dd9a60425
+  name: eth2.0-APIs
+  description: Collection of RESTful APIs provided by Ethereum 2.0 clients
+  language: HTML
+  archived: false
+  stars: 104
+  watch: 29
+  forks: 60
+  updated: '2021-06-10T06:27:36Z'
+  issues: 25
+  owner: ethereum
+  logo: 'https://avatars.githubusercontent.com/u/6250754?v=4'
+  license: CC0-1.0
+  downloads: 0
+- name: flasgger
+  description: Easy OpenAPI specs and Swagger UI for your Flask API
+  github: 'https://github.com/flasgger/flasgger'
+  v2: true
+  language: Python
+  category: '?'
+  archived: false
+  stars: 2616
+  watch: 55
+  updated: '2021-06-10T16:30:11Z'
+  issues: 183
+  forks: 377
+  license: MIT
+  owner: flasgger
+  logo: 'https://avatars.githubusercontent.com/u/54032826?v=4'
+  downloads: 0
+  uuid: bc28a0ed-835d-4e13-a4f8-64271dd0fee0
 - name: fleek-parser
   description: A centralized parser for versioned parsing of swagger docs in fleek modules
   github: 'https://github.com/fleekjs/fleek-parser'
@@ -2655,6 +2786,23 @@
   downloads: 3346
   downloadStr: 3.35K
   uuid: c051b64a-a499-40f9-a9d3-fda5f87ca4e3
+- name: sbt-swagger-codegen
+  description: sbt Plugin for Scala code generation for Swagger specs
+  github: 'https://github.com/fralken/sbt-swagger-codegen'
+  v2: true
+  language: Scala
+  category: '?'
+  archived: false
+  stars: 105
+  watch: 19
+  updated: '2021-04-03T15:28:28Z'
+  issues: 5
+  forks: 29
+  license: Apache-2.0
+  owner: fralken
+  logo: 'https://avatars.githubusercontent.com/u/6103677?v=4'
+  downloads: 0
+  uuid: 88610a3f-1b05-4f88-b6ce-334f4355c463
 - name: route-swagger
   description: Swagger integration for Pedestal and Tripod
   github: 'https://github.com/frankiesardo/route-swagger'
@@ -2775,6 +2923,23 @@
   logo: 'https://avatars.githubusercontent.com/u/40365715?v=4'
   downloads: 0
   uuid: a714cc77-afe9-40a6-986d-912fcc0d9331
+- name: flask-swagger
+  description: A swagger 2.0 spec extractor for flask
+  github: 'https://github.com/getsling/flask-swagger'
+  v2: true
+  language: Python
+  category: '?'
+  archived: false
+  stars: 431
+  watch: 28
+  updated: '2021-06-04T07:44:50Z'
+  issues: 19
+  forks: 91
+  license: MIT
+  owner: getsling
+  logo: 'https://avatars.githubusercontent.com/u/1301121?v=4'
+  downloads: 0
+  uuid: 090dbf86-6ca3-45bd-9ffa-72c3fea2c555
 - name: spray-swagger
   description: spray-swagger
   github: 'https://github.com/gettyimages/spray-swagger'
@@ -2792,24 +2957,6 @@
   logo: 'https://avatars.githubusercontent.com/u/1730239?v=4'
   downloads: 0
   uuid: 068a9e53-6f6d-4de1-acc0-a5d204b2d554
-- name: hapi-swagger
-  description: A Swagger interface for HAPI
-  github: 'https://github.com/hapi-swagger/hapi-swagger'
-  v1: true
-  language: JavaScript
-  category: '?'
-  archived: false
-  stars: 899
-  watch: 27
-  updated: '2023-01-15T12:11:28Z'
-  issues: 65
-  forks: 428
-  license: MIT
-  owner: hapi-swagger
-  logo: 'https://avatars.githubusercontent.com/u/105804019?v=4'
-  downloads: 4582691
-  downloadStr: 4.58M
-  uuid: c643212e-c45f-43de-9fd9-8b6aabcb9c71
 - github: 'https://github.com/go-courier/oas'
   v3: true
   category: parsers
@@ -2879,23 +3026,6 @@
   logo: 'https://avatars.githubusercontent.com/u/1342004?v=4'
   downloads: 0
   uuid: 98b66d8a-07d2-4542-b2af-6cac4e0df77f
-- name: swagger
-  description: A php library to manipulate swagger specifications
-  github: 'https://github.com/phpowermove/swagger'
-  v2: true
-  language: PHP
-  category: '?'
-  archived: false
-  stars: 16
-  watch: 1
-  updated: '2022-11-06T10:15:04Z'
-  issues: 0
-  forks: 19
-  license: MIT
-  owner: phpowermove
-  logo: 'https://avatars.githubusercontent.com/u/88526205?v=4'
-  downloads: 0
-  uuid: 3ca5521e-d347-441e-8c9f-43b5159b4ac4
 - name: grpc-gateway
   description: gRPC to JSON proxy generator following the gRPC HTTP spec
   github: 'https://github.com/grpc-ecosystem/grpc-gateway'
@@ -2929,6 +3059,24 @@
   logo: 'https://avatars.githubusercontent.com/u/1684612?v=4'
   downloads: 0
   uuid: 8f0406a1-5ed4-40ba-bdaa-3428f3d2603b
+- name: hapi-swagger
+  description: A Swagger interface for HAPI
+  github: 'https://github.com/hapi-swagger/hapi-swagger'
+  v1: true
+  language: JavaScript
+  category: '?'
+  archived: false
+  stars: 899
+  watch: 27
+  updated: '2023-01-15T12:11:28Z'
+  issues: 65
+  forks: 428
+  license: MIT
+  owner: hapi-swagger
+  logo: 'https://avatars.githubusercontent.com/u/105804019?v=4'
+  downloads: 4582691
+  downloadStr: 4.58M
+  uuid: c643212e-c45f-43de-9fd9-8b6aabcb9c71
 - github: 'https://github.com/hh-h/aiohttp-swagger3'
   v3: true
   category: unclassified
@@ -2948,316 +3096,6 @@
   license: Apache-2.0
   downloads: 0
   uuid: 4dcc599a-4e95-4c9a-ba47-caf05ca6029d
-- name: OpenAPI.NET
-  category: parsers
-  github: 'https://github.com/microsoft/OpenAPI.NET'
-  language: 'C#'
-  description: >-
-    The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in
-    .NET along with common serializers to extract raw OpenAPI JSON and YAML
-    documents from the model.
-  v2: true
-  v3: true
-  archived: false
-  stars: 1088
-  watch: 67
-  forks: 181
-  updated: '2023-02-27T04:54:08Z'
-  issues: 110
-  license: MIT
-  owner: microsoft
-  logo: 'https://avatars.githubusercontent.com/u/6154722?v=4'
-  downloads: 0
-  uuid: 871925ef-ad24-4066-9e53-8824134c5638
-- github: 'https://github.com/microsoft/OpenAPI.NET.OData'
-  v3: true
-  category: parsers
-  name: OpenAPI.NET.OData
-  description: Generates OpenAPI document from OData CSDL
-  language: 'C#'
-  archived: false
-  stars: 170
-  watch: 29
-  forks: 50
-  updated: '2023-02-21T00:42:12Z'
-  issues: 26
-  license: MIT
-  owner: microsoft
-  logo: 'https://avatars.githubusercontent.com/u/6154722?v=4'
-  downloads: 0
-  uuid: a4da997b-9baf-4b81-b804-b34ff37b0681
-- github: 'https://github.com/openapi-contrib/openapi3-generator'
-  v3: true
-  category: sdk
-  name: openapi3-generator
-  description: >-
-    Use your API OpenAPI 3 definition to generate code, documentation, and
-    literally anything you need.
-  language: JavaScript
-  archived: false
-  stars: 86
-  watch: 3
-  forks: 31
-  updated: '2022-10-21T11:03:37Z'
-  issues: 21
-  license: Apache-2.0
-  owner: openapi-contrib
-  logo: 'https://avatars.githubusercontent.com/u/49447320?v=4'
-  downloads: 29040
-  downloadStr: 29.04K
-  uuid: fbaa1e04-c182-43ed-ac77-f3190b82d7dd
-- name: rswag
-  description: Seamlessly adds a Swagger to Rails-based API's
-  github: 'https://github.com/rswag/rswag'
-  v2: true
-  language: Ruby
-  category: '?'
-  archived: false
-  stars: 1601
-  watch: 28
-  updated: '2023-02-27T01:33:37Z'
-  issues: 59
-  forks: 365
-  owner: rswag
-  logo: 'https://avatars.githubusercontent.com/u/55741034?v=4'
-  downloads: 0
-  uuid: 22389945-e121-4e24-8a3b-ce1c3f393ce0
-  license: MIT
-- name: Apimatic Transformer
-  category: converters
-  language: SaaS
-  description: >-
-    Transform API Descriptions to formats to and from RAML, API Blueprint, OAI
-    v2/v3, WSDL, etc.
-  link: 'https://apimatic.io/transformer'
-  logo: >-
-    https://d33wubrfki0l68.cloudfront.net/617a535e398d199762e77419b058166edc64ccb1/55593/static/hero-9435df82ee3ca5059f641c0e0068eda0.svg
-  v2: true
-  v3: true
-  uuid: 7f31ed5d-bbc1-434b-918e-9f2b37253da1
-- link: 'https://bitbucket.org/atlassian/openapi-diff/src/master/'
-  v3: true
-  category: miscellaneous
-  name: openapi-diff
-  description: A CLI tool to identify differences between Swagger/OpenAPI specs.
-  language: JavaScript
-  license: Apache-2.0
-  logo: 'https://avatars1.githubusercontent.com/u/168166?s=200&v=4'
-  demo: 'https://github.com/MikeRalphson/openapi-diff'
-  demoText: Mirror
-  uuid: d1ecf54c-54b2-47d2-9f05-c65382f312a5
-- link: 'https://bitbucket.org/atlassian/swagger-mock-validator/src/master/'
-  name: swagger-mock-validator
-  v3: true
-  category: mock
-  description: A CLI tool to validate mocks against swagger/OpenApi specs.
-  language: TypeScript
-  license: Apache-2.0
-  logo: 'https://avatars1.githubusercontent.com/u/168166?s=200&v=4'
-  uuid: 953cd2c3-e654-4bff-b6d8-02e35cc5e935
-- name: Vert.x Web API Contract
-  category: frameworks
-  description: >-
-    Create an API endpoint with Vert.x 3 and OpenAPI 3 with automatic requests
-    validation
-  link: 'http://vertx.io/docs/#web'
-  language: Various
-  v3: true
-  uuid: 48429f05-1936-4741-a368-1a9e3eccc393
-- link: 'https://bitbucket.org/atlassian/swagger-request-validator/src/master/'
-  v3: true
-  category: parsers
-  name: swagger-request-validator
-  description: >-
-    A Java library for validating request/responses against a OpenAPI / Swagger
-    specification. Includes support for Swagger v2 and OpenAPI v3 specifications
-    and adapters for common mock and testing libraries.
-  language: Java
-  license: Apache-2.0
-  logo: 'https://avatars1.githubusercontent.com/u/168166?s=200&v=4'
-  uuid: 4489030e-e9ce-4dc6-a170-d3afc803b6ca
-- name: api-spec-converter
-  description: >-
-    Convert API descriptions between popular formats such as OpenAPI(fka
-    Swagger), RAML, API Blueprint, WADL, etc.
-  github: 'https://github.com/LucyBot-Inc/api-spec-converter'
-  v2: true
-  language: JavaScript
-  category: '?'
-  archived: false
-  stars: 984
-  watch: 21
-  updated: '2023-02-27T03:19:26Z'
-  issues: 91
-  forks: 153
-  license: MIT
-  owner: LucyBot-Inc
-  logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
-  downloads: 712016
-  downloadStr: 712.02K
-  uuid: bcf24fcc-360c-4175-bd84-13ac17bc02d0
-- name: openapi-gui
-  category: editors
-  language: JavaScript
-  link: 'https://mermade.github.io/openapi-gui'
-  github: 'https://github.com/Mermade/openapi-gui'
-  description: GUI / visual editor for creating and editing OpenAPI / Swagger definitions
-  v2: true
-  v3: true
-  archived: false
-  stars: 1198
-  watch: 41
-  forks: 155
-  updated: '2023-02-24T02:00:09Z'
-  issues: 21
-  license: MIT
-  owner: Mermade
-  logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
-  downloads: 272
-  downloadStr: '272'
-  uuid: d6b51617-c257-413d-94f9-c2c5436fd5a6
-- name: widdershins
-  category: documentation
-  demo: 'https://mermade.github.io/shins'
-  github: 'https://github.com/Mermade/widdershins'
-  language: JavaScript
-  description: >-
-    OpenAPI / Swagger, AsyncAPI & Semoasa definitions to (re)Slate compatible
-    markdown
-  v2: true
-  v3: true
-  archived: false
-  stars: 1238
-  watch: 17
-  forks: 296
-  updated: '2023-02-26T17:25:19Z'
-  issues: 80
-  license: MIT
-  owner: Mermade
-  logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
-  downloads: 526505
-  downloadStr: 526.51K
-  uuid: 4d40960b-23a1-4e76-bbe6-f41a5e32faf2
-- github: 'https://github.com/oazapfts/oazapfts'
-  v3: true
-  category: unclassified
-  uuid: 203e1e42-9c9d-4011-a347-973d791f100a
-  name: oazapfts
-  description: Generate TypeScript clients to tap into OpenAPI servers
-  language: TypeScript
-  archived: false
-  stars: 335
-  watch: 7
-  forks: 58
-  updated: '2023-02-26T11:32:24Z'
-  issues: 18
-  owner: oazapfts
-  logo: 'https://avatars.githubusercontent.com/u/119607625?v=4'
-  downloads: 704713
-  downloadStr: 704.71K
-- github: 'https://github.com/contiamo/restful-react'
-  v3: true
-  category: unclassified
-  uuid: 3b60311d-3abc-4cff-8e1b-7827496a8acb
-  name: restful-react
-  description: "A consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs \U0001F525"
-  language: TypeScript
-  archived: false
-  stars: 1878
-  watch: 19
-  forks: 108
-  updated: '2023-02-18T12:12:05Z'
-  issues: 52
-  owner: contiamo
-  logo: 'https://avatars.githubusercontent.com/u/862286?v=4'
-  license: MIT
-  downloads: 517466
-  downloadStr: 517.47K
-- github: 'https://github.com/dgarcia360/openapi-boilerplate'
-  v3: true
-  category: unclassified
-  uuid: 902435fa-97fa-4448-b542-fe898bfaf03c
-  name: openapi-boilerplate
-  description: "\U0001F4D8 Multi-file boilerplate for Open API Specification"
-  language: Shell
-  archived: false
-  stars: 273
-  watch: 5
-  forks: 74
-  updated: '2023-02-23T14:01:14Z'
-  issues: 1
-  owner: dgarcia360
-  logo: 'https://avatars.githubusercontent.com/u/9107969?v=4'
-  license: ''
-  downloads: 0
-- github: 'https://github.com/ethereum/eth2.0-APIs'
-  v3: true
-  category: unclassified
-  uuid: 14ec3934-1fbe-4061-8bb7-506dd9a60425
-  name: eth2.0-APIs
-  description: Collection of RESTful APIs provided by Ethereum 2.0 clients
-  language: HTML
-  archived: false
-  stars: 104
-  watch: 29
-  forks: 60
-  updated: '2021-06-10T06:27:36Z'
-  issues: 25
-  owner: ethereum
-  logo: 'https://avatars.githubusercontent.com/u/6250754?v=4'
-  license: CC0-1.0
-  downloads: 0
-- name: flasgger
-  description: Easy OpenAPI specs and Swagger UI for your Flask API
-  github: 'https://github.com/flasgger/flasgger'
-  v2: true
-  language: Python
-  category: '?'
-  archived: false
-  stars: 2616
-  watch: 55
-  updated: '2021-06-10T16:30:11Z'
-  issues: 183
-  forks: 377
-  license: MIT
-  owner: flasgger
-  logo: 'https://avatars.githubusercontent.com/u/54032826?v=4'
-  downloads: 0
-  uuid: bc28a0ed-835d-4e13-a4f8-64271dd0fee0
-- name: sbt-swagger-codegen
-  description: sbt Plugin for Scala code generation for Swagger specs
-  github: 'https://github.com/fralken/sbt-swagger-codegen'
-  v2: true
-  language: Scala
-  category: '?'
-  archived: false
-  stars: 105
-  watch: 19
-  updated: '2021-04-03T15:28:28Z'
-  issues: 5
-  forks: 29
-  license: Apache-2.0
-  owner: fralken
-  logo: 'https://avatars.githubusercontent.com/u/6103677?v=4'
-  downloads: 0
-  uuid: 88610a3f-1b05-4f88-b6ce-334f4355c463
-- name: flask-swagger
-  description: A swagger 2.0 spec extractor for flask
-  github: 'https://github.com/getsling/flask-swagger'
-  v2: true
-  language: Python
-  category: '?'
-  archived: false
-  stars: 431
-  watch: 28
-  updated: '2021-06-04T07:44:50Z'
-  issues: 19
-  forks: 91
-  license: MIT
-  owner: getsling
-  logo: 'https://avatars.githubusercontent.com/u/1301121?v=4'
-  downloads: 0
-  uuid: 090dbf86-6ca3-45bd-9ffa-72c3fea2c555
 - github: 'https://github.com/httptoolkit/openapi-directory-js'
   v3: true
   category: unclassified
@@ -3613,25 +3451,6 @@
   downloads: 1714
   downloadStr: 1.71K
   uuid: 2c5e57ac-9a70-4336-816d-5e6c7a96f3e1
-- github: 'https://github.com/koumoul-dev/soas'
-  v3: true
-  category: parsers
-  name: soas
-  description: Semantic Open API Specification library
-  language: JavaScript
-  archived: false
-  stars: 3
-  watch: 3
-  forks: 0
-  updated: '2021-05-12T11:30:18Z'
-  issues: 5
-  license: MIT
-  owner: koumoul-dev
-  logo: 'https://avatars.githubusercontent.com/u/16051219?v=4'
-  unsure: true
-  downloads: 1016
-  downloadStr: 1.02K
-  uuid: 74eaccd5-7f9e-4a39-b8c8-06267fee518b
 - github: 'https://github.com/koumoul-dev/vue-openapi'
   v3: true
   category: documentation
@@ -4008,6 +3827,44 @@
   unsure: true
   downloads: 0
   uuid: 155d8b71-2941-4b29-be5d-42083e24a4dc
+- name: OpenAPI.NET
+  category: parsers
+  github: 'https://github.com/microsoft/OpenAPI.NET'
+  language: 'C#'
+  description: >-
+    The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in
+    .NET along with common serializers to extract raw OpenAPI JSON and YAML
+    documents from the model.
+  v2: true
+  v3: true
+  archived: false
+  stars: 1088
+  watch: 67
+  forks: 181
+  updated: '2023-02-27T04:54:08Z'
+  issues: 110
+  license: MIT
+  owner: microsoft
+  logo: 'https://avatars.githubusercontent.com/u/6154722?v=4'
+  downloads: 0
+  uuid: 871925ef-ad24-4066-9e53-8824134c5638
+- github: 'https://github.com/microsoft/OpenAPI.NET.OData'
+  v3: true
+  category: parsers
+  name: OpenAPI.NET.OData
+  description: Generates OpenAPI document from OData CSDL
+  language: 'C#'
+  archived: false
+  stars: 170
+  watch: 29
+  forks: 50
+  updated: '2023-02-21T00:42:12Z'
+  issues: 26
+  license: MIT
+  owner: microsoft
+  logo: 'https://avatars.githubusercontent.com/u/6154722?v=4'
+  downloads: 0
+  uuid: a4da997b-9baf-4b81-b804-b34ff37b0681
 - name: rapido-web
   category: editors
   language: JavaScript
@@ -4481,6 +4338,149 @@
   logo: 'https://avatars.githubusercontent.com/u/37167448?v=4'
   downloads: 0
   uuid: c7a77f32-b7ba-4b39-9a32-6c9bfb47e052
+- github: 'https://github.com/openapi-contrib/openapi3-generator'
+  v3: true
+  category: sdk
+  name: openapi3-generator
+  description: >-
+    Use your API OpenAPI 3 definition to generate code, documentation, and
+    literally anything you need.
+  language: JavaScript
+  archived: false
+  stars: 86
+  watch: 3
+  forks: 31
+  updated: '2022-10-21T11:03:37Z'
+  issues: 21
+  license: Apache-2.0
+  owner: openapi-contrib
+  logo: 'https://avatars.githubusercontent.com/u/49447320?v=4'
+  downloads: 29040
+  downloadStr: 29.04K
+  uuid: fbaa1e04-c182-43ed-ac77-f3190b82d7dd
+- name: swagger
+  description: A php library to manipulate swagger specifications
+  github: 'https://github.com/phpowermove/swagger'
+  v2: true
+  language: PHP
+  category: '?'
+  archived: false
+  stars: 16
+  watch: 1
+  updated: '2022-11-06T10:15:04Z'
+  issues: 0
+  forks: 19
+  license: MIT
+  owner: phpowermove
+  logo: 'https://avatars.githubusercontent.com/u/88526205?v=4'
+  downloads: 0
+  uuid: 3ca5521e-d347-441e-8c9f-43b5159b4ac4
+- name: rswag
+  description: Seamlessly adds a Swagger to Rails-based API's
+  github: 'https://github.com/rswag/rswag'
+  v2: true
+  language: Ruby
+  category: '?'
+  archived: false
+  stars: 1601
+  watch: 28
+  updated: '2023-02-27T01:33:37Z'
+  issues: 59
+  forks: 365
+  owner: rswag
+  logo: 'https://avatars.githubusercontent.com/u/55741034?v=4'
+  downloads: 0
+  uuid: 22389945-e121-4e24-8a3b-ce1c3f393ce0
+  license: MIT
+- name: Apimatic Transformer
+  category: converters
+  language: SaaS
+  description: >-
+    Transform API Descriptions to formats to and from RAML, API Blueprint, OAI
+    v2/v3, WSDL, etc.
+  link: 'https://apimatic.io/transformer'
+  logo: >-
+    https://d33wubrfki0l68.cloudfront.net/617a535e398d199762e77419b058166edc64ccb1/55593/static/hero-9435df82ee3ca5059f641c0e0068eda0.svg
+  v2: true
+  v3: true
+  uuid: 7f31ed5d-bbc1-434b-918e-9f2b37253da1
+- link: 'https://bitbucket.org/atlassian/openapi-diff/src/master/'
+  v3: true
+  category: miscellaneous
+  name: openapi-diff
+  description: A CLI tool to identify differences between Swagger/OpenAPI specs.
+  language: JavaScript
+  license: Apache-2.0
+  logo: 'https://avatars1.githubusercontent.com/u/168166?s=200&v=4'
+  demo: 'https://github.com/MikeRalphson/openapi-diff'
+  demoText: Mirror
+  uuid: d1ecf54c-54b2-47d2-9f05-c65382f312a5
+- link: 'https://bitbucket.org/atlassian/swagger-mock-validator/src/master/'
+  name: swagger-mock-validator
+  v3: true
+  category: mock
+  description: A CLI tool to validate mocks against swagger/OpenApi specs.
+  language: TypeScript
+  license: Apache-2.0
+  logo: 'https://avatars1.githubusercontent.com/u/168166?s=200&v=4'
+  uuid: 953cd2c3-e654-4bff-b6d8-02e35cc5e935
+- name: Vert.x Web API Contract
+  category: frameworks
+  description: >-
+    Create an API endpoint with Vert.x 3 and OpenAPI 3 with automatic requests
+    validation
+  link: 'http://vertx.io/docs/#web'
+  language: Various
+  v3: true
+  uuid: 48429f05-1936-4741-a368-1a9e3eccc393
+- link: 'https://bitbucket.org/atlassian/swagger-request-validator/src/master/'
+  v3: true
+  category: parsers
+  name: swagger-request-validator
+  description: >-
+    A Java library for validating request/responses against a OpenAPI / Swagger
+    specification. Includes support for Swagger v2 and OpenAPI v3 specifications
+    and adapters for common mock and testing libraries.
+  language: Java
+  license: Apache-2.0
+  logo: 'https://avatars1.githubusercontent.com/u/168166?s=200&v=4'
+  uuid: 4489030e-e9ce-4dc6-a170-d3afc803b6ca
+- github: 'https://github.com/koumoul-dev/soas'
+  v3: true
+  category: parsers
+  name: soas
+  description: Semantic Open API Specification library
+  language: JavaScript
+  archived: false
+  stars: 3
+  watch: 3
+  forks: 0
+  updated: '2021-05-12T11:30:18Z'
+  issues: 5
+  license: MIT
+  owner: koumoul-dev
+  logo: 'https://avatars.githubusercontent.com/u/16051219?v=4'
+  unsure: true
+  downloads: 1016
+  downloadStr: 1.02K
+  uuid: 74eaccd5-7f9e-4a39-b8c8-06267fee518b
+- github: 'https://github.com/oazapfts/oazapfts'
+  v3: true
+  category: unclassified
+  uuid: 203e1e42-9c9d-4011-a347-973d791f100a
+  name: oazapfts
+  description: Generate TypeScript clients to tap into OpenAPI servers
+  language: TypeScript
+  archived: false
+  stars: 335
+  watch: 7
+  forks: 58
+  updated: '2023-02-26T11:32:24Z'
+  issues: 18
+  owner: oazapfts
+  logo: 'https://avatars.githubusercontent.com/u/119607625?v=4'
+  downloads: 704713
+  downloadStr: 704.71K
 - github: 'https://github.com/openapi-library/OpenAPIValidators'
   v3: true
   category: unclassified
