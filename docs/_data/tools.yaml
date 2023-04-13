@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 950
+  stars: 951
   watch: 21
-  updated: '2023-04-02T09:59:27Z'
+  updated: '2023-04-12T12:26:53Z'
   issues: 76
   forks: 150
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3129
+  stars: 3131
   watch: 105
   forks: 535
-  updated: '2023-04-10T13:08:34Z'
+  updated: '2023-04-12T07:36:23Z'
   issues: 35
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4165
+  stars: 4167
   watch: 824
-  updated: '2023-04-11T23:37:42Z'
+  updated: '2023-04-12T14:32:45Z'
   issues: 73
   forks: 735
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 649
+  stars: 650
   watch: 14
   forks: 118
-  updated: '2023-04-02T08:27:47Z'
+  updated: '2023-04-12T08:30:17Z'
   issues: 38
   license: BSD-3-Clause
   owner: Mermade
@@ -4028,24 +4028,6 @@
   issues: 2
   logo: 'https://avatars.githubusercontent.com/u/5056899?v=4'
   uuid: f2db7fa9-2c71-40cf-a42d-ac9f68471166
-- github: 'https://github.com/rapi-doc/RapiDoc'
-  v3: true
-  category: unclassified
-  name: RapiDoc
-  description: RapiDoc -WebComponent for OpenAPI Spec
-  language: JavaScript
-  archived: false
-  stars: 1272
-  watch: 11
-  forks: 227
-  updated: '2023-04-11T16:44:21Z'
-  issues: 66
-  owner: rapi-doc
-  logo: 'https://avatars.githubusercontent.com/u/104180085?v=4'
-  downloads: 349444
-  downloadStr: 349.44K
-  license: MIT
-  uuid: 054cd178-8482-4eb0-825c-4948675297a0
 - github: 'https://github.com/mrin9/RapiPdf'
   v3: true
   category: unclassified
@@ -4358,6 +4340,24 @@
   downloads: 29040
   downloadStr: 29.04K
   uuid: fbaa1e04-c182-43ed-ac77-f3190b82d7dd
+- github: 'https://github.com/philosowaffle/vs-openapi-designer'
+  v3: true
+  category: parsers
+  name: vs-openapi-designer
+  description: OpenApi Designer Extension for VS Code
+  language: JavaScript
+  archived: false
+  stars: 15
+  watch: 3
+  forks: 1
+  updated: '2020-07-08T10:08:55Z'
+  issues: 12
+  license: GPL-3.0
+  owner: philosowaffle
+  logo: 'https://avatars.githubusercontent.com/u/7275041?v=4'
+  unsure: true
+  downloads: 0
+  uuid: c4aeabcc-febc-412e-9a11-57a9117295ce
 - name: swagger
   description: A php library to manipulate swagger specifications
   github: 'https://github.com/phpowermove/swagger'
@@ -4375,6 +4375,130 @@
   logo: 'https://avatars.githubusercontent.com/u/88526205?v=4'
   downloads: 0
   uuid: 3ca5521e-d347-441e-8c9f-43b5159b4ac4
+- github: 'https://github.com/postmanlabs/openapi-to-postman'
+  v3: true
+  category: unclassified
+  name: openapi-to-postman
+  description: >-
+    Plugin for converting OpenAPI 3.0 specs to the Postman Collection (v2)
+    format
+  language: JavaScript
+  archived: false
+  stars: 392
+  watch: 22
+  forks: 112
+  updated: '2021-06-10T18:17:24Z'
+  issues: 52
+  owner: postmanlabs
+  logo: 'https://avatars.githubusercontent.com/u/10251060?v=4'
+  license: Apache-2.0
+  downloads: 0
+  uuid: 81f1f3ca-2060-4bcc-a223-1b40b15ae880
+- github: 'https://github.com/quantmind/aio-openapi'
+  v3: true
+  category: frameworks
+  name: aio-openapi
+  description: >-
+    A python module for building OpenAPI compliant asynchronous Rest Servers.
+    Auto documentation, serialization and validation in the same unified API.
+  language: Python
+  archived: false
+  stars: 20
+  watch: 9
+  forks: 1
+  updated: '2021-05-24T07:30:08Z'
+  issues: 1
+  license: BSD-3-Clause
+  owner: quantmind
+  logo: 'https://avatars.githubusercontent.com/u/144099?v=4'
+  unsure: true
+  downloads: 0
+  uuid: 046e6194-51bf-4287-a412-e83f735e9541
+- name: swaggydoc
+  description: Swagger Documentation for Grails Controllers Plugin
+  github: 'https://github.com/rahulsom/swaggydoc'
+  v1: true
+  language: Groovy
+  category: '?'
+  archived: true
+  stars: 28
+  watch: 6
+  updated: '2020-02-03T16:07:49Z'
+  issues: 27
+  forks: 24
+  owner: rahulsom
+  logo: 'https://avatars.githubusercontent.com/u/193047?v=4'
+  downloads: 0
+  uuid: e3003f57-dc83-479d-85c3-bace5c705d94
+- name: goa
+  description: Design-based APIs and microservices in Go
+  github: 'https://github.com/raphael/goa'
+  v2: true
+  language: Unknown
+  category: '?'
+  archived: false
+  stars: 3
+  watch: 1
+  updated: '2021-02-22T15:00:46Z'
+  issues: 0
+  forks: 1
+  license: MIT
+  owner: raphael
+  logo: 'https://avatars.githubusercontent.com/u/36822?v=4'
+  downloads: 0
+  uuid: ebd37150-fb81-471a-8f0f-827fde40f068
+- github: 'https://github.com/rapi-doc/RapiDoc'
+  v3: true
+  category: unclassified
+  name: RapiDoc
+  description: RapiDoc -WebComponent for OpenAPI Spec
+  language: JavaScript
+  archived: false
+  stars: 1272
+  watch: 11
+  forks: 227
+  updated: '2023-04-11T16:44:21Z'
+  issues: 66
+  owner: rapi-doc
+  logo: 'https://avatars.githubusercontent.com/u/104180085?v=4'
+  downloads: 349444
+  downloadStr: 349.44K
+  license: MIT
+  uuid: 054cd178-8482-4eb0-825c-4948675297a0
+- github: 'https://github.com/riddhi89/simple-flask-project'
+  v3: true
+  category: parsers
+  name: simple-flask-project
+  description: Generate OpenAPI spec from Flask routes
+  language: Python
+  archived: false
+  stars: 0
+  watch: 0
+  forks: 0
+  updated: '2018-08-06T01:50:06Z'
+  issues: 0
+  owner: riddhi89
+  logo: 'https://avatars.githubusercontent.com/u/4574087?v=4'
+  unsure: true
+  downloads: 0
+  uuid: 05f1a526-af34-44ec-b7b3-f4b275be7458
+- github: 'https://github.com/rithvikvibhu/GHLocalApi'
+  v3: true
+  category: unclassified
+  uuid: 609e6ef9-1f10-4ca9-b86d-d9e499600770
+  name: GHLocalApi
+  description: (Unofficial) Google Home local API documentation.
+  language: sed
+  archived: false
+  stars: 344
+  watch: 27
+  forks: 36
+  updated: '2021-06-03T19:57:50Z'
+  issues: 11
+  owner: rithvikvibhu
+  logo: 'https://avatars.githubusercontent.com/u/5113343?v=4'
+  license: MIT
+  downloads: 0
 - name: rswag
   description: Seamlessly adds a Swagger to Rails-based API's
   github: 'https://github.com/rswag/rswag'
@@ -4531,40 +4655,6 @@
   logo: 'https://avatars.githubusercontent.com/u/1248633?v=4'
   downloads: 0
   uuid: afe75fa7-e7c4-4c1c-ada2-9c9782920ab6
-- github: 'https://github.com/python-openapi/openapi-core'
-  v3: true
-  category: unclassified
-  name: openapi-core
-  description: OpenAPI core
-  language: Python
-  archived: false
-  stars: 204
-  watch: 9
-  forks: 110
-  updated: '2023-04-06T09:26:45Z'
-  issues: 68
-  owner: python-openapi
-  logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
-  license: BSD-3-Clause
-  downloads: 0
-  uuid: bc8b8b02-6938-4b22-85a4-17437d8b3eb6
-- name: openapi-spec-validator
-  category: parsers
-  github: 'https://github.com/python-openapi/openapi-spec-validator'
-  language: Python
-  description: OpenAPI Spec validator
-  v3: true
-  archived: false
-  stars: 250
-  watch: 8
-  forks: 57
-  updated: '2023-03-11T13:14:18Z'
-  issues: 42
-  license: Apache-2.0
-  owner: python-openapi
-  logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
-  downloads: 0
-  uuid: 3b7f7a3c-d4c3-4f51-a9a6-e2e1ee68a13e
 - github: 'https://github.com/pace/bricks'
   v3: true
   category: unclassified
@@ -4616,24 +4706,6 @@
   downloads: 0
   uuid: a66d3bf2-75c1-4824-8495-a5e9f64dd6c2
   license: MIT
-- github: 'https://github.com/philosowaffle/vs-openapi-designer'
-  v3: true
-  category: parsers
-  name: vs-openapi-designer
-  description: OpenApi Designer Extension for VS Code
-  language: JavaScript
-  archived: false
-  stars: 15
-  watch: 3
-  forks: 1
-  updated: '2020-07-08T10:08:55Z'
-  issues: 12
-  license: GPL-3.0
-  owner: philosowaffle
-  logo: 'https://avatars.githubusercontent.com/u/7275041?v=4'
-  unsure: true
-  downloads: 0
-  uuid: c4aeabcc-febc-412e-9a11-57a9117295ce
 - name: falsy
   description: >-
     FAL.S.Y python api framework(the framework for using falcon, swagger, yaml
@@ -4689,25 +4761,6 @@
   license: BSD-3-Clause
   downloads: 0
   uuid: c6b96ce5-667a-420b-8018-6bd7ff2925b5
-- github: 'https://github.com/postmanlabs/openapi-to-postman'
-  v3: true
-  category: unclassified
-  name: openapi-to-postman
-  description: >-
-    Plugin for converting OpenAPI 3.0 specs to the Postman Collection (v2)
-    format
-  language: JavaScript
-  archived: false
-  stars: 392
-  watch: 22
-  forks: 112
-  updated: '2021-06-10T18:17:24Z'
-  issues: 52
-  owner: postmanlabs
-  logo: 'https://avatars.githubusercontent.com/u/10251060?v=4'
-  license: Apache-2.0
-  downloads: 0
-  uuid: 81f1f3ca-2060-4bcc-a223-1b40b15ae880
 - name: pyswagger
   description: >-
     An OpenAPI (fka Swagger) client & converter in python, which is type-safe,
@@ -4727,26 +4780,40 @@
   logo: 'https://avatars.githubusercontent.com/u/35984678?v=4'
   downloads: 0
   uuid: 6c2b3d71-8ed8-40b6-bed1-bece446df752
-- github: 'https://github.com/quantmind/aio-openapi'
+- github: 'https://github.com/python-openapi/openapi-core'
   v3: true
-  category: frameworks
-  name: aio-openapi
-  description: >-
-    A python module for building OpenAPI compliant asynchronous Rest Servers.
-    Auto documentation, serialization and validation in the same unified API.
+  category: unclassified
+  name: openapi-core
+  description: OpenAPI core
   language: Python
   archived: false
-  stars: 20
+  stars: 204
   watch: 9
-  forks: 1
-  updated: '2021-05-24T07:30:08Z'
-  issues: 1
+  forks: 110
+  updated: '2023-04-06T09:26:45Z'
+  issues: 68
+  owner: python-openapi
+  logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
   license: BSD-3-Clause
-  owner: quantmind
-  logo: 'https://avatars.githubusercontent.com/u/144099?v=4'
-  unsure: true
   downloads: 0
-  uuid: 046e6194-51bf-4287-a412-e83f735e9541
+  uuid: bc8b8b02-6938-4b22-85a4-17437d8b3eb6
+- name: openapi-spec-validator
+  category: parsers
+  github: 'https://github.com/python-openapi/openapi-spec-validator'
+  language: Python
+  description: OpenAPI Spec validator
+  v3: true
+  archived: false
+  stars: 250
+  watch: 8
+  forks: 57
+  updated: '2023-03-11T13:14:18Z'
+  issues: 42
+  license: Apache-2.0
+  owner: python-openapi
+  logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
+  downloads: 0
+  uuid: 3b7f7a3c-d4c3-4f51-a9a6-e2e1ee68a13e
 - github: 'https://github.com/rafaelcaricio/sticker'
   v3: true
   category: frameworks
@@ -4766,22 +4833,6 @@
   logo: 'https://avatars.githubusercontent.com/u/107613?v=4'
   downloads: 0
   uuid: 0494dc20-1c6a-4314-a368-70e8ec5323eb
-- name: swaggydoc
-  description: Swagger Documentation for Grails Controllers Plugin
-  github: 'https://github.com/rahulsom/swaggydoc'
-  v1: true
-  language: Groovy
-  category: '?'
-  archived: true
-  stars: 28
-  watch: 6
-  updated: '2020-02-03T16:07:49Z'
-  issues: 27
-  forks: 24
-  owner: rahulsom
-  logo: 'https://avatars.githubusercontent.com/u/193047?v=4'
-  downloads: 0
-  uuid: e3003f57-dc83-479d-85c3-bace5c705d94
 - name: flask-restful-swagger
   description: A Swagger spec extractor for flask-restful
   github: 'https://github.com/rantav/flask-restful-swagger'
@@ -4799,23 +4850,6 @@
   logo: 'https://avatars.githubusercontent.com/u/87037?v=4'
   downloads: 0
   uuid: 39d8c7ae-3e88-42a3-9d97-a00e1febc989
-- name: goa
-  description: Design-based APIs and microservices in Go
-  github: 'https://github.com/raphael/goa'
-  v2: true
-  language: Unknown
-  category: '?'
-  archived: false
-  stars: 3
-  watch: 1
-  updated: '2021-02-22T15:00:46Z'
-  issues: 0
-  forks: 1
-  license: MIT
-  owner: raphael
-  logo: 'https://avatars.githubusercontent.com/u/36822?v=4'
-  downloads: 0
-  uuid: ebd37150-fb81-471a-8f0f-827fde40f068
 - name: swagger-docs
   description: Generates swagger-ui json files for Rails APIs with a simple DSL.
   github: 'https://github.com/richhollis/swagger-docs'
@@ -4833,23 +4867,6 @@
   logo: 'https://avatars.githubusercontent.com/u/1422665?v=4'
   downloads: 0
   uuid: 554b74b4-512c-402e-9f00-392a96b57237
-- github: 'https://github.com/riddhi89/simple-flask-project'
-  v3: true
-  category: parsers
-  name: simple-flask-project
-  description: Generate OpenAPI spec from Flask routes
-  language: Python
-  archived: false
-  stars: 0
-  watch: 0
-  forks: 0
-  updated: '2018-08-06T01:50:06Z'
-  issues: 0
-  owner: riddhi89
-  logo: 'https://avatars.githubusercontent.com/u/4574087?v=4'
-  unsure: true
-  downloads: 0
-  uuid: 05f1a526-af34-44ec-b7b3-f4b275be7458
 - github: 'https://github.com/rinold/Steamer'
   v3: true
   category: parsers
@@ -4868,23 +4885,6 @@
   unsure: true
   downloads: 0
   uuid: 2f539ef7-de02-4e3f-9fc6-997a154b01f3
-- github: 'https://github.com/rithvikvibhu/GHLocalApi'
-  v3: true
-  category: unclassified
-  uuid: 609e6ef9-1f10-4ca9-b86d-d9e499600770
-  name: GHLocalApi
-  description: (Unofficial) Google Home local API documentation.
-  language: sed
-  archived: false
-  stars: 344
-  watch: 27
-  forks: 36
-  updated: '2021-06-03T19:57:50Z'
-  issues: 11
-  owner: rithvikvibhu
-  logo: 'https://avatars.githubusercontent.com/u/5113343?v=4'
-  license: MIT
-  downloads: 0
 - name: grape-swagger
   description: Add OAPI/swagger v2.0 compliant documentation to your grape API
   github: 'https://github.com/ruby-grape/grape-swagger'
@@ -5263,6 +5263,25 @@
   logo: 'https://avatars.githubusercontent.com/u/7104704?v=4'
   downloads: 0
   uuid: d6936a55-9ca9-4a06-b86d-087ac2fac978
+- name: connexion
+  description: >-
+    Swagger/OpenAPI First framework for Python on top of Flask with automatic
+    endpoint validation & OAuth2 support
+  github: 'https://github.com/spec-first/connexion'
+  v2: true
+  language: Python
+  category: '?'
+  archived: false
+  stars: 4227
+  watch: 87
+  updated: '2023-04-11T15:17:59Z'
+  issues: 98
+  forks: 728
+  license: ''
+  owner: spec-first
+  logo: 'https://avatars.githubusercontent.com/u/58754196?v=4'
+  downloads: 0
+  uuid: 8151ae51-8947-4525-8480-82fccc4afe59
 - github: 'https://github.com/sphinx-contrib/openapi'
   v3: true
   category: unclassified
@@ -6509,25 +6528,6 @@
   logo: 'https://avatars.githubusercontent.com/u/11431876?v=4'
   downloads: 0
   uuid: 17fee895-fec6-4e62-8e7f-49fd5412610b
-- name: connexion
-  description: >-
-    Swagger/OpenAPI First framework for Python on top of Flask with automatic
-    endpoint validation & OAuth2 support
-  github: 'https://github.com/spec-first/connexion'
-  v2: true
-  language: Python
-  category: '?'
-  archived: false
-  stars: 4227
-  watch: 87
-  updated: '2023-04-11T15:17:59Z'
-  issues: 98
-  forks: 728
-  license: ''
-  owner: spec-first
-  logo: 'https://avatars.githubusercontent.com/u/58754196?v=4'
-  downloads: 0
-  uuid: 8151ae51-8947-4525-8480-82fccc4afe59
 - name: friboo
   description: >-
     Utility library for writing microservices in Clojure, with support for
