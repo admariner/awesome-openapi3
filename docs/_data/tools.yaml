@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: false
-  stars: 484
+  stars: 485
   watch: 14
   forks: 63
-  updated: '2023-04-21T07:02:06Z'
+  updated: '2023-04-26T13:27:46Z'
   issues: 49
   license: MIT
   owner: APIDevTools
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 848
+  stars: 849
   watch: 40
   forks: 433
-  updated: '2023-04-11T01:22:00Z'
-  issues: 325
+  updated: '2023-04-26T02:36:46Z'
+  issues: 327
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4180
+  stars: 4181
   watch: 823
-  updated: '2023-04-25T23:26:10Z'
-  issues: 75
+  updated: '2023-04-26T12:32:50Z'
+  issues: 76
   forks: 734
   license: MIT
   owner: Azure
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 191
+  stars: 192
   watch: 4
   forks: 25
-  updated: '2023-04-25T15:39:29Z'
+  updated: '2023-04-26T10:34:39Z'
   issues: 25
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 996
+  stars: 997
   watch: 21
-  updated: '2023-04-24T20:46:37Z'
+  updated: '2023-04-26T15:01:27Z'
   issues: 95
   forks: 159
   license: MIT
