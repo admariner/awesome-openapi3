@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 249
+  stars: 250
   watch: 10
   forks: 40
-  updated: '2023-04-19T21:15:45Z'
+  updated: '2023-04-25T23:18:46Z'
   issues: 45
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -292,7 +292,7 @@
   watch: 35
   forks: 51
   updated: '2023-04-24T12:12:25Z'
-  issues: 3
+  issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3154
+  stars: 3157
   watch: 105
   forks: 538
-  updated: '2023-04-24T11:58:40Z'
+  updated: '2023-04-25T22:26:07Z'
   issues: 34
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 40
   forks: 433
   updated: '2023-04-11T01:22:00Z'
-  issues: 326
+  issues: 325
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4179
+  stars: 4180
   watch: 823
-  updated: '2023-04-24T21:58:50Z'
+  updated: '2023-04-25T23:26:10Z'
   issues: 75
-  forks: 735
+  forks: 734
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 190
+  stars: 191
   watch: 4
   forks: 25
-  updated: '2023-03-31T21:48:28Z'
+  updated: '2023-04-25T15:39:29Z'
   issues: 25
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -634,7 +634,7 @@
   stars: 996
   watch: 21
   updated: '2023-04-24T20:46:37Z'
-  issues: 94
+  issues: 95
   forks: 159
   license: MIT
   owner: LucyBot-Inc
@@ -692,7 +692,7 @@
   watch: 14
   forks: 118
   updated: '2023-04-19T07:43:18Z'
-  issues: 38
+  issues: 39
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
@@ -749,7 +749,7 @@
   watch: 4
   forks: 28
   updated: '2023-04-18T02:16:08Z'
-  issues: 6
+  issues: 7
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
