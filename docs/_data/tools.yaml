@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 251
+  stars: 252
   watch: 10
   forks: 40
-  updated: '2023-04-28T14:33:39Z'
+  updated: '2023-05-04T17:50:57Z'
   issues: 46
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -238,7 +238,7 @@
   watch: 14
   forks: 63
   updated: '2023-05-03T06:54:51Z'
-  issues: 50
+  issues: 51
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 958
+  stars: 959
   watch: 21
-  updated: '2023-04-28T12:11:38Z'
+  updated: '2023-05-04T10:22:19Z'
   issues: 76
   forks: 149
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3169
+  stars: 3170
   watch: 105
   forks: 538
-  updated: '2023-05-03T16:34:07Z'
-  issues: 37
+  updated: '2023-05-04T10:25:26Z'
+  issues: 34
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,9 +345,9 @@
   archived: false
   stars: 850
   watch: 40
-  forks: 434
+  forks: 435
   updated: '2023-04-27T22:36:45Z'
-  issues: 325
+  issues: 326
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4191
-  watch: 823
-  updated: '2023-05-02T11:00:09Z'
+  stars: 4193
+  watch: 822
+  updated: '2023-05-04T14:09:41Z'
   issues: 74
   forks: 736
   license: MIT
@@ -540,11 +540,11 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 91
+  stars: 92
   watch: 5
-  forks: 59
-  updated: '2023-05-03T07:06:47Z'
-  issues: 27
+  forks: 60
+  updated: '2023-05-04T04:24:32Z'
+  issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 656
+  stars: 657
   watch: 14
   forks: 118
-  updated: '2023-04-28T08:58:19Z'
+  updated: '2023-05-04T01:03:35Z'
   issues: 39
   license: BSD-3-Clause
   owner: Mermade
@@ -705,10 +705,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 284
+  stars: 285
   watch: 11
   forks: 46
-  updated: '2023-04-29T19:05:46Z'
+  updated: '2023-05-04T09:30:13Z'
   issues: 25
   license: Apache-2.0
   owner: Mermade
