@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 252
+  stars: 253
   watch: 10
   forks: 40
-  updated: '2023-05-04T17:50:57Z'
+  updated: '2023-05-07T23:29:37Z'
   issues: 46
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: false
-  stars: 489
+  stars: 490
   watch: 14
   forks: 63
-  updated: '2023-05-03T06:54:51Z'
+  updated: '2023-05-08T09:26:19Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 958
+  stars: 959
   watch: 21
-  updated: '2023-05-05T05:51:41Z'
+  updated: '2023-05-08T09:29:08Z'
   issues: 76
   forks: 149
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 566
+  stars: 567
   watch: 35
   forks: 51
-  updated: '2023-05-03T08:16:50Z'
+  updated: '2023-05-08T03:45:13Z'
   issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3173
+  stars: 3177
   watch: 105
   forks: 538
-  updated: '2023-05-05T20:53:14Z'
+  updated: '2023-05-08T15:37:51Z'
   issues: 34
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 850
+  stars: 851
   watch: 40
   forks: 435
-  updated: '2023-05-05T07:57:56Z'
-  issues: 326
+  updated: '2023-05-08T15:11:55Z'
+  issues: 331
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4192
+  stars: 4208
   watch: 822
-  updated: '2023-05-05T19:05:19Z'
+  updated: '2023-05-08T23:16:48Z'
   issues: 74
-  forks: 736
+  forks: 735
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 92
+  stars: 93
   watch: 5
   forks: 60
-  updated: '2023-05-04T04:24:32Z'
+  updated: '2023-05-07T17:08:08Z'
   issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -579,7 +579,7 @@
   watch: 5
   forks: 6
   updated: '2023-04-09T08:05:19Z'
-  issues: 3
+  issues: 4
   license: Apache-2.0
   owner: GeniusesGroup
   logo: 'https://avatars.githubusercontent.com/u/16743416?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 997
+  stars: 998
   watch: 21
-  updated: '2023-05-05T08:35:17Z'
+  updated: '2023-05-06T07:46:58Z'
   issues: 95
   forks: 159
   license: MIT
@@ -690,7 +690,7 @@
   archived: false
   stars: 657
   watch: 14
-  forks: 118
+  forks: 119
   updated: '2023-05-04T01:03:35Z'
   issues: 39
   license: BSD-3-Clause
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 119
+  stars: 120
   watch: 4
   forks: 28
-  updated: '2023-04-18T02:16:08Z'
+  updated: '2023-05-07T12:57:07Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
@@ -6282,9 +6282,9 @@
   language: CoffeeScript
   category: '?'
   archived: false
-  stars: 47
+  stars: 46
   watch: 12
-  updated: '2019-08-29T22:14:05Z'
+  updated: '2021-06-13T03:54:21Z'
   issues: 9
   forks: 16
   license: MIT
@@ -6321,11 +6321,11 @@
     annotations
   language: Go
   archived: false
-  stars: 38
-  watch: 5
-  forks: 3
-  updated: '2021-06-09T03:02:47Z'
-  issues: 1
+  stars: 50
+  watch: 6
+  forks: 6
+  updated: '2023-02-25T15:24:42Z'
+  issues: 0
   license: MIT
   owner: wzshiming
   logo: 'https://avatars.githubusercontent.com/u/6565744?v=4'
@@ -6356,11 +6356,11 @@
   language: Elixir
   category: '?'
   archived: false
-  stars: 547
-  watch: 16
-  updated: '2021-06-05T14:55:49Z'
-  issues: 31
-  forks: 148
+  stars: 634
+  watch: 17
+  updated: '2023-04-29T15:03:46Z'
+  issues: 38
+  forks: 174
   license: MPL-2.0
   owner: xerions
   logo: 'https://avatars.githubusercontent.com/u/11320029?v=4'
@@ -6441,11 +6441,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 778
-  watch: 33
-  updated: '2021-06-09T18:21:26Z'
+  stars: 785
+  watch: 34
+  updated: '2023-04-04T19:37:52Z'
   issues: 37
-  forks: 134
+  forks: 132
   license: BSD-3-Clause
   owner: yvasiyarov
   logo: 'https://avatars.githubusercontent.com/u/889406?v=4'
@@ -6536,12 +6536,12 @@
   v2: true
   language: Clojure
   category: '?'
-  archived: false
-  stars: 116
+  archived: true
+  stars: 119
   watch: 17
-  updated: '2020-08-26T22:24:22Z'
+  updated: '2023-03-28T23:45:09Z'
   issues: 25
-  forks: 14
+  forks: 15
   license: Apache-2.0
   owner: zalando
   logo: 'https://avatars.githubusercontent.com/u/1564818?v=4'
