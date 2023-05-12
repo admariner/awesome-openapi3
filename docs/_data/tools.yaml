@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 254
+  stars: 255
   watch: 10
   forks: 40
-  updated: '2023-05-10T07:42:36Z'
+  updated: '2023-05-11T21:13:05Z'
   issues: 47
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 960
+  stars: 961
   watch: 21
-  updated: '2023-05-09T04:44:58Z'
+  updated: '2023-05-11T09:11:57Z'
   issues: 76
   forks: 149
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3181
+  stars: 3185
   watch: 105
-  forks: 537
-  updated: '2023-05-10T18:08:48Z'
+  forks: 538
+  updated: '2023-05-11T22:17:38Z'
   issues: 35
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 852
+  stars: 853
   watch: 40
   forks: 435
-  updated: '2023-05-10T11:57:07Z'
+  updated: '2023-05-11T19:54:06Z'
   issues: 333
   license: Apache-2.0
   owner: Apicurio
@@ -384,9 +384,9 @@
   archived: false
   stars: 4216
   watch: 822
-  updated: '2023-05-10T23:37:55Z'
+  updated: '2023-05-11T23:45:32Z'
   issues: 73
-  forks: 736
+  forks: 738
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 172
+  stars: 173
   watch: 18
   forks: 46
-  updated: '2023-04-24T21:13:40Z'
+  updated: '2023-05-11T14:01:49Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 121
+  stars: 122
   watch: 4
   forks: 28
-  updated: '2023-05-10T09:30:18Z'
+  updated: '2023-05-11T06:36:28Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
