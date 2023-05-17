@@ -325,7 +325,7 @@
   stars: 3195
   watch: 106
   forks: 538
-  updated: '2023-05-16T11:10:18Z'
+  updated: '2023-05-17T23:49:21Z'
   issues: 28
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -635,7 +635,7 @@
   watch: 21
   updated: '2023-05-15T12:19:24Z'
   issues: 96
-  forks: 159
+  forks: 160
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -724,10 +724,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 15
+  stars: 17
   watch: 3
   forks: 1
-  updated: '2023-05-16T18:43:33Z'
+  updated: '2023-05-17T15:55:25Z'
   issues: 3
   license: BSD-3-Clause
   owner: Mermade
