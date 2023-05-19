@@ -219,7 +219,7 @@
   archived: false
   stars: 256
   watch: 10
-  forks: 40
+  forks: 41
   updated: '2023-05-14T11:59:26Z'
   issues: 47
   owner: 42Crunch
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3196
-  watch: 106
+  stars: 3198
+  watch: 105
   forks: 539
-  updated: '2023-05-18T20:01:21Z'
+  updated: '2023-05-19T22:17:00Z'
   issues: 28
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -344,7 +344,7 @@
   v3: true
   archived: false
   stars: 856
-  watch: 40
+  watch: 41
   forks: 435
   updated: '2023-05-16T15:33:26Z'
   issues: 328
@@ -363,7 +363,7 @@
   v3: true
   archived: true
   stars: 47
-  watch: 4
+  watch: 5
   forks: 9
   updated: '2023-01-28T18:04:21Z'
   issues: 0
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4221
+  stars: 4222
   watch: 822
-  updated: '2023-05-16T22:50:12Z'
-  issues: 73
-  forks: 738
+  updated: '2023-05-19T13:25:24Z'
+  issues: 74
+  forks: 739
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -440,7 +440,7 @@
   watch: 38
   updated: '2022-12-21T00:24:00Z'
   issues: 29
-  forks: 24
+  forks: 25
   license: MIT
   owner: BlueOakJS
   logo: 'https://avatars.githubusercontent.com/u/17052968?v=4'
