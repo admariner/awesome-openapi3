@@ -345,9 +345,9 @@
   archived: false
   stars: 856
   watch: 41
-  forks: 436
+  forks: 437
   updated: '2023-05-16T15:33:26Z'
-  issues: 331
+  issues: 324
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4225
+  stars: 4226
   watch: 822
-  updated: '2023-05-24T18:29:22Z'
-  issues: 74
-  forks: 739
+  updated: '2023-05-25T14:54:00Z'
+  issues: 76
+  forks: 738
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 93
+  stars: 94
   watch: 5
   forks: 60
-  updated: '2023-05-07T17:08:08Z'
+  updated: '2023-05-25T22:13:32Z'
   issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -692,7 +692,7 @@
   watch: 14
   forks: 121
   updated: '2023-05-13T20:10:24Z'
-  issues: 39
+  issues: 40
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
