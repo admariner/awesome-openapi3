@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 573
+  stars: 572
   watch: 23
-  updated: '2023-05-23T22:27:49Z'
+  updated: '2023-05-30T18:01:15Z'
   issues: 101
   forks: 206
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3204
+  stars: 3205
   watch: 105
   forks: 540
-  updated: '2023-05-29T21:38:26Z'
-  issues: 29
+  updated: '2023-05-30T19:43:12Z'
+  issues: 30
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -385,7 +385,7 @@
   stars: 4229
   watch: 822
   updated: '2023-05-27T10:44:47Z'
-  issues: 73
+  issues: 74
   forks: 738
   license: MIT
   owner: Azure
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 194
+  stars: 193
   watch: 5
   forks: 25
-  updated: '2023-05-23T23:51:58Z'
+  updated: '2023-05-30T23:40:43Z'
   issues: 25
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -475,7 +475,7 @@
   stars: 173
   watch: 18
   forks: 46
-  updated: '2023-05-29T12:19:19Z'
+  updated: '2023-05-30T05:45:37Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -542,7 +542,7 @@
   archived: false
   stars: 96
   watch: 5
-  forks: 60
+  forks: 61
   updated: '2023-05-28T21:45:34Z'
   issues: 28
   owner: ErikWittern
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 162
+  stars: 163
   watch: 4
   forks: 16
-  updated: '2023-05-29T06:36:23Z'
+  updated: '2023-05-30T13:28:37Z'
   issues: 4
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1005
+  stars: 1006
   watch: 21
-  updated: '2023-05-26T07:52:05Z'
+  updated: '2023-05-30T11:53:33Z'
   issues: 96
   forks: 161
   license: MIT
