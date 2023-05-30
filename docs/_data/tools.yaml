@@ -220,7 +220,7 @@
   stars: 256
   watch: 10
   forks: 41
-  updated: '2023-05-14T11:59:26Z'
+  updated: '2023-05-29T07:27:45Z'
   issues: 48
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 964
+  stars: 966
   watch: 21
-  updated: '2023-05-23T22:58:32Z'
+  updated: '2023-05-28T16:36:47Z'
   issues: 76
   forks: 149
   license: MIT
@@ -305,10 +305,10 @@
   description: Amazon Web Services API description to OpenAPI 3.0 definition
   language: JavaScript
   archived: false
-  stars: 47
+  stars: 48
   watch: 6
-  forks: 7
-  updated: '2023-04-13T01:03:30Z'
+  forks: 8
+  updated: '2023-05-29T11:13:40Z'
   issues: 12
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3202
+  stars: 3204
   watch: 105
   forks: 540
-  updated: '2023-05-26T23:33:11Z'
+  updated: '2023-05-29T21:38:26Z'
   issues: 29
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 40
   forks: 437
   updated: '2023-05-16T15:33:26Z'
-  issues: 324
+  issues: 325
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4227
+  stars: 4229
   watch: 822
-  updated: '2023-05-26T02:37:30Z'
+  updated: '2023-05-27T10:44:47Z'
   issues: 73
   forks: 738
   license: MIT
@@ -472,11 +472,11 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 172
+  stars: 173
   watch: 18
   forks: 46
-  updated: '2023-05-15T16:39:04Z'
-  issues: 4
+  updated: '2023-05-29T12:19:19Z'
+  issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
   license: MIT
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 95
+  stars: 96
   watch: 5
   forks: 60
-  updated: '2023-05-26T14:21:32Z'
+  updated: '2023-05-28T21:45:34Z'
   issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 29
+  stars: 32
   watch: 5
   forks: 6
-  updated: '2023-05-20T16:40:50Z'
+  updated: '2023-05-29T15:40:49Z'
   issues: 5
   license: Apache-2.0
   owner: GeniusesGroup
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 161
+  stars: 162
   watch: 4
   forks: 16
-  updated: '2023-05-20T04:23:59Z'
+  updated: '2023-05-29T06:36:23Z'
   issues: 4
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -706,7 +706,7 @@
   language: JavaScript
   archived: false
   stars: 286
-  watch: 11
+  watch: 12
   forks: 46
   updated: '2023-05-09T04:45:05Z'
   issues: 25
@@ -725,7 +725,7 @@
   v3: true
   archived: false
   stars: 17
-  watch: 3
+  watch: 4
   forks: 1
   updated: '2023-05-17T15:55:25Z'
   issues: 3
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 122
-  watch: 4
+  stars: 123
+  watch: 5
   forks: 28
-  updated: '2023-05-11T06:36:28Z'
+  updated: '2023-05-28T21:45:48Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
