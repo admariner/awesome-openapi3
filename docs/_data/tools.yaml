@@ -236,7 +236,7 @@
   archived: false
   stars: 498
   watch: 14
-  forks: 63
+  forks: 64
   updated: '2023-05-26T10:04:46Z'
   issues: 51
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3206
+  stars: 3211
   watch: 105
   forks: 540
-  updated: '2023-05-31T22:30:08Z'
-  issues: 31
+  updated: '2023-06-01T20:29:41Z'
+  issues: 32
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 40
   forks: 437
   updated: '2023-05-16T15:33:26Z'
-  issues: 326
+  issues: 324
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4231
+  stars: 4232
   watch: 822
-  updated: '2023-05-31T10:10:09Z'
+  updated: '2023-06-01T17:32:15Z'
   issues: 74
   forks: 738
   license: MIT
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 163
+  stars: 164
   watch: 4
   forks: 16
-  updated: '2023-05-30T13:28:37Z'
+  updated: '2023-06-01T06:53:43Z'
   issues: 4
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -635,7 +635,7 @@
   watch: 21
   updated: '2023-05-30T11:53:33Z'
   issues: 96
-  forks: 161
+  forks: 162
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -705,10 +705,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 286
+  stars: 287
   watch: 12
   forks: 46
-  updated: '2023-05-09T04:45:05Z'
+  updated: '2023-06-01T08:50:44Z'
   issues: 25
   license: Apache-2.0
   owner: Mermade
@@ -4181,10 +4181,10 @@
   language: Java
   archived: false
   stars: 37
-  watch: 27
+  watch: 25
   forks: 22
   updated: '2022-12-14T22:42:02Z'
-  issues: 29
+  issues: 27
   owner: networknt
   logo: 'https://avatars.githubusercontent.com/u/8740739?v=4'
   license: Apache-2.0
@@ -4256,11 +4256,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 2682
-  watch: 109
-  updated: '2023-04-09T14:20:00Z'
+  stars: 2690
+  watch: 110
+  updated: '2023-05-31T18:36:03Z'
   issues: 375
-  forks: 504
+  forks: 505
   license: ''
   owner: noirbizarre
   logo: 'https://avatars.githubusercontent.com/u/15725?v=4'
@@ -4273,11 +4273,11 @@
   language: Ruby
   category: '?'
   archived: false
-  stars: 46
+  stars: 47
   watch: 55
-  updated: '2022-06-30T15:23:45Z'
-  issues: 15
-  forks: 14
+  updated: '2023-05-22T12:43:33Z'
+  issues: 16
+  forks: 16
   license: MIT
   owner: notonthehighstreet
   logo: 'https://avatars.githubusercontent.com/u/6568?v=4'
@@ -4310,11 +4310,11 @@
   language: C++
   category: '?'
   archived: false
-  stars: 63
-  watch: 7
-  updated: '2023-03-25T02:57:33Z'
-  issues: 20
-  forks: 40
+  stars: 68
+  watch: 8
+  updated: '2023-05-29T00:51:51Z'
+  issues: 22
+  forks: 42
   license: Apache-2.0
   owner: oatpp
   logo: 'https://avatars.githubusercontent.com/u/37167448?v=4'
@@ -4472,10 +4472,10 @@
   description: Generate OpenAPI spec from Flask routes
   language: Python
   archived: false
-  stars: 0
-  watch: 0
+  stars: 2
+  watch: 1
   forks: 0
-  updated: '2018-08-06T01:50:06Z'
+  updated: '2023-06-01T03:35:54Z'
   issues: 0
   owner: riddhi89
   logo: 'https://avatars.githubusercontent.com/u/4574087?v=4'
@@ -4506,11 +4506,11 @@
   language: Ruby
   category: '?'
   archived: false
-  stars: 1636
-  watch: 27
-  updated: '2023-04-09T09:24:03Z'
-  issues: 68
-  forks: 372
+  stars: 1683
+  watch: 28
+  updated: '2023-06-01T09:22:26Z'
+  issues: 71
+  forks: 380
   owner: rswag
   logo: 'https://avatars.githubusercontent.com/u/55741034?v=4'
   downloads: 0
@@ -4613,11 +4613,11 @@
   description: Use Jest or Chai to assert that HTTP responses satisfy an OpenAPI spec
   language: TypeScript
   archived: false
-  stars: 172
+  stars: 174
   watch: 11
   forks: 34
-  updated: '2023-03-22T16:45:32Z'
-  issues: 42
+  updated: '2023-05-24T11:45:13Z'
+  issues: 41
   owner: openapi-library
   logo: 'https://avatars.githubusercontent.com/u/53815441?v=4'
   license: MIT
@@ -4662,11 +4662,11 @@
   description: A standard library for microservices.
   language: Go
   archived: false
-  stars: 147
-  watch: 7
-  forks: 11
-  updated: '2021-06-02T12:57:13Z'
-  issues: 49
+  stars: 161
+  watch: 9
+  forks: 18
+  updated: '2023-03-06T18:19:42Z'
+  issues: 22
   owner: pace
   logo: 'https://avatars.githubusercontent.com/u/16001479?v=4'
   license: MIT
@@ -4683,7 +4683,7 @@
   watch: 3
   updated: '2021-04-12T14:49:15Z'
   issues: 10
-  forks: 3
+  forks: 7
   owner: penx
   logo: 'https://avatars.githubusercontent.com/u/1027024?v=4'
   downloads: 1110
@@ -4787,11 +4787,11 @@
   description: OpenAPI core
   language: Python
   archived: false
-  stars: 204
-  watch: 9
-  forks: 110
-  updated: '2023-04-06T09:26:45Z'
-  issues: 68
+  stars: 210
+  watch: 10
+  forks: 114
+  updated: '2023-05-29T17:49:01Z'
+  issues: 74
   owner: python-openapi
   logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
   license: BSD-3-Clause
@@ -4822,11 +4822,11 @@
     Sticker is a powerful yet boilerplate-free alternative to writing your web
     API.
   language: Python
-  archived: false
+  archived: true
   stars: 26
   watch: 3
   forks: 1
-  updated: '2021-05-26T15:35:54Z'
+  updated: '2023-01-27T23:43:25Z'
   issues: 8
   license: Apache-2.0
   owner: rafaelcaricio
@@ -4840,11 +4840,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 636
+  stars: 664
   watch: 30
-  updated: '2021-05-31T03:55:08Z'
+  updated: '2023-05-29T17:47:45Z'
   issues: 51
-  forks: 209
+  forks: 220
   license: MIT
   owner: rantav
   logo: 'https://avatars.githubusercontent.com/u/87037?v=4'
@@ -4857,11 +4857,11 @@
   language: Ruby
   category: '?'
   archived: false
-  stars: 738
+  stars: 746
   watch: 13
-  updated: '2021-05-09T14:00:44Z'
-  issues: 39
-  forks: 152
+  updated: '2023-04-07T20:53:02Z'
+  issues: 36
+  forks: 153
   license: MIT
   owner: richhollis
   logo: 'https://avatars.githubusercontent.com/u/1422665?v=4'
@@ -4877,7 +4877,7 @@
   stars: 7
   watch: 2
   forks: 0
-  updated: '2020-02-09T14:36:43Z'
+  updated: '2022-03-22T06:55:36Z'
   issues: 0
   license: MIT
   owner: rinold
@@ -4909,11 +4909,11 @@
   language: Java
   category: '?'
   archived: true
-  stars: 89
+  stars: 87
   watch: 20
-  updated: '2020-12-30T09:58:26Z'
+  updated: '2023-01-28T21:31:15Z'
   issues: 33
-  forks: 138
+  forks: 136
   license: Apache-2.0
   owner: ryankennedy
   logo: 'https://avatars.githubusercontent.com/u/37302?v=4'
@@ -4926,11 +4926,11 @@
   description: 'Demo code from '
   language: Java
   archived: false
-  stars: 47
+  stars: 52
   watch: 2
-  forks: 63
-  updated: '2021-03-31T03:22:31Z'
-  issues: 19
+  forks: 66
+  updated: '2022-09-03T01:26:53Z'
+  issues: 46
   owner: sanjayvacharya
   logo: 'https://avatars.githubusercontent.com/u/605398?v=4'
   downloads: 0
@@ -4940,15 +4940,15 @@
   category: unclassified
   name: schemathesis
   description: >-
-    A modern API testing tool for web applications built with Open API and
-    GraphQL specifications.
+    Guarantee flawless API functionality with thorough, high-quality test
+    scenarios generated from your API specification.
   language: Python
   archived: false
-  stars: 879
-  watch: 15
-  forks: 67
-  updated: '2021-06-10T21:17:26Z'
-  issues: 85
+  stars: 1712
+  watch: 19
+  forks: 130
+  updated: '2023-06-01T05:00:42Z'
+  issues: 127
   owner: schemathesis
   logo: 'https://avatars.githubusercontent.com/u/70383271?v=4'
   license: MIT
@@ -4961,11 +4961,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 9142
-  watch: 315
-  updated: '2021-06-10T17:38:37Z'
-  issues: 2
-  forks: 1128
+  stars: 9671
+  watch: 311
+  updated: '2023-05-31T05:18:24Z'
+  issues: 4
+  forks: 1149
   license: MIT
   owner: senchalabs
   logo: 'https://avatars.githubusercontent.com/u/313839?v=4'
@@ -4979,10 +4979,10 @@
   description: An API framework in Typescript/Node.js with OpenApi 3 & GraphQL
   language: TypeScript
   archived: false
-  stars: 14
+  stars: 15
   watch: 4
   forks: 0
-  updated: '2021-03-17T12:15:40Z'
+  updated: '2021-11-01T03:15:29Z'
   issues: 0
   license: MIT
   owner: serafin-labs
@@ -5068,8 +5068,8 @@
   category: '?'
   archived: false
   stars: 35
-  watch: 100
-  updated: '2020-05-21T19:58:47Z'
+  watch: 98
+  updated: '2022-02-03T09:55:09Z'
   issues: 4
   forks: 9
   license: ''
@@ -5104,7 +5104,7 @@
   category: '?'
   archived: false
   stars: 23
-  watch: 96
+  watch: 95
   updated: '2020-08-07T06:25:29Z'
   issues: 4
   forks: 15
@@ -5122,8 +5122,8 @@
   category: '?'
   archived: true
   stars: 51
-  watch: 2
-  updated: '2021-01-08T11:38:14Z'
+  watch: 3
+  updated: '2023-01-28T21:02:27Z'
   issues: 2
   forks: 8
   license: MIT
@@ -5160,11 +5160,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 603
-  watch: 20
-  updated: '2021-06-09T06:42:30Z'
-  issues: 38
-  forks: 105
+  stars: 817
+  watch: 18
+  updated: '2023-06-01T12:51:20Z'
+  issues: 55
+  forks: 125
   license: MIT
   owner: slanatech
   logo: 'https://avatars.githubusercontent.com/u/28799285?v=4'
@@ -5179,11 +5179,11 @@
   link: 'https://www.npmjs.com/package/@smartrecruiters/openapi-first'
   v3: true
   archived: false
-  stars: 27
-  watch: 9
-  forks: 3
-  updated: '2020-11-17T17:30:35Z'
-  issues: 5
+  stars: 36
+  watch: 19
+  forks: 4
+  updated: '2023-04-05T16:12:27Z'
+  issues: 6
   license: MIT
   owner: smartrecruiters
   logo: 'https://avatars.githubusercontent.com/u/1618540?v=4'
@@ -5197,9 +5197,9 @@
   language: JavaScript
   archived: false
   stars: 1
-  watch: 8
+  watch: 18
   forks: 1
-  updated: '2019-06-19T12:25:33Z'
+  updated: '2022-11-22T08:21:22Z'
   issues: 0
   license: MIT
   owner: smartrecruiters
