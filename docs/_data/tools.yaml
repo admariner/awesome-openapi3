@@ -309,7 +309,7 @@
   watch: 6
   forks: 8
   updated: '2023-06-06T13:09:57Z'
-  issues: 12
+  issues: 13
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3225
+  stars: 3228
   watch: 105
-  forks: 541
-  updated: '2023-06-06T19:43:20Z'
+  forks: 542
+  updated: '2023-06-07T15:32:42Z'
   issues: 37
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 40
   forks: 437
   updated: '2023-06-02T11:19:54Z'
-  issues: 332
+  issues: 333
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4233
+  stars: 4234
   watch: 822
-  updated: '2023-06-06T20:46:01Z'
+  updated: '2023-06-07T14:43:06Z'
   issues: 76
   forks: 738
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 194
+  stars: 195
   watch: 5
   forks: 25
-  updated: '2023-06-05T04:26:49Z'
+  updated: '2023-06-07T20:48:18Z'
   issues: 24
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 174
+  stars: 175
   watch: 18
   forks: 46
-  updated: '2023-06-05T08:14:27Z'
+  updated: '2023-06-07T02:19:46Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
