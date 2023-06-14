@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3233
+  stars: 3234
   watch: 106
-  forks: 545
-  updated: '2023-06-12T14:44:45Z'
+  forks: 546
+  updated: '2023-06-13T21:56:22Z'
   issues: 37
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4239
+  stars: 4240
   watch: 822
-  updated: '2023-06-12T18:28:49Z'
-  issues: 78
-  forks: 738
+  updated: '2023-06-13T01:20:17Z'
+  issues: 79
+  forks: 737
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 175
+  stars: 176
   watch: 18
   forks: 46
-  updated: '2023-06-07T02:19:46Z'
+  updated: '2023-06-13T21:52:22Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 164
+  stars: 165
   watch: 4
   forks: 16
-  updated: '2023-06-01T06:53:43Z'
+  updated: '2023-06-13T11:22:00Z'
   issues: 4
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -654,7 +654,7 @@
   stars: 1356
   watch: 91
   updated: '2023-06-08T22:45:52Z'
-  issues: 37
+  issues: 36
   forks: 319
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 123
+  stars: 124
   watch: 5
   forks: 28
-  updated: '2023-05-28T21:45:48Z'
+  updated: '2023-06-13T02:39:13Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
