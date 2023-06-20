@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 571
+  stars: 572
   watch: 36
-  forks: 51
-  updated: '2023-06-16T09:05:24Z'
+  forks: 52
+  updated: '2023-06-19T22:05:58Z'
   issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3238
+  stars: 3244
   watch: 106
-  forks: 546
-  updated: '2023-06-16T19:39:34Z'
+  forks: 547
+  updated: '2023-06-19T22:33:20Z'
   issues: 38
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 859
-  watch: 41
-  forks: 439
-  updated: '2023-06-15T12:20:27Z'
-  issues: 327
+  stars: 860
+  watch: 42
+  forks: 438
+  updated: '2023-06-19T00:50:44Z'
+  issues: 329
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 195
+  stars: 197
   watch: 5
   forks: 25
-  updated: '2023-06-07T20:48:18Z'
+  updated: '2023-06-19T21:37:01Z'
   issues: 24
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 176
+  stars: 177
   watch: 18
   forks: 46
-  updated: '2023-06-13T21:52:22Z'
+  updated: '2023-06-18T09:15:04Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -655,7 +655,7 @@
   watch: 91
   updated: '2023-06-14T02:38:21Z'
   issues: 36
-  forks: 319
+  forks: 318
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
   downloads: 1925427
@@ -690,7 +690,7 @@
   archived: false
   stars: 664
   watch: 15
-  forks: 122
+  forks: 123
   updated: '2023-06-14T07:02:07Z'
   issues: 40
   license: BSD-3-Clause
