@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: false
-  stars: 501
+  stars: 502
   watch: 14
   forks: 64
-  updated: '2023-06-20T08:33:47Z'
+  updated: '2023-06-21T10:16:28Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -291,7 +291,7 @@
   stars: 572
   watch: 36
   forks: 52
-  updated: '2023-06-19T22:05:58Z'
+  updated: '2023-06-21T22:40:18Z'
   issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3246
+  stars: 3249
   watch: 106
   forks: 548
-  updated: '2023-06-20T17:15:55Z'
+  updated: '2023-06-21T17:05:19Z'
   issues: 39
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 42
   forks: 439
   updated: '2023-06-20T13:49:35Z'
-  issues: 331
+  issues: 332
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4242
+  stars: 4246
   watch: 822
-  updated: '2023-06-20T07:50:11Z'
-  issues: 77
+  updated: '2023-06-21T06:56:57Z'
+  issues: 76
   forks: 738
   license: MIT
   owner: Azure
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1010
+  stars: 1009
   watch: 21
-  updated: '2023-06-12T07:23:54Z'
+  updated: '2023-06-21T15:08:58Z'
   issues: 96
   forks: 163
   license: MIT
