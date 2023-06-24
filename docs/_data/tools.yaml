@@ -221,7 +221,7 @@
   watch: 9
   forks: 41
   updated: '2023-06-20T10:53:24Z'
-  issues: 48
+  issues: 49
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 973
+  stars: 974
   watch: 21
-  updated: '2023-06-22T04:03:53Z'
+  updated: '2023-06-23T07:53:36Z'
   issues: 76
   forks: 149
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3252
-  watch: 106
+  stars: 3256
+  watch: 107
   forks: 548
-  updated: '2023-06-22T11:39:40Z'
+  updated: '2023-06-23T11:47:43Z'
   issues: 40
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4246
+  stars: 4248
   watch: 822
-  updated: '2023-06-21T06:56:57Z'
+  updated: '2023-06-23T16:23:41Z'
   issues: 77
-  forks: 738
+  forks: 739
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -598,7 +598,7 @@
   watch: 4
   forks: 16
   updated: '2023-06-13T11:22:00Z'
-  issues: 4
+  issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1357
+  stars: 1358
   watch: 91
-  updated: '2023-06-14T02:38:21Z'
+  updated: '2023-06-23T09:31:43Z'
   issues: 36
   forks: 318
   owner: Luracast
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 125
+  stars: 126
   watch: 5
   forks: 28
-  updated: '2023-06-22T14:34:35Z'
+  updated: '2023-06-23T12:25:08Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
