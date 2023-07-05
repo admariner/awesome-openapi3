@@ -273,8 +273,8 @@
   stars: 974
   watch: 21
   updated: '2023-07-03T11:27:08Z'
-  issues: 77
-  forks: 149
+  issues: 78
+  forks: 150
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3274
+  stars: 3275
   watch: 107
   forks: 548
-  updated: '2023-07-03T21:36:43Z'
+  updated: '2023-07-04T17:34:27Z'
   issues: 44
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4261
+  stars: 4262
   watch: 821
-  updated: '2023-07-03T17:08:24Z'
+  updated: '2023-07-04T23:07:22Z'
   issues: 76
-  forks: 739
+  forks: 740
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -577,7 +577,7 @@
   archived: false
   stars: 33
   watch: 5
-  forks: 7
+  forks: 6
   updated: '2023-05-31T18:09:09Z'
   issues: 5
   license: Apache-2.0
@@ -690,7 +690,7 @@
   archived: false
   stars: 666
   watch: 15
-  forks: 123
+  forks: 124
   updated: '2023-06-26T01:11:20Z'
   issues: 41
   license: BSD-3-Clause
