@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 974
+  stars: 975
   watch: 21
-  updated: '2023-07-03T11:27:08Z'
+  updated: '2023-07-07T14:23:07Z'
   issues: 79
   forks: 150
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3276
+  stars: 3275
   watch: 107
   forks: 549
-  updated: '2023-07-06T08:34:47Z'
+  updated: '2023-07-07T19:32:11Z'
   issues: 46
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 860
+  stars: 861
   watch: 42
-  forks: 442
-  updated: '2023-06-20T13:49:35Z'
+  forks: 443
+  updated: '2023-07-07T04:18:07Z'
   issues: 332
   license: Apache-2.0
   owner: Apicurio
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4263
+  stars: 4264
   watch: 821
-  updated: '2023-07-05T01:17:49Z'
+  updated: '2023-07-07T22:44:31Z'
   issues: 77
-  forks: 740
+  forks: 741
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -595,7 +595,7 @@
   language: TypeScript
   archived: false
   stars: 165
-  watch: 4
+  watch: 5
   forks: 15
   updated: '2023-06-13T11:22:00Z'
   issues: 5
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
+  stars: 1360
   watch: 91
-  updated: '2023-07-01T00:49:28Z'
+  updated: '2023-07-07T19:22:54Z'
   issues: 36
   forks: 318
   owner: Luracast
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 129
+  stars: 130
   watch: 5
-  forks: 28
-  updated: '2023-07-05T16:37:45Z'
+  forks: 29
+  updated: '2023-07-07T16:35:26Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
