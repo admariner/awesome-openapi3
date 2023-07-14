@@ -217,11 +217,11 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 262
+  stars: 263
   watch: 9
   forks: 42
-  updated: '2023-07-08T01:08:22Z'
-  issues: 51
+  updated: '2023-07-13T05:01:13Z'
+  issues: 52
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3282
+  stars: 3283
   watch: 107
   forks: 550
-  updated: '2023-07-12T22:13:44Z'
+  updated: '2023-07-13T07:59:32Z'
   issues: 46
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 863
+  stars: 864
   watch: 42
   forks: 446
-  updated: '2023-07-12T07:28:57Z'
+  updated: '2023-07-13T13:15:51Z'
   issues: 335
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4265
+  stars: 4266
   watch: 821
-  updated: '2023-07-11T15:29:34Z'
+  updated: '2023-07-13T20:35:45Z'
   issues: 77
   forks: 741
   license: MIT
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 178
+  stars: 179
   watch: 18
   forks: 46
-  updated: '2023-07-05T12:28:02Z'
+  updated: '2023-07-13T12:42:01Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
