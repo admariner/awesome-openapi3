@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: false
-  stars: 504
+  stars: 505
   watch: 14
   forks: 65
-  updated: '2023-06-30T18:15:36Z'
+  updated: '2023-07-14T16:57:18Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3283
+  stars: 3289
   watch: 107
   forks: 550
-  updated: '2023-07-13T07:59:32Z'
-  issues: 46
+  updated: '2023-07-14T20:20:55Z'
+  issues: 48
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -384,7 +384,7 @@
   archived: false
   stars: 4266
   watch: 821
-  updated: '2023-07-13T20:35:45Z'
+  updated: '2023-07-14T19:34:50Z'
   issues: 77
   forks: 741
   license: MIT
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 97
+  stars: 98
   watch: 6
-  forks: 61
-  updated: '2023-06-05T12:09:25Z'
+  forks: 62
+  updated: '2023-07-14T20:29:19Z'
   issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 33
+  stars: 35
   watch: 5
   forks: 6
-  updated: '2023-05-31T18:09:09Z'
+  updated: '2023-07-14T13:12:10Z'
   issues: 5
   license: Apache-2.0
   owner: GeniusesGroup
