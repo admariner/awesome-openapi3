@@ -325,8 +325,8 @@
   stars: 3290
   watch: 107
   forks: 550
-  updated: '2023-07-15T16:15:33Z'
-  issues: 48
+  updated: '2023-07-18T19:07:21Z'
+  issues: 50
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 864
+  stars: 865
   watch: 42
   forks: 447
-  updated: '2023-07-13T13:15:51Z'
-  issues: 335
+  updated: '2023-07-18T06:22:48Z'
+  issues: 336
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4269
+  stars: 4271
   watch: 821
-  updated: '2023-07-17T15:41:06Z'
-  issues: 77
-  forks: 741
+  updated: '2023-07-18T14:02:43Z'
+  issues: 78
+  forks: 742
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -405,7 +405,7 @@
   watch: 4
   forks: 25
   updated: '2023-07-17T09:49:57Z'
-  issues: 26
+  issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1011
+  stars: 1012
   watch: 21
-  updated: '2023-07-12T07:23:30Z'
+  updated: '2023-07-18T01:37:05Z'
   issues: 96
   forks: 163
   license: MIT
