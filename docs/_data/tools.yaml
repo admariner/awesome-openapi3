@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 573
+  stars: 574
   watch: 23
-  updated: '2023-06-29T14:54:11Z'
+  updated: '2023-07-20T23:51:15Z'
   issues: 101
   forks: 205
   license: MIT
@@ -325,7 +325,7 @@
   stars: 3289
   watch: 107
   forks: 550
-  updated: '2023-07-19T06:39:02Z'
+  updated: '2023-07-20T21:35:23Z'
   issues: 50
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4272
+  stars: 4274
   watch: 821
-  updated: '2023-07-19T12:17:21Z'
+  updated: '2023-07-20T08:23:55Z'
   issues: 78
   forks: 742
   license: MIT
@@ -542,7 +542,7 @@
   archived: false
   stars: 99
   watch: 6
-  forks: 62
+  forks: 61
   updated: '2023-07-17T09:42:11Z'
   issues: 28
   owner: ErikWittern
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 666
+  stars: 667
   watch: 15
   forks: 124
-  updated: '2023-06-26T01:11:20Z'
+  updated: '2023-07-20T03:40:40Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
