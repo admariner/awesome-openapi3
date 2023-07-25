@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 574
+  stars: 575
   watch: 23
-  updated: '2023-07-20T23:51:15Z'
+  updated: '2023-07-23T16:39:06Z'
   issues: 101
   forks: 205
   license: MIT
@@ -274,7 +274,7 @@
   watch: 21
   updated: '2023-07-21T12:44:03Z'
   issues: 79
-  forks: 150
+  forks: 151
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 573
+  stars: 575
   watch: 36
   forks: 52
-  updated: '2023-07-19T07:34:24Z'
+  updated: '2023-07-24T23:13:49Z'
   issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3292
+  stars: 3297
   watch: 107
-  forks: 550
-  updated: '2023-07-21T13:35:05Z'
+  forks: 551
+  updated: '2023-07-24T23:14:08Z'
   issues: 50
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 42
   forks: 447
   updated: '2023-07-18T06:22:48Z'
-  issues: 337
+  issues: 338
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4276
+  stars: 4277
   watch: 821
-  updated: '2023-07-21T17:28:48Z'
-  issues: 78
+  updated: '2023-07-23T12:50:15Z'
+  issues: 80
   forks: 742
   license: MIT
   owner: Azure
@@ -568,17 +568,17 @@
   license: MIT
   downloads: 0
   uuid: 4dcf211f-03fb-4d4c-a0b6-73f159d76eff
-- github: 'https://github.com/GeniusesGroup/libgo'
+- github: 'https://github.com/GeniusesGroup/memar-go'
   v3: true
   category: frameworks
-  name: libgo
+  name: memar-go
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
   stars: 36
   watch: 5
   forks: 6
-  updated: '2023-07-17T08:50:27Z'
+  updated: '2023-07-24T08:53:59Z'
   issues: 5
   license: Apache-2.0
   owner: GeniusesGroup
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 166
+  stars: 167
   watch: 5
   forks: 15
-  updated: '2023-07-21T05:38:16Z'
+  updated: '2023-07-24T16:58:15Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1013
+  stars: 1014
   watch: 21
-  updated: '2023-07-21T10:25:45Z'
+  updated: '2023-07-22T16:23:47Z'
   issues: 96
   forks: 163
   license: MIT
