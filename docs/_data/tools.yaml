@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: false
-  stars: 506
+  stars: 507
   watch: 14
   forks: 66
-  updated: '2023-07-21T10:46:10Z'
+  updated: '2023-07-27T01:57:50Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3299
+  stars: 3300
   watch: 107
   forks: 550
-  updated: '2023-07-26T03:49:44Z'
+  updated: '2023-07-27T12:13:53Z'
   issues: 50
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4282
+  stars: 4283
   watch: 821
-  updated: '2023-07-26T23:38:38Z'
-  issues: 81
-  forks: 742
+  updated: '2023-07-27T09:56:34Z'
+  issues: 78
+  forks: 743
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 196
+  stars: 197
   watch: 4
   forks: 25
-  updated: '2023-07-17T09:49:57Z'
+  updated: '2023-07-27T11:05:44Z'
   issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 667
+  stars: 668
   watch: 15
   forks: 124
-  updated: '2023-07-20T03:40:40Z'
+  updated: '2023-07-27T12:03:02Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
