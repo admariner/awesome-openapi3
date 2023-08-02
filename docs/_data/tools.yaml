@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: false
-  stars: 507
+  stars: 508
   watch: 14
   forks: 66
-  updated: '2023-07-27T01:57:50Z'
+  updated: '2023-08-01T15:08:32Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -324,7 +324,7 @@
   archived: false
   stars: 3307
   watch: 109
-  forks: 550
+  forks: 551
   updated: '2023-07-31T12:04:35Z'
   issues: 52
   owner: APIs-guru
@@ -345,7 +345,7 @@
   archived: false
   stars: 866
   watch: 42
-  forks: 448
+  forks: 449
   updated: '2023-07-31T04:21:44Z'
   issues: 341
   license: Apache-2.0
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4287
+  stars: 4288
   watch: 819
-  updated: '2023-07-31T18:41:35Z'
-  issues: 79
+  updated: '2023-08-01T16:59:09Z'
+  issues: 78
   forks: 743
   license: MIT
   owner: Azure
@@ -542,7 +542,7 @@
   archived: false
   stars: 99
   watch: 6
-  forks: 62
+  forks: 61
   updated: '2023-07-17T09:42:11Z'
   issues: 28
   owner: ErikWittern
@@ -559,7 +559,7 @@
   language: Elixir
   archived: false
   stars: 36
-  watch: 17
+  watch: 18
   forks: 2
   updated: '2022-09-10T22:14:19Z'
   issues: 3
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1016
+  stars: 1017
   watch: 21
-  updated: '2023-07-25T13:55:30Z'
+  updated: '2023-08-01T05:05:01Z'
   issues: 96
   forks: 163
   license: MIT
@@ -726,9 +726,9 @@
   archived: false
   stars: 19
   watch: 4
-  forks: 2
+  forks: 3
   updated: '2023-06-27T15:46:24Z'
-  issues: 3
+  issues: 4
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
