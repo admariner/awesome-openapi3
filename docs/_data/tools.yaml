@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 978
+  stars: 979
   watch: 21
-  updated: '2023-07-21T12:44:03Z'
+  updated: '2023-08-03T20:49:29Z'
   issues: 77
   forks: 150
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3307
+  stars: 3310
   watch: 109
   forks: 551
-  updated: '2023-07-31T12:04:35Z'
+  updated: '2023-08-03T19:26:07Z'
   issues: 52
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 866
+  stars: 867
   watch: 42
   forks: 449
-  updated: '2023-07-31T04:21:44Z'
+  updated: '2023-08-03T03:13:31Z'
   issues: 341
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4290
+  stars: 4291
   watch: 819
-  updated: '2023-08-02T20:39:14Z'
+  updated: '2023-08-03T23:09:58Z'
   issues: 79
   forks: 743
   license: MIT
@@ -3169,26 +3169,6 @@
   downloads: 1631
   downloadStr: 1.63K
   uuid: 4729820c-f343-427e-87cb-ad61233992b4
-- github: 'https://github.com/oas-tools/oas-tools'
-  v3: true
-  category: frameworks
-  name: oas-tools
-  description: >-
-    NodeJS module to manage RESTful APIs defined with OpenAPI 3.0 Specs over
-    express servers.
-  language: JavaScript
-  archived: false
-  stars: 189
-  watch: 11
-  forks: 58
-  updated: '2023-06-20T13:24:41Z'
-  issues: 7
-  license: Apache-2.0
-  owner: oas-tools
-  logo: 'https://avatars.githubusercontent.com/u/97441539?v=4'
-  downloads: 487093
-  downloadStr: 487.09K
-  uuid: 76604b83-002e-4ea7-a744-0e253c21d27b
 - name: open-api
   category: sdk
   language: PHP
@@ -4283,6 +4263,26 @@
   logo: 'https://avatars.githubusercontent.com/u/6568?v=4'
   downloads: 0
   uuid: e9c6c31c-8a57-4b41-8f08-e00101a8f42f
+- github: 'https://github.com/oas-tools/oas-tools'
+  v3: true
+  category: frameworks
+  name: oas-tools
+  description: >-
+    NodeJS module to manage RESTful APIs defined with OpenAPI 3.0 Specs over
+    express servers.
+  language: JavaScript
+  archived: false
+  stars: 189
+  watch: 11
+  forks: 58
+  updated: '2023-06-20T13:24:41Z'
+  issues: 7
+  license: Apache-2.0
+  owner: oas-tools
+  logo: 'https://avatars.githubusercontent.com/u/97441539?v=4'
+  downloads: 487093
+  downloadStr: 487.09K
+  uuid: 76604b83-002e-4ea7-a744-0e253c21d27b
 - name: odata-openapi
   category: converters
   language: XSLT
