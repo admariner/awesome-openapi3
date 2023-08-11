@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 267
+  stars: 268
   watch: 9
   forks: 42
-  updated: '2023-08-08T07:52:42Z'
+  updated: '2023-08-10T14:12:22Z'
   issues: 52
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -326,7 +326,7 @@
   watch: 109
   forks: 552
   updated: '2023-08-08T21:55:24Z'
-  issues: 55
+  issues: 59
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 867
+  stars: 868
   watch: 42
   forks: 450
-  updated: '2023-08-03T03:13:31Z'
-  issues: 342
+  updated: '2023-08-10T07:49:45Z'
+  issues: 335
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4299
+  stars: 4298
   watch: 819
-  updated: '2023-08-07T20:33:09Z'
+  updated: '2023-08-10T12:39:33Z'
   issues: 76
   forks: 744
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 198
+  stars: 199
   watch: 4
   forks: 25
-  updated: '2023-07-30T09:49:06Z'
+  updated: '2023-08-10T19:48:41Z'
   issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 168
+  stars: 169
   watch: 5
   forks: 15
-  updated: '2023-07-31T04:29:20Z'
+  updated: '2023-08-10T05:37:01Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 133
+  stars: 134
   watch: 5
   forks: 29
-  updated: '2023-08-08T19:32:00Z'
+  updated: '2023-08-10T11:44:34Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
