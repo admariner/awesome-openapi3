@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 576
+  stars: 577
   watch: 23
-  updated: '2023-07-28T05:18:02Z'
+  updated: '2023-08-11T20:17:17Z'
   issues: 101
   forks: 205
   license: MIT
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 980
+  stars: 981
   watch: 21
-  updated: '2023-08-08T01:17:50Z'
+  updated: '2023-08-11T03:35:25Z'
   issues: 77
   forks: 150
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3315
+  stars: 3317
   watch: 109
-  forks: 552
-  updated: '2023-08-08T21:55:24Z'
+  forks: 553
+  updated: '2023-08-11T01:05:09Z'
   issues: 59
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4298
+  stars: 4299
   watch: 819
-  updated: '2023-08-10T12:39:33Z'
+  updated: '2023-08-11T10:39:55Z'
   issues: 76
   forks: 744
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 199
+  stars: 200
   watch: 4
   forks: 25
-  updated: '2023-08-10T19:48:41Z'
+  updated: '2023-08-11T03:08:38Z'
   issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 37
+  stars: 38
   watch: 5
-  forks: 6
-  updated: '2023-08-06T16:21:52Z'
+  forks: 7
+  updated: '2023-08-11T08:46:04Z'
   issues: 5
   license: Apache-2.0
   owner: GeniusesGroup
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1360
+  stars: 1359
   watch: 90
-  updated: '2023-07-07T19:22:54Z'
+  updated: '2023-08-11T00:39:19Z'
   issues: 36
   forks: 318
   owner: Luracast
