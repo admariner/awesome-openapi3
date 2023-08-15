@@ -221,7 +221,7 @@
   watch: 9
   forks: 42
   updated: '2023-08-10T14:12:22Z'
-  issues: 52
+  issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: false
-  stars: 510
+  stars: 511
   watch: 14
   forks: 67
-  updated: '2023-08-04T19:08:55Z'
+  updated: '2023-08-12T12:04:07Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 981
+  stars: 982
   watch: 21
-  updated: '2023-08-11T03:35:25Z'
+  updated: '2023-08-14T01:20:34Z'
   issues: 77
   forks: 150
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 579
+  stars: 580
   watch: 36
   forks: 53
-  updated: '2023-08-08T02:43:00Z'
+  updated: '2023-08-13T19:06:32Z'
   issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
@@ -323,10 +323,10 @@
   language: Unknown
   archived: false
   stars: 3317
-  watch: 109
-  forks: 553
-  updated: '2023-08-11T01:05:09Z'
-  issues: 59
+  watch: 110
+  forks: 552
+  updated: '2023-08-14T09:52:00Z'
+  issues: 60
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 42
   forks: 450
   updated: '2023-08-10T07:49:45Z'
-  issues: 335
+  issues: 336
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4299
+  stars: 4300
   watch: 819
-  updated: '2023-08-11T10:39:55Z'
+  updated: '2023-08-14T10:03:46Z'
   issues: 76
-  forks: 744
+  forks: 743
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 200
+  stars: 201
   watch: 4
   forks: 25
-  updated: '2023-08-11T03:08:38Z'
+  updated: '2023-08-13T19:02:23Z'
   issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -436,9 +436,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 140
+  stars: 139
   watch: 39
-  updated: '2022-12-21T00:24:00Z'
+  updated: '2023-08-12T06:16:32Z'
   issues: 29
   forks: 25
   license: MIT
@@ -577,7 +577,7 @@
   archived: false
   stars: 38
   watch: 5
-  forks: 7
+  forks: 6
   updated: '2023-08-11T08:46:04Z'
   issues: 5
   license: Apache-2.0
@@ -633,9 +633,9 @@
   archived: false
   stars: 1023
   watch: 21
-  updated: '2023-08-09T17:24:05Z'
+  updated: '2023-08-14T13:31:18Z'
   issues: 96
-  forks: 163
+  forks: 162
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
+  stars: 1358
   watch: 90
-  updated: '2023-08-11T00:39:19Z'
+  updated: '2023-08-14T13:24:20Z'
   issues: 36
   forks: 318
   owner: Luracast
@@ -669,9 +669,9 @@
   language: PHP
   category: '?'
   archived: false
-  stars: 140
+  stars: 139
   watch: 8
-  updated: '2022-08-24T09:50:51Z'
+  updated: '2023-08-13T16:32:33Z'
   issues: 5
   forks: 26
   license: ''
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 667
+  stars: 668
   watch: 15
   forks: 124
-  updated: '2023-08-07T11:36:57Z'
+  updated: '2023-08-13T19:03:22Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
