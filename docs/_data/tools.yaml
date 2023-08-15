@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 268
+  stars: 269
   watch: 9
   forks: 42
-  updated: '2023-08-10T14:12:22Z'
+  updated: '2023-08-15T16:29:09Z'
   issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 982
+  stars: 983
   watch: 21
-  updated: '2023-08-14T01:20:34Z'
+  updated: '2023-08-15T08:27:43Z'
   issues: 77
   forks: 150
   license: MIT
@@ -325,7 +325,7 @@
   stars: 3317
   watch: 110
   forks: 552
-  updated: '2023-08-14T09:52:00Z'
+  updated: '2023-08-15T18:09:21Z'
   issues: 60
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 868
+  stars: 869
   watch: 42
   forks: 450
-  updated: '2023-08-10T07:49:45Z'
+  updated: '2023-08-15T02:10:20Z'
   issues: 336
   license: Apache-2.0
   owner: Apicurio
@@ -383,7 +383,7 @@
   category: '?'
   archived: false
   stars: 4300
-  watch: 819
+  watch: 820
   updated: '2023-08-14T10:03:46Z'
   issues: 76
   forks: 743
@@ -493,7 +493,7 @@
   watch: 29
   updated: '2023-07-30T18:17:26Z'
   issues: 88
-  forks: 155
+  forks: 154
   license: ''
   owner: DarthFubuMVC
   logo: 'https://avatars.githubusercontent.com/u/179202?v=4'
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 99
+  stars: 100
   watch: 6
   forks: 61
-  updated: '2023-07-17T09:42:11Z'
+  updated: '2023-08-15T19:03:33Z'
   issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
