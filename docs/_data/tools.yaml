@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 269
+  stars: 268
   watch: 9
   forks: 42
-  updated: '2023-08-15T16:29:09Z'
+  updated: '2023-08-18T10:30:53Z'
   issues: 52
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -233,11 +233,11 @@
   language: JavaScript
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
-  archived: false
+  archived: true
   stars: 511
   watch: 14
   forks: 67
-  updated: '2023-08-12T12:04:07Z'
+  updated: '2023-08-18T17:20:35Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -270,10 +270,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 983
+  stars: 984
   watch: 21
-  updated: '2023-08-15T08:27:43Z'
-  issues: 77
+  updated: '2023-08-18T07:28:47Z'
+  issues: 68
   forks: 150
   license: MIT
   owner: APIDevTools
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3317
+  stars: 3318
   watch: 110
   forks: 553
-  updated: '2023-08-17T12:43:02Z'
+  updated: '2023-08-18T04:40:24Z'
   issues: 60
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -385,7 +385,7 @@
   stars: 4304
   watch: 820
   updated: '2023-08-17T19:31:26Z'
-  issues: 76
+  issues: 77
   forks: 742
   license: MIT
   owner: Azure
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 100
+  stars: 99
   watch: 6
   forks: 61
-  updated: '2023-08-15T19:03:33Z'
+  updated: '2023-08-18T19:30:14Z'
   issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
