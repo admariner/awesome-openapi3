@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 984
+  stars: 985
   watch: 21
-  updated: '2023-08-18T07:28:47Z'
+  updated: '2023-08-21T08:42:42Z'
   issues: 68
   forks: 150
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3318
+  stars: 3320
   watch: 110
   forks: 553
-  updated: '2023-08-18T04:40:24Z'
-  issues: 60
+  updated: '2023-08-21T21:11:04Z'
+  issues: 61
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -384,9 +384,9 @@
   archived: false
   stars: 4304
   watch: 820
-  updated: '2023-08-17T19:31:26Z'
-  issues: 77
-  forks: 742
+  updated: '2023-08-21T15:50:36Z'
+  issues: 78
+  forks: 741
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -474,7 +474,7 @@
   archived: false
   stars: 180
   watch: 18
-  forks: 46
+  forks: 47
   updated: '2023-07-29T01:11:14Z'
   issues: 4
   owner: Cornutum
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 38
+  stars: 37
   watch: 5
   forks: 6
-  updated: '2023-08-11T08:46:04Z'
+  updated: '2023-08-19T06:41:45Z'
   issues: 5
   license: Apache-2.0
   owner: GeniusesGroup
