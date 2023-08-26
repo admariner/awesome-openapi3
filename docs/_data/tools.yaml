@@ -236,7 +236,7 @@
   archived: true
   stars: 511
   watch: 14
-  forks: 67
+  forks: 68
   updated: '2023-08-18T17:20:35Z'
   issues: 51
   license: MIT
@@ -270,11 +270,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 984
+  stars: 986
   watch: 21
-  updated: '2023-08-23T06:28:15Z'
+  updated: '2023-08-25T11:01:06Z'
   issues: 67
-  forks: 150
+  forks: 151
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -290,7 +290,7 @@
   archived: false
   stars: 580
   watch: 36
-  forks: 53
+  forks: 54
   updated: '2023-08-13T19:06:32Z'
   issues: 4
   license: BSD-3-Clause
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3324
+  stars: 3329
   watch: 110
-  forks: 553
-  updated: '2023-08-23T10:14:30Z'
+  forks: 552
+  updated: '2023-08-25T14:36:43Z'
   issues: 61
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 42
   forks: 450
   updated: '2023-08-22T18:38:03Z'
-  issues: 332
+  issues: 333
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4305
+  stars: 4306
   watch: 820
-  updated: '2023-08-23T22:05:18Z'
+  updated: '2023-08-24T19:59:33Z'
   issues: 78
   forks: 741
   license: MIT
@@ -559,7 +559,7 @@
   language: Elixir
   archived: false
   stars: 36
-  watch: 18
+  watch: 19
   forks: 2
   updated: '2022-09-10T22:14:19Z'
   issues: 3
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 169
+  stars: 170
   watch: 5
   forks: 15
-  updated: '2023-08-10T05:37:01Z'
+  updated: '2023-08-25T16:35:47Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1022
+  stars: 1023
   watch: 21
-  updated: '2023-08-23T07:21:32Z'
+  updated: '2023-08-25T02:23:09Z'
   issues: 96
   forks: 163
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1358
+  stars: 1357
   watch: 90
-  updated: '2023-08-14T13:24:20Z'
+  updated: '2023-08-24T02:49:37Z'
   issues: 36
   forks: 318
   owner: Luracast
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 668
+  stars: 670
   watch: 15
-  forks: 125
-  updated: '2023-08-13T19:03:22Z'
+  forks: 127
+  updated: '2023-08-24T08:36:54Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
