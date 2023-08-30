@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 270
+  stars: 271
   watch: 9
   forks: 42
-  updated: '2023-08-28T11:15:15Z'
+  updated: '2023-08-29T10:44:58Z'
   issues: 52
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 988
+  stars: 990
   watch: 21
-  updated: '2023-08-26T21:21:27Z'
+  updated: '2023-08-29T13:56:14Z'
   issues: 67
   forks: 151
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3333
+  stars: 3334
   watch: 110
   forks: 553
-  updated: '2023-08-28T01:25:47Z'
-  issues: 61
+  updated: '2023-08-29T15:45:55Z'
+  issues: 62
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4308
+  stars: 4307
   watch: 820
-  updated: '2023-08-28T11:45:04Z'
+  updated: '2023-08-29T11:31:20Z'
   issues: 79
-  forks: 741
+  forks: 742
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -404,7 +404,7 @@
   stars: 202
   watch: 4
   forks: 25
-  updated: '2023-08-22T02:41:13Z'
+  updated: '2023-08-29T00:04:56Z'
   issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
