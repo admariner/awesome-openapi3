@@ -272,7 +272,7 @@
   archived: false
   stars: 990
   watch: 21
-  updated: '2023-08-29T13:56:14Z'
+  updated: '2023-08-30T16:49:08Z'
   issues: 67
   forks: 151
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 580
+  stars: 581
   watch: 36
   forks: 54
-  updated: '2023-08-13T19:06:32Z'
+  updated: '2023-08-30T09:05:23Z'
   issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
@@ -347,7 +347,7 @@
   watch: 42
   forks: 451
   updated: '2023-08-27T00:18:46Z'
-  issues: 333
+  issues: 335
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 100
+  stars: 101
   watch: 6
   forks: 61
-  updated: '2023-08-27T10:12:10Z'
+  updated: '2023-08-30T11:45:49Z'
   issues: 28
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1022
+  stars: 1021
   watch: 21
-  updated: '2023-08-27T08:39:21Z'
+  updated: '2023-08-30T11:50:14Z'
   issues: 97
   forks: 165
   license: MIT
