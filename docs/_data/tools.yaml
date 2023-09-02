@@ -219,9 +219,9 @@
   archived: false
   stars: 271
   watch: 9
-  forks: 42
+  forks: 43
   updated: '2023-08-29T10:44:58Z'
-  issues: 52
+  issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3335
+  stars: 3339
   watch: 110
-  forks: 553
-  updated: '2023-08-31T05:25:20Z'
+  forks: 554
+  updated: '2023-09-01T20:30:12Z'
   issues: 62
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 873
+  stars: 872
   watch: 42
   forks: 451
-  updated: '2023-08-27T00:18:46Z'
+  updated: '2023-09-01T09:07:43Z'
   issues: 337
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4308
+  stars: 4310
   watch: 820
-  updated: '2023-08-31T06:39:23Z'
+  updated: '2023-09-01T20:46:34Z'
   issues: 78
   forks: 742
   license: MIT
