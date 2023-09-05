@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 271
+  stars: 272
   watch: 9
   forks: 43
-  updated: '2023-08-29T10:44:58Z'
+  updated: '2023-09-04T22:58:02Z'
   issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 511
+  stars: 512
   watch: 14
   forks: 68
-  updated: '2023-08-18T17:20:35Z'
+  updated: '2023-09-04T07:19:45Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 990
+  stars: 991
   watch: 21
-  updated: '2023-08-30T16:49:08Z'
+  updated: '2023-09-04T02:36:48Z'
   issues: 67
   forks: 151
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3339
+  stars: 3343
   watch: 110
   forks: 554
-  updated: '2023-09-01T20:30:12Z'
+  updated: '2023-09-04T14:32:56Z'
   issues: 62
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 42
   forks: 451
   updated: '2023-09-01T09:07:43Z'
-  issues: 337
+  issues: 338
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4310
+  stars: 4314
   watch: 820
-  updated: '2023-09-01T20:46:34Z'
+  updated: '2023-09-04T08:13:48Z'
   issues: 78
   forks: 742
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 202
+  stars: 203
   watch: 4
   forks: 25
-  updated: '2023-08-29T00:04:56Z'
+  updated: '2023-09-04T06:08:17Z'
   issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 181
+  stars: 182
   watch: 18
   forks: 47
-  updated: '2023-08-23T09:13:46Z'
+  updated: '2023-09-04T09:07:09Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -579,7 +579,7 @@
   watch: 5
   forks: 6
   updated: '2023-08-19T06:41:45Z'
-  issues: 5
+  issues: 6
   license: Apache-2.0
   owner: GeniusesGroup
   logo: 'https://avatars.githubusercontent.com/u/16743416?v=4'
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1357
-  watch: 90
-  updated: '2023-08-24T02:49:37Z'
+  stars: 1358
+  watch: 91
+  updated: '2023-09-03T13:51:54Z'
   issues: 36
   forks: 318
   owner: Luracast
@@ -726,9 +726,9 @@
   archived: false
   stars: 20
   watch: 4
-  forks: 3
+  forks: 4
   updated: '2023-08-31T14:08:47Z'
-  issues: 4
+  issues: 5
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
