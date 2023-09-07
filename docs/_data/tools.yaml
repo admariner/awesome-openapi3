@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 581
+  stars: 582
   watch: 36
   forks: 54
-  updated: '2023-08-30T09:05:23Z'
+  updated: '2023-09-06T07:27:47Z'
   issues: 4
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3344
+  stars: 3347
   watch: 110
-  forks: 554
-  updated: '2023-09-05T04:13:57Z'
+  forks: 555
+  updated: '2023-09-06T21:17:46Z'
   issues: 62
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,9 +345,9 @@
   archived: false
   stars: 872
   watch: 42
-  forks: 452
+  forks: 453
   updated: '2023-09-01T09:07:43Z'
-  issues: 338
+  issues: 339
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4315
+  stars: 4317
   watch: 820
-  updated: '2023-09-05T01:16:11Z'
-  issues: 79
+  updated: '2023-09-06T20:12:06Z'
+  issues: 78
   forks: 742
   license: MIT
   owner: Azure
@@ -6361,11 +6361,11 @@
   language: Elixir
   category: '?'
   archived: false
-  stars: 634
-  watch: 17
-  updated: '2023-04-29T15:03:46Z'
-  issues: 38
-  forks: 174
+  stars: 649
+  watch: 18
+  updated: '2023-09-04T15:26:55Z'
+  issues: 41
+  forks: 179
   license: MPL-2.0
   owner: xerions
   logo: 'https://avatars.githubusercontent.com/u/11320029?v=4'
@@ -6378,10 +6378,10 @@
   description: OData to Open API
   v3: true
   archived: false
-  stars: 6
-  watch: 3
-  forks: 3
-  updated: '2020-01-13T14:50:27Z'
+  stars: 7
+  watch: 4
+  forks: 5
+  updated: '2023-05-22T09:10:47Z'
   issues: 4
   owner: xuzhg
   logo: 'https://avatars.githubusercontent.com/u/9426627?v=4'
@@ -6394,11 +6394,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 135
-  watch: 15
-  updated: '2021-05-22T13:30:40Z'
-  issues: 27
-  forks: 68
+  stars: 134
+  watch: 16
+  updated: '2023-05-06T12:44:01Z'
+  issues: 35
+  forks: 64
   license: MIT
   owner: yahehe
   logo: 'https://avatars.githubusercontent.com/u/6528050?v=4'
@@ -6411,11 +6411,11 @@
   description: Mock data generator CLI for Swagger3 (OpenAPI 3)
   language: TypeScript
   archived: false
-  stars: 43
-  watch: 2
-  forks: 6
-  updated: '2021-06-04T11:34:01Z'
-  issues: 8
+  stars: 51
+  watch: 3
+  forks: 8
+  updated: '2023-08-18T17:34:51Z'
+  issues: 15
   owner: yayoc
   logo: 'https://avatars.githubusercontent.com/u/6383334?v=4'
   unsure: true
@@ -6429,11 +6429,11 @@
   language: Swift
   category: '?'
   archived: false
-  stars: 418
+  stars: 616
   watch: 17
-  updated: '2021-06-10T23:22:55Z'
-  issues: 57
-  forks: 115
+  updated: '2023-08-18T07:21:46Z'
+  issues: 71
+  forks: 149
   license: MIT
   owner: yonaskolb
   logo: 'https://avatars.githubusercontent.com/u/2393781?v=4'
@@ -6446,10 +6446,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 785
+  stars: 788
   watch: 34
-  updated: '2023-04-04T19:37:52Z'
-  issues: 37
+  updated: '2023-08-15T09:54:26Z'
+  issues: 38
   forks: 132
   license: BSD-3-Clause
   owner: yvasiyarov
@@ -6469,7 +6469,7 @@
   stars: 81
   watch: 4
   updated: '2022-02-25T16:57:06Z'
-  issues: 39
+  issues: 38
   forks: 38
   license: MIT
   owner: z0mt3c
@@ -6487,8 +6487,8 @@
   category: '?'
   archived: false
   stars: 74
-  watch: 6
-  updated: '2022-06-06T11:45:46Z'
+  watch: 7
+  updated: '2023-05-10T13:55:51Z'
   issues: 3
   forks: 10
   license: MIT
@@ -6504,9 +6504,9 @@
   language: Scala
   category: '?'
   archived: true
-  stars: 98
-  watch: 17
-  updated: '2023-04-07T06:44:28Z'
+  stars: 97
+  watch: 18
+  updated: '2023-07-08T07:20:46Z'
   issues: 24
   forks: 15
   license: MIT
@@ -6523,9 +6523,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 47
+  stars: 45
   watch: 15
-  updated: '2020-12-05T04:29:11Z'
+  updated: '2023-07-25T13:55:09Z'
   issues: 18
   forks: 13
   license: ISC
@@ -6542,11 +6542,11 @@
   language: Clojure
   category: '?'
   archived: true
-  stars: 119
-  watch: 17
-  updated: '2023-03-28T23:45:09Z'
+  stars: 118
+  watch: 16
+  updated: '2023-07-25T13:55:23Z'
   issues: 25
-  forks: 15
+  forks: 16
   license: Apache-2.0
   owner: zalando
   logo: 'https://avatars.githubusercontent.com/u/1564818?v=4'
@@ -6559,10 +6559,10 @@
   description: A pharo implementation of OpenAPI 3.0.1
   language: Smalltalk
   archived: false
-  stars: 17
-  watch: 5
-  forks: 1
-  updated: '2021-03-30T09:24:58Z'
+  stars: 22
+  watch: 7
+  forks: 5
+  updated: '2023-08-13T00:57:19Z'
   issues: 5
   owner: zweidenker
   logo: 'https://avatars.githubusercontent.com/u/20300491?v=4'
