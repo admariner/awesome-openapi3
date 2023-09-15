@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 276
+  stars: 277
   watch: 9
   forks: 42
-  updated: '2023-09-10T16:22:06Z'
+  updated: '2023-09-14T13:55:34Z'
   issues: 52
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 992
+  stars: 993
   watch: 21
-  updated: '2023-09-09T00:44:56Z'
+  updated: '2023-09-14T20:46:27Z'
   issues: 67
   forks: 152
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3354
+  stars: 3355
   watch: 110
-  forks: 555
-  updated: '2023-09-13T19:49:20Z'
+  forks: 557
+  updated: '2023-09-14T07:07:37Z'
   issues: 62
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 872
+  stars: 875
   watch: 42
   forks: 454
-  updated: '2023-09-13T18:59:23Z'
+  updated: '2023-09-14T17:07:03Z'
   issues: 342
   license: Apache-2.0
   owner: Apicurio
@@ -597,7 +597,7 @@
   stars: 170
   watch: 5
   forks: 15
-  updated: '2023-08-25T16:35:47Z'
+  updated: '2023-09-14T14:31:39Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1027
+  stars: 1029
   watch: 21
-  updated: '2023-09-13T20:31:30Z'
+  updated: '2023-09-14T15:25:24Z'
   issues: 97
   forks: 165
   license: MIT
@@ -1232,11 +1232,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 5228
-  watch: 503
-  updated: '2023-06-14T21:52:51Z'
-  issues: 35
-  forks: 1623
+  stars: 5264
+  watch: 499
+  updated: '2023-09-14T09:02:42Z'
+  issues: 36
+  forks: 1629
   license: ''
   owner: ServiceStack
   logo: 'https://avatars.githubusercontent.com/u/605728?v=4'
@@ -1252,7 +1252,7 @@
   stars: 73
   watch: 4
   forks: 20
-  updated: '2023-06-13T19:42:20Z'
+  updated: '2023-09-08T17:43:07Z'
   issues: 44
   license: MIT
   owner: SkeLLLa
@@ -1394,11 +1394,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 102
+  stars: 103
   watch: 12
-  updated: '2023-04-06T07:27:06Z'
+  updated: '2023-08-17T19:09:55Z'
   issues: 7
-  forks: 35
+  forks: 36
   license: MIT
   owner: Trax-air
   logo: 'https://avatars.githubusercontent.com/u/5397850?v=4'
@@ -1479,11 +1479,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 132
+  stars: 131
   watch: 15
-  updated: '2023-03-27T06:24:21Z'
+  updated: '2023-08-25T05:54:25Z'
   issues: 52
-  forks: 91
+  forks: 90
   license: Apache-2.0
   owner: abelsilva
   logo: 'https://avatars.githubusercontent.com/u/1167088?v=4'
@@ -1497,10 +1497,10 @@
   description: An easy-to-use web framework.
   language: Python
   archived: false
-  stars: 273
+  stars: 272
   watch: 6
-  forks: 22
-  updated: '2023-07-25T07:11:09Z'
+  forks: 23
+  updated: '2023-09-08T12:08:00Z'
   issues: 3
   owner: abersheeran
   logo: 'https://avatars.githubusercontent.com/u/25364828?v=4'
@@ -2305,7 +2305,7 @@
   watch: 3
   forks: 60
   updated: '2023-09-10T19:47:01Z'
-  issues: 17
+  issues: 18
   owner: danielgtaylor
   logo: 'https://avatars.githubusercontent.com/u/106826?v=4'
   license: MIT
@@ -2351,11 +2351,11 @@
   description: Generate Go client and server boilerplate from OpenAPI 3 specifications
   language: Go
   archived: false
-  stars: 992
-  watch: 17
-  forks: 213
-  updated: '2021-06-10T13:27:26Z'
-  issues: 142
+  stars: 4086
+  watch: 32
+  forks: 698
+  updated: '2023-09-14T20:09:51Z'
+  issues: 403
   owner: deepmap
   logo: 'https://avatars.githubusercontent.com/u/47459865?v=4'
   license: Apache-2.0
@@ -2387,11 +2387,11 @@
   description: "\U0001F4D8 Multi-file boilerplate for Open API Specification"
   language: Shell
   archived: false
-  stars: 273
+  stars: 319
   watch: 5
-  forks: 74
-  updated: '2023-02-23T14:01:14Z'
-  issues: 1
+  forks: 80
+  updated: '2023-09-11T14:31:51Z'
+  issues: 4
   owner: dgarcia360
   logo: 'https://avatars.githubusercontent.com/u/9107969?v=4'
   license: ''
@@ -2453,11 +2453,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 2969
-  watch: 175
-  updated: '2021-06-09T04:05:23Z'
-  issues: 339
-  forks: 682
+  stars: 3056
+  watch: 172
+  updated: '2023-09-12T08:35:23Z'
+  issues: 357
+  forks: 687
   license: BSD-3-Clause
   owner: domaindrivendev
   logo: 'https://avatars.githubusercontent.com/u/1434343?v=4'
@@ -2525,11 +2525,11 @@
   language: Go
   category: '?'
   archived: false
-  stars: 4123
-  watch: 160
-  updated: '2021-06-10T12:57:46Z'
-  issues: 6
-  forks: 617
+  stars: 4872
+  watch: 156
+  updated: '2023-09-14T18:51:44Z'
+  issues: 3
+  forks: 717
   license: MIT
   owner: emicklei
   logo: 'https://avatars.githubusercontent.com/u/686220?v=4'
@@ -2596,11 +2596,11 @@
   description: "\U0001F4DASwagger / Open API 3.0 builder and validation library for PHP that helps you write valid specs."
   language: PHP
   archived: false
-  stars: 15
-  watch: 8
-  forks: 8
-  updated: '2020-09-02T22:53:18Z'
-  issues: 4
+  stars: 18
+  watch: 12
+  forks: 13
+  updated: '2023-05-11T20:00:26Z'
+  issues: 1
   license: MIT
   owner: erasys
   logo: 'https://avatars.githubusercontent.com/u/1845621?v=4'
