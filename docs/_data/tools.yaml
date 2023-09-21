@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3364
+  stars: 3365
   watch: 110
   forks: 557
-  updated: '2023-09-19T16:03:18Z'
+  updated: '2023-09-20T20:20:34Z'
   issues: 62
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 876
+  stars: 877
   watch: 42
-  forks: 452
-  updated: '2023-09-19T15:10:31Z'
+  forks: 454
+  updated: '2023-09-20T19:47:31Z'
   issues: 343
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4323
+  stars: 4324
   watch: 820
-  updated: '2023-09-15T20:37:14Z'
+  updated: '2023-09-20T08:39:02Z'
   issues: 81
   forks: 745
   license: MIT
@@ -1287,10 +1287,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1564
+  stars: 1566
   watch: 13
-  updated: '2023-09-15T12:46:52Z'
-  issues: 42
+  updated: '2023-09-19T23:52:42Z'
+  issues: 41
   forks: 225
   license: MIT
   owner: Surnet
@@ -1636,10 +1636,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 4050
+  stars: 4051
   watch: 75
   forks: 304
-  updated: '2023-09-13T17:17:38Z'
+  updated: '2023-09-19T15:24:06Z'
   issues: 255
   license: MIT
   owner: apiaryio
@@ -1724,10 +1724,10 @@
   link: 'http://fusio-project.org/'
   v3: true
   archived: false
-  stars: 1562
+  stars: 1565
   watch: 58
   forks: 202
-  updated: '2023-09-11T23:30:12Z'
+  updated: '2023-09-20T20:33:03Z'
   issues: 153
   license: Apache-2.0
   owner: apioo
@@ -1801,9 +1801,9 @@
   language: Unknown
   category: '?'
   archived: false
-  stars: 660
+  stars: 661
   watch: 17
-  updated: '2023-09-09T16:20:34Z'
+  updated: '2023-09-16T08:28:48Z'
   issues: 0
   forks: 170
   license: ''
@@ -1944,11 +1944,11 @@
   description: OpenAPI definitions for Keycloak's Admin API
   language: Rust
   archived: false
-  stars: 72
-  watch: 2
-  forks: 26
-  updated: '2021-06-02T15:54:31Z'
-  issues: 1
+  stars: 151
+  watch: 9
+  forks: 67
+  updated: '2023-09-19T09:25:21Z'
+  issues: 5
   owner: ccouzens
   logo: 'https://avatars.githubusercontent.com/u/241046?v=4'
   downloads: 0
@@ -1977,10 +1977,10 @@
   description: "\U0001F682 A Yeoman generator for Express.js based 12-factor apps and apis"
   language: JavaScript
   archived: false
-  stars: 546
-  watch: 22
-  forks: 84
-  updated: '2021-06-07T23:42:54Z'
+  stars: 582
+  watch: 23
+  forks: 94
+  updated: '2023-09-15T21:14:12Z'
   issues: 6
   owner: cdimascio
   logo: 'https://avatars.githubusercontent.com/u/4706618?v=4'
@@ -1995,11 +1995,11 @@
   description: "\U0001F684 A Yeoman generator for Express.js based 12-factor apps and apis using Typescript"
   language: TypeScript
   archived: false
-  stars: 315
-  watch: 11
-  forks: 37
-  updated: '2021-06-03T11:11:07Z'
-  issues: 5
+  stars: 353
+  watch: 10
+  forks: 42
+  updated: '2023-09-15T21:14:11Z'
+  issues: 7
   owner: cdimascio
   logo: 'https://avatars.githubusercontent.com/u/4706618?v=4'
   license: MIT
@@ -2015,10 +2015,10 @@
     request/response validation and interactive API doc
   language: Kotlin
   archived: false
-  stars: 21
-  watch: 1
+  stars: 22
+  watch: 3
   forks: 8
-  updated: '2021-02-23T23:32:16Z'
+  updated: '2022-07-26T00:42:45Z'
   issues: 0
   owner: cdimascio
   logo: 'https://avatars.githubusercontent.com/u/4706618?v=4'
@@ -2031,11 +2031,11 @@
   description: "\U0001F331 A friendly kotlin library to validate API endpoints using an OpenApi 3.0 and Swagger 2.0 specification"
   language: Kotlin
   archived: false
-  stars: 77
-  watch: 3
-  forks: 8
-  updated: '2021-06-09T08:11:43Z'
-  issues: 2
+  stars: 93
+  watch: 6
+  forks: 13
+  updated: '2023-04-20T14:53:15Z'
+  issues: 4
   license: ''
   owner: cdimascio
   logo: 'https://avatars.githubusercontent.com/u/4706618?v=4'
@@ -2067,11 +2067,11 @@
     PHP objects.
   language: PHP
   archived: false
-  stars: 291
-  watch: 20
-  forks: 48
-  updated: '2021-06-07T08:40:39Z'
-  issues: 15
+  stars: 445
+  watch: 24
+  forks: 95
+  updated: '2023-09-12T12:52:31Z'
+  issues: 47
   license: MIT
   owner: cebe
   logo: 'https://avatars.githubusercontent.com/u/189796?v=4'
@@ -2084,10 +2084,10 @@
   description: 'OpenAPI Spec to API in 3, 2, 1... done!'
   language: PHP
   archived: false
-  stars: 83
+  stars: 102
   watch: 7
-  forks: 6
-  updated: '2021-05-16T10:25:20Z'
+  forks: 10
+  updated: '2023-08-26T20:01:39Z'
   issues: 7
   owner: cebe
   logo: 'https://avatars.githubusercontent.com/u/189796?v=4'
@@ -2121,9 +2121,9 @@
   language: JavaScript
   archived: true
   stars: 1
-  watch: 0
+  watch: 2
   forks: 0
-  updated: '2021-04-15T22:04:07Z'
+  updated: '2023-01-28T09:32:25Z'
   issues: 0
   license: MIT
   owner: chrisdostert
@@ -2158,10 +2158,10 @@
   description: Runtime Generation of OpenApi 3 specification from vertx routes.
   language: Java
   archived: false
-  stars: 10
+  stars: 9
   watch: 1
-  forks: 4
-  updated: '2020-04-24T09:36:48Z'
+  forks: 5
+  updated: '2022-08-17T07:26:26Z'
   issues: 0
   license: MIT
   owner: ckaratzas
@@ -2229,11 +2229,11 @@
   description: "A consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs \U0001F525"
   language: TypeScript
   archived: false
-  stars: 1878
-  watch: 19
-  forks: 108
-  updated: '2023-02-18T12:12:05Z'
-  issues: 52
+  stars: 1881
+  watch: 20
+  forks: 107
+  updated: '2023-09-14T07:46:19Z'
+  issues: 53
   owner: contiamo
   logo: 'https://avatars.githubusercontent.com/u/862286?v=4'
   license: MIT
@@ -2427,10 +2427,10 @@
   description: "\U0001F4D8 Multi-file boilerplate for Open API Specification"
   language: Shell
   archived: false
-  stars: 319
+  stars: 320
   watch: 5
   forks: 80
-  updated: '2023-09-11T14:31:51Z'
+  updated: '2023-09-17T11:32:50Z'
   issues: 4
   owner: dgarcia360
   logo: 'https://avatars.githubusercontent.com/u/9107969?v=4'
@@ -2476,11 +2476,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 4882
-  watch: 192
-  updated: '2023-08-02T11:53:50Z'
-  issues: 534
-  forks: 1215
+  stars: 4915
+  watch: 191
+  updated: '2023-09-20T15:04:50Z'
+  issues: 553
+  forks: 1225
   license: MIT
   owner: domaindrivendev
   logo: 'https://avatars.githubusercontent.com/u/1434343?v=4'
@@ -2582,10 +2582,10 @@
   description: Generate Markdown documentation from OpenAPI 3 Components Schemas
   language: Python
   archived: false
-  stars: 11
+  stars: 12
   watch: 14
   forks: 0
-  updated: '2023-02-02T12:55:33Z'
+  updated: '2023-09-19T19:26:44Z'
   issues: 2
   license: MIT
   owner: entrepreneur-interet-general
