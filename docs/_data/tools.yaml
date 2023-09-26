@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3365
+  stars: 3366
   watch: 110
-  forks: 557
-  updated: '2023-09-22T21:45:32Z'
+  forks: 556
+  updated: '2023-09-23T07:31:00Z'
   issues: 64
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4326
+  stars: 4327
   watch: 820
-  updated: '2023-09-22T23:26:15Z'
-  issues: 81
+  updated: '2023-09-25T11:12:45Z'
+  issues: 80
   forks: 745
   license: MIT
   owner: Azure
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 184
+  stars: 185
   watch: 18
   forks: 47
-  updated: '2023-09-19T08:17:44Z'
+  updated: '2023-09-25T16:49:00Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -575,11 +575,11 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 37
+  stars: 38
   watch: 5
   forks: 6
-  updated: '2023-08-19T06:41:45Z'
-  issues: 6
+  updated: '2023-09-25T09:31:52Z'
+  issues: 5
   license: Apache-2.0
   owner: GeniusesGroup
   logo: 'https://avatars.githubusercontent.com/u/16743416?v=4'
