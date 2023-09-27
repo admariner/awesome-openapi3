@@ -221,7 +221,7 @@
   watch: 9
   forks: 42
   updated: '2023-09-26T16:03:29Z'
-  issues: 52
+  issues: 51
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 996
+  stars: 997
   watch: 21
-  updated: '2023-09-22T15:03:30Z'
+  updated: '2023-09-27T12:34:36Z'
   issues: 67
   forks: 152
   license: MIT
@@ -292,7 +292,7 @@
   watch: 36
   forks: 54
   updated: '2023-09-18T03:40:03Z'
-  issues: 4
+  issues: 6
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3366
+  stars: 3367
   watch: 110
   forks: 556
-  updated: '2023-09-23T07:31:00Z'
+  updated: '2023-09-27T23:36:00Z'
   issues: 64
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 877
+  stars: 878
   watch: 42
   forks: 454
-  updated: '2023-09-20T19:47:31Z'
+  updated: '2023-09-27T06:32:58Z'
   issues: 343
   license: Apache-2.0
   owner: Apicurio
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4328
+  stars: 4330
   watch: 820
-  updated: '2023-09-26T14:22:34Z'
-  issues: 79
+  updated: '2023-09-27T11:06:55Z'
+  issues: 80
   forks: 745
   license: MIT
   owner: Azure
@@ -635,7 +635,7 @@
   watch: 21
   updated: '2023-09-22T06:43:47Z'
   issues: 97
-  forks: 165
+  forks: 166
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1358
+  stars: 1359
   watch: 91
-  updated: '2023-09-03T13:51:54Z'
+  updated: '2023-09-27T10:48:23Z'
   issues: 36
   forks: 318
   owner: Luracast
@@ -1636,11 +1636,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 4051
+  stars: 4053
   watch: 75
   forks: 304
-  updated: '2023-09-19T15:24:06Z'
-  issues: 255
+  updated: '2023-09-25T12:51:44Z'
+  issues: 256
   license: MIT
   owner: apiaryio
   logo: 'https://avatars.githubusercontent.com/u/765943?v=4'
@@ -2281,10 +2281,10 @@
     validation
   language: Go
   archived: false
-  stars: 650
+  stars: 651
   watch: 13
   forks: 73
-  updated: '2023-09-11T21:42:55Z'
+  updated: '2023-09-18T16:19:05Z'
   issues: 32
   owner: danielgtaylor
   logo: 'https://avatars.githubusercontent.com/u/106826?v=4'
@@ -2761,9 +2761,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 252
+  stars: 251
   watch: 11
-  updated: '2023-07-25T08:28:38Z'
+  updated: '2023-09-10T21:21:45Z'
   issues: 16
   forks: 92
   license: MIT
@@ -3180,9 +3180,9 @@
   archived: false
   stars: 114
   watch: 45
-  updated: '2023-08-30T06:53:36Z'
-  issues: 8
-  forks: 56
+  updated: '2023-09-17T22:17:33Z'
+  issues: 9
+  forks: 57
   license: Apache-2.0
   owner: inaka
   logo: 'https://avatars.githubusercontent.com/u/867053?v=4'
@@ -3330,10 +3330,10 @@
   description: Open API 3 Parser/Validator for Ruby
   v3: true
   archived: false
-  stars: 81
+  stars: 83
   watch: 10
   forks: 12
-  updated: '2023-08-07T11:37:05Z'
+  updated: '2023-09-23T15:00:47Z'
   issues: 2
   license: MIT
   owner: kevindew
@@ -3472,10 +3472,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 349
-  watch: 28
-  updated: '2021-05-31T03:50:28Z'
-  issues: 34
+  stars: 352
+  watch: 26
+  updated: '2023-06-06T19:47:04Z'
+  issues: 36
   forks: 81
   license: ''
   owner: krakenjs
@@ -3745,9 +3745,9 @@
   archived: false
   stars: 22
   watch: 15
-  updated: '2019-08-13T15:39:07Z'
+  updated: '2023-07-25T13:51:26Z'
   issues: 1
-  forks: 4
+  forks: 5
   owner: metosin
   logo: 'https://avatars.githubusercontent.com/u/1569418?v=4'
   downloads: 0
@@ -3797,11 +3797,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 1088
-  watch: 67
-  forks: 181
-  updated: '2023-02-27T04:54:08Z'
-  issues: 110
+  stars: 1202
+  watch: 66
+  forks: 206
+  updated: '2023-09-26T17:06:44Z'
+  issues: 136
   license: MIT
   owner: microsoft
   logo: 'https://avatars.githubusercontent.com/u/6154722?v=4'
@@ -3834,8 +3834,8 @@
   v3: true
   archived: false
   stars: 5
-  watch: 6
-  forks: 5
+  watch: 7
+  forks: 4
   updated: '2018-09-14T17:07:38Z'
   issues: 1
   owner: mitraman
@@ -3904,12 +3904,12 @@
   name: cli
   description: Mockoon's official CLI. Deploy your mock APIs anywhere.
   language: TypeScript
-  archived: false
-  stars: 85
-  watch: 4
-  forks: 8
-  updated: '2021-06-11T01:13:08Z'
-  issues: 4
+  archived: true
+  stars: 178
+  watch: 7
+  forks: 23
+  updated: '2023-09-08T08:22:15Z'
+  issues: 1
   owner: mockoon
   logo: 'https://avatars.githubusercontent.com/u/49429147?v=4'
   license: MIT
@@ -3925,14 +3925,14 @@
     deployment, no account required, open source.
   language: TypeScript
   archived: false
-  stars: 2830
-  watch: 51
-  forks: 168
-  updated: '2021-06-11T02:12:17Z'
-  issues: 35
+  stars: 5387
+  watch: 57
+  forks: 299
+  updated: '2023-09-27T17:07:35Z'
+  issues: 71
   owner: mockoon
   logo: 'https://avatars.githubusercontent.com/u/49429147?v=4'
-  license: MIT
+  license: ''
   downloads: 0
 - name: modern-ruby
   category: frameworks
@@ -3994,11 +3994,11 @@
   description: PDF generation from OpenAPI / Swagger Spec
   language: JavaScript
   archived: false
-  stars: 236
+  stars: 258
   watch: 5
-  forks: 86
-  updated: '2023-04-06T09:55:48Z'
-  issues: 53
+  forks: 93
+  updated: '2023-09-24T09:53:28Z'
+  issues: 54
   owner: mrin9
   logo: 'https://avatars.githubusercontent.com/u/5056899?v=4'
   license: MIT
@@ -4215,11 +4215,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 2690
-  watch: 110
-  updated: '2023-05-31T18:36:03Z'
-  issues: 375
-  forks: 505
+  stars: 2710
+  watch: 107
+  updated: '2023-09-27T17:14:16Z'
+  issues: 373
+  forks: 510
   license: ''
   owner: noirbizarre
   logo: 'https://avatars.githubusercontent.com/u/15725?v=4'
@@ -4272,10 +4272,10 @@
     express servers.
   language: JavaScript
   archived: false
-  stars: 189
+  stars: 193
   watch: 11
-  forks: 58
-  updated: '2023-06-20T13:24:41Z'
+  forks: 57
+  updated: '2023-09-21T05:19:54Z'
   issues: 7
   license: Apache-2.0
   owner: oas-tools
@@ -4596,11 +4596,11 @@
   description: Generate TypeScript clients to tap into OpenAPI servers
   language: TypeScript
   archived: false
-  stars: 402
-  watch: 9
-  forks: 61
-  updated: '2023-08-04T07:02:57Z'
-  issues: 21
+  stars: 409
+  watch: 10
+  forks: 66
+  updated: '2023-09-22T11:39:05Z'
+  issues: 22
   owner: oazapfts
   logo: 'https://avatars.githubusercontent.com/u/119607625?v=4'
   downloads: 704713
