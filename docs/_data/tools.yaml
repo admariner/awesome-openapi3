@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 283
+  stars: 284
   watch: 9
   forks: 42
-  updated: '2023-10-12T05:55:13Z'
+  updated: '2023-10-13T11:23:26Z'
   issues: 52
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3386
+  stars: 3387
   watch: 110
   forks: 556
-  updated: '2023-10-12T09:02:36Z'
+  updated: '2023-10-13T01:28:23Z'
   issues: 66
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 881
+  stars: 882
   watch: 43
-  forks: 457
-  updated: '2023-10-10T12:17:12Z'
+  forks: 458
+  updated: '2023-10-13T02:03:51Z'
   issues: 341
   license: Apache-2.0
   owner: Apicurio
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4341
+  stars: 4340
   watch: 819
-  updated: '2023-10-12T13:04:01Z'
+  updated: '2023-10-13T18:13:36Z'
   issues: 80
-  forks: 746
+  forks: 747
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -651,10 +651,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
+  stars: 1358
   watch: 90
-  updated: '2023-09-27T10:48:23Z'
-  issues: 36
+  updated: '2023-10-13T08:24:50Z'
+  issues: 37
   forks: 318
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
