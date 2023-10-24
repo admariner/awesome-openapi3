@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3394
+  stars: 3397
   watch: 110
-  forks: 557
-  updated: '2023-10-20T12:41:37Z'
-  issues: 47
+  forks: 558
+  updated: '2023-10-23T18:58:00Z'
+  issues: 49
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 43
   forks: 461
   updated: '2023-10-20T10:25:22Z'
-  issues: 345
+  issues: 339
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4346
+  stars: 4345
   watch: 819
-  updated: '2023-10-20T20:36:09Z'
+  updated: '2023-10-23T11:08:58Z'
   issues: 80
   forks: 746
   license: MIT
@@ -403,9 +403,9 @@
   archived: false
   stars: 207
   watch: 4
-  forks: 28
+  forks: 29
   updated: '2023-10-11T07:17:49Z'
-  issues: 28
+  issues: 25
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 188
+  stars: 187
   watch: 18
   forks: 48
-  updated: '2023-10-20T18:31:53Z'
+  updated: '2023-10-22T19:40:21Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 171
+  stars: 172
   watch: 5
   forks: 15
-  updated: '2023-09-26T10:29:54Z'
+  updated: '2023-10-23T06:39:17Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1035
+  stars: 1036
   watch: 21
-  updated: '2023-10-18T12:58:10Z'
+  updated: '2023-10-23T11:09:42Z'
   issues: 98
   forks: 169
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
-  watch: 90
-  updated: '2023-10-19T12:02:19Z'
+  stars: 1358
+  watch: 89
+  updated: '2023-10-22T13:05:54Z'
   issues: 37
   forks: 319
   owner: Luracast
