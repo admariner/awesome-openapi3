@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3398
+  stars: 3399
   watch: 110
-  forks: 558
-  updated: '2023-10-24T01:42:47Z'
-  issues: 49
+  forks: 559
+  updated: '2023-10-25T09:10:05Z'
+  issues: 50
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 43
   forks: 461
   updated: '2023-10-20T10:25:22Z'
-  issues: 342
+  issues: 343
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4347
-  watch: 819
-  updated: '2023-10-24T09:28:38Z'
+  stars: 4348
+  watch: 817
+  updated: '2023-10-25T14:29:27Z'
   issues: 80
-  forks: 746
+  forks: 748
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -404,7 +404,7 @@
   stars: 207
   watch: 4
   forks: 29
-  updated: '2023-10-11T07:17:49Z'
+  updated: '2023-10-25T22:22:28Z'
   issues: 25
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -652,7 +652,7 @@
   category: '?'
   archived: false
   stars: 1358
-  watch: 89
+  watch: 90
   updated: '2023-10-22T13:05:54Z'
   issues: 37
   forks: 319
