@@ -271,7 +271,7 @@
   category: '?'
   archived: false
   stars: 1006
-  watch: 21
+  watch: 20
   updated: '2023-10-26T15:20:13Z'
   issues: 67
   forks: 152
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3400
+  stars: 3401
   watch: 110
   forks: 559
-  updated: '2023-10-26T12:34:34Z'
+  updated: '2023-10-27T19:48:14Z'
   issues: 50
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 43
   forks: 461
   updated: '2023-10-20T10:25:22Z'
-  issues: 346
+  issues: 347
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4348
+  stars: 4351
   watch: 817
-  updated: '2023-10-25T14:29:27Z'
+  updated: '2023-10-27T23:32:36Z'
   issues: 80
   forks: 748
   license: MIT
@@ -544,7 +544,7 @@
   watch: 6
   forks: 62
   updated: '2023-09-12T21:35:52Z'
-  issues: 29
+  issues: 30
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
   license: MIT
@@ -635,7 +635,7 @@
   watch: 21
   updated: '2023-10-24T13:38:10Z'
   issues: 98
-  forks: 169
+  forks: 170
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -688,11 +688,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 672
+  stars: 673
   watch: 15
-  forks: 127
-  updated: '2023-10-19T09:25:33Z'
-  issues: 40
+  forks: 128
+  updated: '2023-10-27T15:42:16Z'
+  issues: 41
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 140
+  stars: 141
   watch: 5
   forks: 30
-  updated: '2023-10-16T15:28:04Z'
+  updated: '2023-10-27T13:15:17Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
