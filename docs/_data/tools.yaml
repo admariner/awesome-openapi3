@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3414
+  stars: 3417
   watch: 110
   forks: 560
-  updated: '2023-11-08T06:57:53Z'
+  updated: '2023-11-09T20:59:21Z'
   issues: 55
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -474,7 +474,7 @@
   archived: false
   stars: 187
   watch: 18
-  forks: 48
+  forks: 49
   updated: '2023-10-22T19:40:21Z'
   issues: 4
   owner: Cornutum
@@ -634,7 +634,7 @@
   stars: 1039
   watch: 21
   updated: '2023-11-07T12:39:38Z'
-  issues: 99
+  issues: 100
   forks: 170
   license: MIT
   owner: LucyBot-Inc
