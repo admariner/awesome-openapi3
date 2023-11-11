@@ -324,8 +324,8 @@
   archived: false
   stars: 3417
   watch: 110
-  forks: 560
-  updated: '2023-11-09T20:59:21Z'
+  forks: 561
+  updated: '2023-11-10T11:28:40Z'
   issues: 55
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 43
   forks: 463
   updated: '2023-11-06T02:45:26Z'
-  issues: 352
+  issues: 351
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4363
-  watch: 817
-  updated: '2023-11-08T17:19:22Z'
-  issues: 86
+  stars: 4365
+  watch: 816
+  updated: '2023-11-10T22:16:59Z'
+  issues: 87
   forks: 750
   license: MIT
   owner: Azure
