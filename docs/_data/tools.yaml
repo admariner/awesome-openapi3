@@ -237,7 +237,7 @@
   stars: 513
   watch: 14
   forks: 68
-  updated: '2023-10-20T07:27:55Z'
+  updated: '2023-11-15T11:24:09Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 589
+  stars: 591
   watch: 36
   forks: 54
-  updated: '2023-11-12T19:32:55Z'
+  updated: '2023-11-15T20:39:22Z'
   issues: 7
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3424
+  stars: 3425
   watch: 111
   forks: 562
-  updated: '2023-11-14T13:32:48Z'
+  updated: '2023-11-15T00:43:31Z'
   issues: 55
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4367
-  watch: 816
-  updated: '2023-11-13T06:31:00Z'
-  issues: 87
+  stars: 4371
+  watch: 817
+  updated: '2023-11-15T20:07:57Z'
+  issues: 90
   forks: 751
   license: MIT
   owner: Azure
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 207
+  stars: 206
   watch: 4
   forks: 29
-  updated: '2023-10-25T22:22:28Z'
+  updated: '2023-11-15T22:38:49Z'
   issues: 25
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -635,7 +635,7 @@
   watch: 21
   updated: '2023-11-13T18:41:49Z'
   issues: 101
-  forks: 171
+  forks: 170
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
