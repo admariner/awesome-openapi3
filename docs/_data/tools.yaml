@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 591
+  stars: 593
   watch: 36
   forks: 54
-  updated: '2023-11-15T20:39:22Z'
+  updated: '2023-11-19T16:24:26Z'
   issues: 7
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3430
+  stars: 3434
   watch: 111
-  forks: 563
-  updated: '2023-11-17T16:51:47Z'
+  forks: 564
+  updated: '2023-11-20T12:13:57Z'
   issues: 57
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 43
   forks: 462
   updated: '2023-11-06T02:45:26Z'
-  issues: 353
+  issues: 354
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4373
+  stars: 4374
   watch: 816
-  updated: '2023-11-16T08:55:10Z'
+  updated: '2023-11-20T22:50:16Z'
   issues: 88
   forks: 751
   license: MIT
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 38
+  stars: 39
   watch: 5
   forks: 5
-  updated: '2023-11-17T05:05:32Z'
+  updated: '2023-11-20T16:22:06Z'
   issues: 6
   license: Apache-2.0
   owner: GeniusesGroup
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 173
+  stars: 174
   watch: 5
-  forks: 15
-  updated: '2023-11-03T02:19:11Z'
+  forks: 16
+  updated: '2023-11-19T04:55:56Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,11 +631,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1043
+  stars: 1044
   watch: 21
-  updated: '2023-11-17T20:32:35Z'
+  updated: '2023-11-20T09:32:43Z'
   issues: 101
-  forks: 170
+  forks: 171
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1358
+  stars: 1359
   watch: 90
-  updated: '2023-11-16T14:34:00Z'
+  updated: '2023-11-18T11:27:31Z'
   issues: 37
   forks: 319
   owner: Luracast
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 140
+  stars: 141
   watch: 5
   forks: 30
-  updated: '2023-11-07T12:46:15Z'
+  updated: '2023-11-18T17:14:00Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
