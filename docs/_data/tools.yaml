@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 286
+  stars: 287
   watch: 9
   forks: 42
-  updated: '2023-11-14T09:09:27Z'
+  updated: '2023-11-21T20:04:20Z'
   issues: 54
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1013
+  stars: 1014
   watch: 20
-  updated: '2023-11-16T07:55:42Z'
+  updated: '2023-11-21T07:42:43Z'
   issues: 69
   forks: 152
   license: MIT
@@ -347,7 +347,7 @@
   watch: 43
   forks: 462
   updated: '2023-11-06T02:45:26Z'
-  issues: 354
+  issues: 353
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1044
+  stars: 1045
   watch: 21
-  updated: '2023-11-20T09:32:43Z'
+  updated: '2023-11-21T10:00:23Z'
   issues: 101
   forks: 171
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 675
+  stars: 676
   watch: 15
   forks: 129
-  updated: '2023-11-16T00:17:55Z'
+  updated: '2023-11-21T10:23:36Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
