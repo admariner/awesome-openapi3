@@ -221,7 +221,7 @@
   watch: 9
   forks: 42
   updated: '2023-11-21T20:04:20Z'
-  issues: 54
+  issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3434
+  stars: 3435
   watch: 111
   forks: 564
-  updated: '2023-11-20T12:13:57Z'
+  updated: '2023-11-22T21:03:45Z'
   issues: 57
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 888
+  stars: 889
   watch: 43
   forks: 462
-  updated: '2023-11-06T02:45:26Z'
+  updated: '2023-11-22T22:49:46Z'
   issues: 353
   license: Apache-2.0
   owner: Apicurio
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 206
+  stars: 207
   watch: 4
   forks: 29
-  updated: '2023-11-15T22:38:49Z'
+  updated: '2023-11-22T15:50:43Z'
   issues: 25
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -454,9 +454,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 173
+  stars: 174
   watch: 11
-  updated: '2023-11-04T08:17:51Z'
+  updated: '2023-11-22T15:44:26Z'
   issues: 10
   forks: 24
   license: ISC
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 103
+  stars: 104
   watch: 6
   forks: 62
-  updated: '2023-11-11T07:13:08Z'
+  updated: '2023-11-22T06:03:59Z'
   issues: 30
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 39
+  stars: 40
   watch: 5
   forks: 5
-  updated: '2023-11-20T16:22:06Z'
+  updated: '2023-11-22T11:39:59Z'
   issues: 6
   license: Apache-2.0
   owner: GeniusesGroup
