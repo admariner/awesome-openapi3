@@ -219,7 +219,7 @@
   archived: false
   stars: 287
   watch: 9
-  forks: 42
+  forks: 43
   updated: '2023-11-21T20:04:20Z'
   issues: 55
   owner: 42Crunch
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1014
+  stars: 1013
   watch: 20
-  updated: '2023-11-21T07:42:43Z'
+  updated: '2023-11-24T19:15:55Z'
   issues: 69
   forks: 152
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 593
+  stars: 594
   watch: 36
   forks: 54
-  updated: '2023-11-19T16:24:26Z'
+  updated: '2023-11-24T13:24:35Z'
   issues: 7
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3436
+  stars: 3437
   watch: 111
   forks: 565
-  updated: '2023-11-23T10:13:41Z'
+  updated: '2023-11-24T19:16:35Z'
   issues: 57
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,7 +345,7 @@
   archived: false
   stars: 890
   watch: 43
-  forks: 462
+  forks: 463
   updated: '2023-11-23T16:25:59Z'
   issues: 353
   license: Apache-2.0
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4375
+  stars: 4376
   watch: 816
-  updated: '2023-11-23T12:32:40Z'
-  issues: 92
+  updated: '2023-11-24T19:16:34Z'
+  issues: 94
   forks: 751
   license: MIT
   owner: Azure
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 104
+  stars: 105
   watch: 6
   forks: 62
-  updated: '2023-11-22T06:03:59Z'
+  updated: '2023-11-24T15:11:47Z'
   issues: 30
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 174
+  stars: 173
   watch: 5
   forks: 16
-  updated: '2023-11-19T04:55:56Z'
+  updated: '2023-11-24T20:09:55Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1045
+  stars: 1044
   watch: 21
-  updated: '2023-11-21T10:00:23Z'
+  updated: '2023-11-24T19:17:20Z'
   issues: 101
   forks: 171
   license: MIT
