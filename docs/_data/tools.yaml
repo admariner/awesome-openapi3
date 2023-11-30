@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 287
+  stars: 288
   watch: 9
-  forks: 43
-  updated: '2023-11-21T20:04:20Z'
+  forks: 42
+  updated: '2023-11-29T15:26:06Z'
   issues: 54
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -236,7 +236,7 @@
   archived: true
   stars: 513
   watch: 14
-  forks: 69
+  forks: 68
   updated: '2023-11-15T11:24:09Z'
   issues: 51
   license: MIT
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1013
+  stars: 1014
   watch: 20
-  updated: '2023-11-24T19:15:55Z'
+  updated: '2023-11-29T10:56:38Z'
   issues: 69
   forks: 152
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3441
+  stars: 3445
   watch: 111
   forks: 566
-  updated: '2023-11-28T19:16:46Z'
+  updated: '2023-11-29T23:28:25Z'
   issues: 59
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 43
   forks: 463
   updated: '2023-11-27T12:21:53Z'
-  issues: 354
+  issues: 349
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4380
+  stars: 4381
   watch: 817
-  updated: '2023-11-28T22:32:47Z'
-  issues: 96
-  forks: 751
+  updated: '2023-11-29T20:59:30Z'
+  issues: 97
+  forks: 752
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -476,7 +476,7 @@
   watch: 18
   forks: 49
   updated: '2023-11-12T14:40:47Z'
-  issues: 4
+  issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
   license: MIT
@@ -594,11 +594,11 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 173
+  stars: 174
   watch: 5
   forks: 16
-  updated: '2023-11-24T20:09:55Z'
-  issues: 6
+  updated: '2023-11-29T10:04:02Z'
+  issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 677
+  stars: 678
   watch: 15
   forks: 129
-  updated: '2023-11-28T09:02:41Z'
+  updated: '2023-11-29T00:40:36Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
