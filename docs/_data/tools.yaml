@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1014
+  stars: 1015
   watch: 20
-  updated: '2023-11-29T10:56:38Z'
+  updated: '2023-11-30T18:54:34Z'
   issues: 69
   forks: 152
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3445
+  stars: 3448
   watch: 111
   forks: 566
-  updated: '2023-11-29T23:28:25Z'
+  updated: '2023-11-30T18:15:49Z'
   issues: 59
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,9 +345,9 @@
   archived: false
   stars: 890
   watch: 43
-  forks: 463
+  forks: 462
   updated: '2023-11-27T12:21:53Z'
-  issues: 349
+  issues: 350
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -385,8 +385,8 @@
   stars: 4381
   watch: 817
   updated: '2023-11-29T20:59:30Z'
-  issues: 97
-  forks: 752
+  issues: 104
+  forks: 753
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -405,7 +405,7 @@
   watch: 4
   forks: 29
   updated: '2023-11-22T15:50:43Z'
-  issues: 25
+  issues: 26
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
@@ -476,7 +476,7 @@
   watch: 18
   forks: 49
   updated: '2023-11-12T14:40:47Z'
-  issues: 5
+  issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
   license: MIT
@@ -579,7 +579,7 @@
   watch: 5
   forks: 5
   updated: '2023-11-22T11:39:59Z'
-  issues: 6
+  issues: 7
   license: Apache-2.0
   owner: GeniusesGroup
   logo: 'https://avatars.githubusercontent.com/u/16743416?v=4'
@@ -654,7 +654,7 @@
   stars: 1359
   watch: 90
   updated: '2023-11-18T11:27:31Z'
-  issues: 37
+  issues: 39
   forks: 319
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 141
+  stars: 142
   watch: 5
   forks: 30
-  updated: '2023-11-18T17:14:00Z'
+  updated: '2023-11-30T02:06:44Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
