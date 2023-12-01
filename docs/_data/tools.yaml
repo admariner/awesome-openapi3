@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 288
+  stars: 289
   watch: 9
   forks: 42
-  updated: '2023-11-29T15:26:06Z'
+  updated: '2023-12-01T22:42:36Z'
   issues: 54
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 594
+  stars: 595
   watch: 36
   forks: 54
-  updated: '2023-11-24T13:24:35Z'
+  updated: '2023-12-01T00:49:33Z'
   issues: 7
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3448
+  stars: 3449
   watch: 111
-  forks: 566
-  updated: '2023-11-30T18:15:49Z'
-  issues: 59
+  forks: 567
+  updated: '2023-12-01T16:44:44Z'
+  issues: 60
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -344,10 +344,10 @@
   v3: true
   archived: false
   stars: 890
-  watch: 43
-  forks: 462
+  watch: 45
+  forks: 461
   updated: '2023-11-27T12:21:53Z'
-  issues: 350
+  issues: 351
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -383,9 +383,9 @@
   category: '?'
   archived: false
   stars: 4381
-  watch: 817
+  watch: 818
   updated: '2023-11-29T20:59:30Z'
-  issues: 104
+  issues: 113
   forks: 753
   license: MIT
   owner: Azure
@@ -578,7 +578,7 @@
   stars: 40
   watch: 5
   forks: 5
-  updated: '2023-11-22T11:39:59Z'
+  updated: '2023-12-01T13:43:20Z'
   issues: 7
   license: Apache-2.0
   owner: GeniusesGroup
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 678
+  stars: 679
   watch: 15
   forks: 129
-  updated: '2023-11-29T00:40:36Z'
+  updated: '2023-12-01T18:08:13Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
