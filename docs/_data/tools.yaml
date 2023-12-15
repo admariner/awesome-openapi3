@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1017
+  stars: 1018
   watch: 20
-  updated: '2023-12-13T17:54:25Z'
+  updated: '2023-12-14T15:49:30Z'
   issues: 69
   forks: 154
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 597
+  stars: 598
   watch: 36
   forks: 54
-  updated: '2023-12-12T08:10:56Z'
+  updated: '2023-12-14T10:56:52Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -326,7 +326,7 @@
   watch: 111
   forks: 570
   updated: '2023-12-13T23:35:16Z'
-  issues: 62
+  issues: 63
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -383,9 +383,9 @@
   category: '?'
   archived: false
   stars: 4389
-  watch: 818
+  watch: 819
   updated: '2023-12-09T20:10:46Z'
-  issues: 122
+  issues: 123
   forks: 753
   license: MIT
   owner: Azure
@@ -705,10 +705,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 290
+  stars: 291
   watch: 12
-  forks: 46
-  updated: '2023-11-17T15:10:02Z'
+  forks: 47
+  updated: '2023-12-14T01:59:08Z'
   issues: 24
   license: Apache-2.0
   owner: Mermade
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 143
+  stars: 144
   watch: 5
   forks: 30
-  updated: '2023-12-10T11:26:22Z'
+  updated: '2023-12-14T12:16:46Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
