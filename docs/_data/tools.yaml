@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1019
+  stars: 1021
   watch: 20
-  updated: '2023-12-15T17:49:23Z'
+  updated: '2023-12-17T23:51:27Z'
   issues: 69
   forks: 154
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3469
+  stars: 3473
   watch: 111
   forks: 570
-  updated: '2023-12-15T21:07:06Z'
+  updated: '2023-12-18T02:22:28Z'
   issues: 65
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,9 +345,9 @@
   archived: false
   stars: 891
   watch: 45
-  forks: 460
+  forks: 459
   updated: '2023-12-12T21:41:37Z'
-  issues: 344
+  issues: 346
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
