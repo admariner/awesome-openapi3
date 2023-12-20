@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3473
+  stars: 3475
   watch: 111
   forks: 570
-  updated: '2023-12-18T02:22:28Z'
+  updated: '2023-12-19T22:44:35Z'
   issues: 65
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,9 +345,9 @@
   archived: false
   stars: 891
   watch: 45
-  forks: 459
+  forks: 460
   updated: '2023-12-12T21:41:37Z'
-  issues: 346
+  issues: 342
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4389
+  stars: 4390
   watch: 819
-  updated: '2023-12-09T20:10:46Z'
-  issues: 123
-  forks: 754
+  updated: '2023-12-19T09:26:46Z'
+  issues: 122
+  forks: 755
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 189
+  stars: 190
   watch: 18
   forks: 49
-  updated: '2023-12-07T02:54:56Z'
+  updated: '2023-12-19T19:17:53Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -634,7 +634,7 @@
   stars: 1052
   watch: 21
   updated: '2023-12-15T06:24:32Z'
-  issues: 101
+  issues: 102
   forks: 172
   license: MIT
   owner: LucyBot-Inc
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
+  stars: 1358
   watch: 90
-  updated: '2023-11-18T11:27:31Z'
+  updated: '2023-12-19T09:06:36Z'
   issues: 39
   forks: 319
   owner: Luracast
