@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 598
+  stars: 595
   watch: 36
   forks: 54
-  updated: '2023-12-15T03:45:13Z'
+  updated: '2023-12-20T03:21:59Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3475
+  stars: 3476
   watch: 111
   forks: 570
-  updated: '2023-12-19T22:44:35Z'
+  updated: '2023-12-20T03:10:07Z'
   issues: 65
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,7 +345,7 @@
   archived: false
   stars: 891
   watch: 45
-  forks: 460
+  forks: 461
   updated: '2023-12-12T21:41:37Z'
   issues: 342
   license: Apache-2.0
@@ -385,7 +385,7 @@
   stars: 4390
   watch: 819
   updated: '2023-12-19T09:26:46Z'
-  issues: 122
+  issues: 119
   forks: 755
   license: MIT
   owner: Azure
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 175
+  stars: 176
   watch: 5
   forks: 16
-  updated: '2023-12-08T13:08:41Z'
+  updated: '2023-12-20T03:58:33Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 144
+  stars: 145
   watch: 5
   forks: 30
-  updated: '2023-12-14T12:16:46Z'
+  updated: '2023-12-18T12:54:55Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
