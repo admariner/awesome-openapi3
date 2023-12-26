@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3485
+  stars: 3487
   watch: 111
-  forks: 570
-  updated: '2023-12-25T20:07:25Z'
-  issues: 67
+  forks: 571
+  updated: '2023-12-26T19:51:47Z'
+  issues: 68
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4393
+  stars: 4394
   watch: 819
-  updated: '2023-12-23T01:15:10Z'
-  issues: 120
+  updated: '2023-12-26T18:59:47Z'
+  issues: 121
   forks: 755
   license: MIT
   owner: Azure
@@ -405,7 +405,7 @@
   watch: 4
   forks: 29
   updated: '2023-11-22T15:50:43Z'
-  issues: 26
+  issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 176
+  stars: 177
   watch: 5
   forks: 16
-  updated: '2023-12-20T03:58:33Z'
+  updated: '2023-12-26T10:15:18Z'
   issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -653,7 +653,7 @@
   archived: false
   stars: 1358
   watch: 90
-  updated: '2023-12-19T09:06:36Z'
+  updated: '2023-12-26T13:17:13Z'
   issues: 40
   forks: 320
   owner: Luracast
