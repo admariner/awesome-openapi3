@@ -221,7 +221,7 @@
   watch: 9
   forks: 42
   updated: '2023-12-15T00:34:17Z'
-  issues: 55
+  issues: 52
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3487
+  stars: 3489
   watch: 111
   forks: 571
-  updated: '2023-12-26T19:51:47Z'
+  updated: '2023-12-27T21:29:25Z'
   issues: 68
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4394
+  stars: 4393
   watch: 819
-  updated: '2023-12-26T18:59:47Z'
-  issues: 121
+  updated: '2023-12-27T09:44:30Z'
+  issues: 122
   forks: 755
   license: MIT
   owner: Azure
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 191
+  stars: 192
   watch: 18
   forks: 49
-  updated: '2023-12-22T02:11:32Z'
+  updated: '2023-12-27T05:05:43Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1052
+  stars: 1053
   watch: 21
-  updated: '2023-12-15T06:24:32Z'
+  updated: '2023-12-27T05:54:09Z'
   issues: 102
   forks: 172
   license: MIT
@@ -691,7 +691,7 @@
   stars: 680
   watch: 15
   forks: 129
-  updated: '2023-12-25T23:10:38Z'
+  updated: '2023-12-27T06:47:29Z'
   issues: 41
   license: BSD-3-Clause
   owner: Mermade
