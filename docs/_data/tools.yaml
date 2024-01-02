@@ -221,7 +221,7 @@
   watch: 9
   forks: 42
   updated: '2023-12-29T03:30:57Z'
-  issues: 52
+  issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3491
+  stars: 3493
   watch: 112
   forks: 571
-  updated: '2023-12-30T02:12:07Z'
+  updated: '2024-01-02T16:18:34Z'
   issues: 69
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 45
   forks: 461
   updated: '2023-12-12T21:41:37Z'
-  issues: 342
+  issues: 343
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4394
+  stars: 4393
   watch: 819
-  updated: '2023-12-29T08:56:02Z'
-  issues: 120
+  updated: '2024-01-02T16:18:34Z'
+  issues: 121
   forks: 756
   license: MIT
   owner: Azure
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 207
+  stars: 208
   watch: 4
   forks: 29
-  updated: '2023-11-22T15:50:43Z'
+  updated: '2024-01-02T20:35:59Z'
   issues: 27
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 177
+  stars: 176
   watch: 5
   forks: 16
-  updated: '2023-12-26T10:15:18Z'
+  updated: '2024-01-02T17:14:51Z'
   issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1053
+  stars: 1054
   watch: 21
-  updated: '2023-12-27T05:54:09Z'
+  updated: '2024-01-02T16:19:21Z'
   issues: 102
   forks: 172
   license: MIT
