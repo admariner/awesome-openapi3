@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1024
+  stars: 1025
   watch: 20
-  updated: '2024-01-05T14:24:41Z'
+  updated: '2024-01-06T22:41:14Z'
   issues: 69
   forks: 155
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3499
+  stars: 3504
   watch: 112
-  forks: 571
-  updated: '2024-01-04T20:58:21Z'
-  issues: 70
+  forks: 572
+  updated: '2024-01-08T06:23:36Z'
+  issues: 71
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 45
   forks: 462
   updated: '2024-01-03T08:58:39Z'
-  issues: 344
+  issues: 342
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4398
-  watch: 819
-  updated: '2024-01-05T06:18:55Z'
-  issues: 120
-  forks: 756
+  stars: 4403
+  watch: 820
+  updated: '2024-01-08T15:20:16Z'
+  issues: 121
+  forks: 757
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -403,7 +403,7 @@
   archived: false
   stars: 208
   watch: 4
-  forks: 29
+  forks: 28
   updated: '2024-01-02T20:35:59Z'
   issues: 27
   owner: BRIKEV
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 192
+  stars: 193
   watch: 18
   forks: 49
-  updated: '2023-12-27T05:05:43Z'
+  updated: '2024-01-07T04:42:19Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -579,7 +579,7 @@
   watch: 5
   forks: 5
   updated: '2023-12-01T13:43:20Z'
-  issues: 7
+  issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
   logo: 'https://avatars.githubusercontent.com/u/16743416?v=4'
@@ -631,11 +631,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1055
-  watch: 21
-  updated: '2024-01-04T15:59:49Z'
+  stars: 1056
+  watch: 22
+  updated: '2024-01-08T03:09:51Z'
   issues: 102
-  forks: 172
+  forks: 173
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
