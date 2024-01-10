@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 513
+  stars: 514
   watch: 14
   forks: 68
-  updated: '2023-12-15T02:59:02Z'
+  updated: '2024-01-09T01:02:07Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3504
+  stars: 3505
   watch: 112
   forks: 572
-  updated: '2024-01-08T06:23:36Z'
+  updated: '2024-01-09T02:00:58Z'
   issues: 71
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 45
   forks: 462
   updated: '2024-01-03T08:58:39Z'
-  issues: 342
+  issues: 343
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -383,9 +383,9 @@
   category: '?'
   archived: false
   stars: 4403
-  watch: 820
+  watch: 822
   updated: '2024-01-08T15:20:16Z'
-  issues: 121
+  issues: 123
   forks: 757
   license: MIT
   owner: Azure
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 193
+  stars: 192
   watch: 18
   forks: 49
-  updated: '2024-01-07T04:42:19Z'
+  updated: '2024-01-09T09:02:37Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1357
+  stars: 1356
   watch: 90
-  updated: '2024-01-03T18:49:59Z'
+  updated: '2024-01-09T18:55:31Z'
   issues: 40
   forks: 320
   owner: Luracast
@@ -692,7 +692,7 @@
   watch: 15
   forks: 129
   updated: '2023-12-27T06:47:29Z'
-  issues: 41
+  issues: 42
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
