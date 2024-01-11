@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3505
+  stars: 3506
   watch: 112
   forks: 572
-  updated: '2024-01-09T02:00:58Z'
+  updated: '2024-01-10T18:30:19Z'
   issues: 71
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -383,9 +383,9 @@
   category: '?'
   archived: false
   stars: 4403
-  watch: 822
+  watch: 821
   updated: '2024-01-08T15:20:16Z'
-  issues: 123
+  issues: 124
   forks: 757
   license: MIT
   owner: Azure
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 192
+  stars: 193
   watch: 18
   forks: 49
-  updated: '2024-01-09T09:02:37Z'
+  updated: '2024-01-10T13:31:35Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -748,7 +748,7 @@
   stars: 146
   watch: 5
   forks: 31
-  updated: '2023-12-24T12:32:23Z'
+  updated: '2024-01-10T05:44:06Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
