@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 297
+  stars: 298
   watch: 9
   forks: 43
-  updated: '2024-01-12T22:38:50Z'
+  updated: '2024-01-18T17:48:49Z'
   issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 598
+  stars: 599
   watch: 36
-  forks: 54
-  updated: '2024-01-14T21:39:31Z'
+  forks: 55
+  updated: '2024-01-18T18:10:19Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3513
+  stars: 3516
   watch: 112
   forks: 572
-  updated: '2024-01-17T21:58:59Z'
+  updated: '2024-01-18T09:43:23Z'
   issues: 72
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 894
+  stars: 895
   watch: 45
-  forks: 463
-  updated: '2024-01-16T21:06:12Z'
+  forks: 464
+  updated: '2024-01-18T09:13:27Z'
   issues: 344
   license: Apache-2.0
   owner: Apicurio
@@ -385,7 +385,7 @@
   stars: 4410
   watch: 823
   updated: '2024-01-17T18:42:44Z'
-  issues: 120
+  issues: 121
   forks: 757
   license: MIT
   owner: Azure
@@ -454,9 +454,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 174
+  stars: 175
   watch: 11
-  updated: '2023-11-22T15:44:26Z'
+  updated: '2024-01-18T15:54:15Z'
   issues: 10
   forks: 24
   license: ISC
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 193
-  watch: 18
+  stars: 194
+  watch: 19
   forks: 49
-  updated: '2024-01-13T23:53:31Z'
+  updated: '2024-01-18T09:45:43Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -631,11 +631,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1059
+  stars: 1060
   watch: 22
-  updated: '2024-01-17T18:59:19Z'
+  updated: '2024-01-18T03:05:31Z'
   issues: 102
-  forks: 173
+  forks: 174
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
