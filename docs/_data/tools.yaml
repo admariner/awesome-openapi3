@@ -221,7 +221,7 @@
   watch: 9
   forks: 43
   updated: '2024-01-18T17:48:49Z'
-  issues: 53
+  issues: 54
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 599
+  stars: 600
   watch: 36
   forks: 55
-  updated: '2024-01-18T18:10:19Z'
+  updated: '2024-01-19T10:24:28Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -345,7 +345,7 @@
   archived: false
   stars: 895
   watch: 45
-  forks: 464
+  forks: 463
   updated: '2024-01-18T09:13:27Z'
   issues: 344
   license: Apache-2.0
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4410
+  stars: 4411
   watch: 823
-  updated: '2024-01-17T18:42:44Z'
-  issues: 121
+  updated: '2024-01-19T10:23:34Z'
+  issues: 120
   forks: 757
   license: MIT
   owner: Azure
@@ -472,11 +472,11 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 194
+  stars: 195
   watch: 19
   forks: 49
-  updated: '2024-01-18T09:45:43Z'
-  issues: 5
+  updated: '2024-01-19T01:14:19Z'
+  issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1357
+  stars: 1358
   watch: 90
-  updated: '2024-01-17T15:48:15Z'
+  updated: '2024-01-19T12:54:43Z'
   issues: 40
   forks: 320
   owner: Luracast
