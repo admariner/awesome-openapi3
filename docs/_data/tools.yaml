@@ -221,7 +221,7 @@
   watch: 9
   forks: 43
   updated: '2024-01-18T17:48:49Z'
-  issues: 54
+  issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1029
+  stars: 1030
   watch: 20
-  updated: '2024-01-12T10:01:34Z'
+  updated: '2024-01-22T14:05:02Z'
   issues: 69
   forks: 156
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 600
+  stars: 602
   watch: 36
   forks: 55
-  updated: '2024-01-19T10:24:28Z'
+  updated: '2024-01-22T21:14:22Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3516
+  stars: 3518
   watch: 112
   forks: 572
-  updated: '2024-01-18T09:43:23Z'
+  updated: '2024-01-22T21:12:27Z'
   issues: 72
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4411
-  watch: 823
-  updated: '2024-01-19T10:23:34Z'
+  stars: 4412
+  watch: 824
+  updated: '2024-01-22T14:40:34Z'
   issues: 120
   forks: 757
   license: MIT
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 177
+  stars: 178
   watch: 5
   forks: 16
-  updated: '2024-01-04T16:53:09Z'
+  updated: '2024-01-21T10:12:58Z'
   issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,11 +631,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1060
+  stars: 1062
   watch: 22
-  updated: '2024-01-18T03:05:31Z'
+  updated: '2024-01-22T07:14:23Z'
   issues: 102
-  forks: 174
+  forks: 175
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
