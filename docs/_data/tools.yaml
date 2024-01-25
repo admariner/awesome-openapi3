@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1030
+  stars: 1029
   watch: 20
-  updated: '2024-01-22T14:05:02Z'
+  updated: '2024-01-24T09:34:57Z'
   issues: 69
   forks: 155
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3520
+  stars: 3527
   watch: 112
-  forks: 573
-  updated: '2024-01-23T18:25:29Z'
+  forks: 575
+  updated: '2024-01-24T21:52:16Z'
   issues: 72
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4413
-  watch: 824
-  updated: '2024-01-23T03:20:48Z'
+  stars: 4412
+  watch: 827
+  updated: '2024-01-24T21:05:39Z'
   issues: 120
   forks: 757
   license: MIT
@@ -474,7 +474,7 @@
   archived: false
   stars: 195
   watch: 19
-  forks: 49
+  forks: 50
   updated: '2024-01-19T01:14:19Z'
   issues: 4
   owner: Cornutum
@@ -559,7 +559,7 @@
   language: Elixir
   archived: false
   stars: 36
-  watch: 20
+  watch: 21
   forks: 2
   updated: '2022-09-10T22:14:19Z'
   issues: 3
@@ -631,10 +631,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1062
+  stars: 1061
   watch: 22
-  updated: '2024-01-22T07:14:23Z'
-  issues: 102
+  updated: '2024-01-24T09:52:01Z'
+  issues: 103
   forks: 175
   license: MIT
   owner: LucyBot-Inc
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1358
+  stars: 1357
   watch: 90
-  updated: '2024-01-19T12:54:43Z'
+  updated: '2024-01-24T12:11:41Z'
   issues: 40
   forks: 320
   owner: Luracast
