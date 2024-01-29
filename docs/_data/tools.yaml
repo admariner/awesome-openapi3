@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 298
+  stars: 299
   watch: 9
   forks: 44
-  updated: '2024-01-18T17:48:49Z'
+  updated: '2024-01-27T11:00:28Z'
   issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 513
+  stars: 514
   watch: 14
   forks: 68
-  updated: '2024-01-15T10:27:53Z'
+  updated: '2024-01-27T17:25:18Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3537
+  stars: 3540
   watch: 112
-  forks: 575
-  updated: '2024-01-26T22:00:11Z'
-  issues: 73
+  forks: 577
+  updated: '2024-01-29T20:38:50Z'
+  issues: 74
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,7 +345,7 @@
   archived: false
   stars: 898
   watch: 45
-  forks: 462
+  forks: 463
   updated: '2024-01-26T22:35:12Z'
   issues: 344
   license: Apache-2.0
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4414
-  watch: 827
-  updated: '2024-01-26T07:56:54Z'
+  stars: 4416
+  watch: 828
+  updated: '2024-01-29T13:16:03Z'
   issues: 118
   forks: 757
   license: MIT
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 195
+  stars: 196
   watch: 19
   forks: 50
-  updated: '2024-01-19T01:14:19Z'
+  updated: '2024-01-29T06:21:44Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1062
+  stars: 1063
   watch: 22
-  updated: '2024-01-26T09:54:52Z'
+  updated: '2024-01-28T18:04:56Z'
   issues: 103
   forks: 175
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1356
-  watch: 90
-  updated: '2024-01-26T09:48:52Z'
+  stars: 1355
+  watch: 89
+  updated: '2024-01-27T12:51:10Z'
   issues: 40
   forks: 320
   owner: Luracast
