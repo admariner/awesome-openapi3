@@ -221,7 +221,7 @@
   watch: 9
   forks: 44
   updated: '2024-01-27T11:00:28Z'
-  issues: 53
+  issues: 54
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3546
+  stars: 3547
   watch: 112
-  forks: 579
-  updated: '2024-02-01T19:15:07Z'
-  issues: 75
+  forks: 580
+  updated: '2024-02-02T09:17:28Z'
+  issues: 76
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 45
   forks: 464
   updated: '2024-01-31T17:15:15Z'
-  issues: 345
+  issues: 346
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -384,8 +384,8 @@
   archived: false
   stars: 4422
   watch: 829
-  updated: '2024-02-01T15:56:27Z'
-  issues: 114
+  updated: '2024-02-02T08:39:01Z'
+  issues: 115
   forks: 757
   license: MIT
   owner: Azure
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 196
+  stars: 197
   watch: 19
   forks: 50
-  updated: '2024-01-29T06:21:44Z'
+  updated: '2024-02-02T12:14:59Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -654,7 +654,7 @@
   stars: 1354
   watch: 89
   updated: '2024-01-30T19:58:33Z'
-  issues: 41
+  issues: 40
   forks: 320
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
