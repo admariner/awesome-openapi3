@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1032
+  stars: 1033
   watch: 19
-  updated: '2024-01-31T05:42:08Z'
+  updated: '2024-02-06T07:52:02Z'
   issues: 69
   forks: 155
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3550
+  stars: 3551
   watch: 112
   forks: 579
-  updated: '2024-02-04T23:12:42Z'
+  updated: '2024-02-06T11:38:15Z'
   issues: 77
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 45
   forks: 464
   updated: '2024-02-03T10:46:44Z'
-  issues: 346
+  issues: 347
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -383,7 +383,7 @@
   category: '?'
   archived: false
   stars: 4427
-  watch: 829
+  watch: 833
   updated: '2024-02-05T20:12:21Z'
   issues: 99
   forks: 757
@@ -401,11 +401,11 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 208
+  stars: 209
   watch: 4
   forks: 28
-  updated: '2024-01-02T20:35:59Z'
-  issues: 27
+  updated: '2024-02-06T15:30:48Z'
+  issues: 28
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
@@ -489,9 +489,9 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 423
+  stars: 425
   watch: 29
-  updated: '2023-10-09T05:56:04Z'
+  updated: '2024-02-06T21:35:21Z'
   issues: 88
   forks: 154
   license: ''
@@ -724,10 +724,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 23
+  stars: 24
   watch: 4
   forks: 4
-  updated: '2024-02-05T18:34:57Z'
+  updated: '2024-02-06T12:07:45Z'
   issues: 5
   license: BSD-3-Clause
   owner: Mermade
