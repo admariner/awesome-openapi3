@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1033
+  stars: 1034
   watch: 19
-  updated: '2024-02-06T07:52:02Z'
+  updated: '2024-02-07T00:50:32Z'
   issues: 69
   forks: 155
   license: MIT
@@ -324,7 +324,7 @@
   archived: false
   stars: 3551
   watch: 112
-  forks: 579
+  forks: 580
   updated: '2024-02-06T11:38:15Z'
   issues: 77
   owner: APIs-guru
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4427
-  watch: 833
-  updated: '2024-02-05T20:12:21Z'
+  stars: 4429
+  watch: 832
+  updated: '2024-02-07T20:24:17Z'
   issues: 99
   forks: 757
   license: MIT
@@ -632,8 +632,8 @@
   category: '?'
   archived: false
   stars: 1065
-  watch: 22
-  updated: '2024-02-03T10:43:26Z'
+  watch: 21
+  updated: '2024-02-07T09:38:06Z'
   issues: 103
   forks: 175
   license: MIT
