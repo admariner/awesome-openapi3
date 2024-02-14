@@ -272,7 +272,7 @@
   archived: false
   stars: 1034
   watch: 19
-  updated: '2024-02-07T00:50:32Z'
+  updated: '2024-02-14T08:29:53Z'
   issues: 69
   forks: 155
   license: MIT
@@ -326,7 +326,7 @@
   watch: 112
   forks: 581
   updated: '2024-02-13T13:38:03Z'
-  issues: 79
+  issues: 80
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 900
+  stars: 902
   watch: 45
-  forks: 465
-  updated: '2024-02-11T23:05:57Z'
+  forks: 467
+  updated: '2024-02-14T08:11:26Z'
   issues: 347
   license: Apache-2.0
   owner: Apicurio
@@ -476,7 +476,7 @@
   watch: 19
   forks: 50
   updated: '2024-02-05T18:40:58Z'
-  issues: 5
+  issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
   license: MIT
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 107
+  stars: 108
   watch: 6
   forks: 63
-  updated: '2024-02-12T15:54:46Z'
+  updated: '2024-02-14T15:15:04Z'
   issues: 32
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1069
+  stars: 1068
   watch: 21
-  updated: '2024-02-11T17:21:28Z'
+  updated: '2024-02-14T02:53:17Z'
   issues: 103
   forks: 175
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 680
+  stars: 679
   watch: 15
   forks: 129
-  updated: '2024-01-15T10:28:14Z'
+  updated: '2024-02-14T02:53:24Z'
   issues: 42
   license: BSD-3-Clause
   owner: Mermade
