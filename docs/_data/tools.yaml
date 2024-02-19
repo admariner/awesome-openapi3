@@ -217,11 +217,11 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 299
+  stars: 300
   watch: 9
   forks: 45
-  updated: '2024-01-27T11:00:28Z'
-  issues: 58
+  updated: '2024-02-19T10:49:08Z'
+  issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1034
+  stars: 1036
   watch: 19
-  updated: '2024-02-14T08:29:53Z'
+  updated: '2024-02-19T16:19:44Z'
   issues: 69
   forks: 155
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3564
+  stars: 3569
   watch: 112
   forks: 581
-  updated: '2024-02-15T14:06:13Z'
-  issues: 80
+  updated: '2024-02-19T16:36:14Z'
+  issues: 82
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 902
+  stars: 903
   watch: 45
   forks: 467
-  updated: '2024-02-14T08:11:26Z'
+  updated: '2024-02-16T11:28:41Z'
   issues: 347
   license: Apache-2.0
   owner: Apicurio
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4433
+  stars: 4434
   watch: 832
-  updated: '2024-02-15T11:53:58Z'
-  issues: 99
+  updated: '2024-02-19T03:53:20Z'
+  issues: 102
   forks: 756
   license: MIT
   owner: Azure
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 108
+  stars: 109
   watch: 6
   forks: 63
-  updated: '2024-02-14T15:15:04Z'
+  updated: '2024-02-16T02:44:54Z'
   issues: 32
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -598,7 +598,7 @@
   watch: 5
   forks: 16
   updated: '2024-02-09T08:15:55Z'
-  issues: 7
+  issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 679
+  stars: 680
   watch: 15
   forks: 129
-  updated: '2024-02-14T02:53:24Z'
+  updated: '2024-02-19T21:41:31Z'
   issues: 42
   license: BSD-3-Clause
   owner: Mermade
