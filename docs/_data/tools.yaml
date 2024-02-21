@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 300
+  stars: 301
   watch: 9
   forks: 45
-  updated: '2024-02-19T10:49:08Z'
+  updated: '2024-02-20T05:44:43Z'
   issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3569
+  stars: 3570
   watch: 112
-  forks: 581
-  updated: '2024-02-19T16:36:14Z'
-  issues: 82
+  forks: 582
+  updated: '2024-02-20T16:43:02Z'
+  issues: 83
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 903
+  stars: 904
   watch: 45
   forks: 467
-  updated: '2024-02-16T11:28:41Z'
-  issues: 347
+  updated: '2024-02-20T02:44:27Z'
+  issues: 348
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4434
+  stars: 4435
   watch: 832
-  updated: '2024-02-19T03:53:20Z'
-  issues: 102
+  updated: '2024-02-20T16:41:52Z'
+  issues: 105
   forks: 756
   license: MIT
   owner: Azure
@@ -405,7 +405,7 @@
   watch: 4
   forks: 29
   updated: '2024-02-06T15:30:48Z'
-  issues: 29
+  issues: 30
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
