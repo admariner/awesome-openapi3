@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1037
+  stars: 1038
   watch: 19
-  updated: '2024-03-06T16:51:27Z'
+  updated: '2024-03-08T14:51:52Z'
   issues: 70
   forks: 155
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 602
+  stars: 603
   watch: 36
   forks: 55
-  updated: '2024-02-28T10:40:58Z'
+  updated: '2024-03-08T16:59:19Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3600
-  watch: 111
+  stars: 3601
+  watch: 110
   forks: 552
-  updated: '2024-03-07T17:33:10Z'
+  updated: '2024-03-08T16:59:13Z'
   issues: 89
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,9 +345,9 @@
   archived: false
   stars: 909
   watch: 45
-  forks: 467
+  forks: 468
   updated: '2024-03-05T16:45:04Z'
-  issues: 351
+  issues: 353
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4455
-  watch: 840
-  updated: '2024-03-06T23:45:05Z'
+  stars: 4456
+  watch: 841
+  updated: '2024-03-08T19:48:57Z'
   issues: 101
-  forks: 726
+  forks: 725
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 39
+  stars: 40
   watch: 5
   forks: 5
-  updated: '2024-02-22T07:54:21Z'
+  updated: '2024-03-08T14:35:23Z'
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
@@ -691,7 +691,7 @@
   stars: 680
   watch: 15
   forks: 129
-  updated: '2024-03-07T16:35:07Z'
+  updated: '2024-03-08T23:52:35Z'
   issues: 42
   license: BSD-3-Clause
   owner: Mermade
