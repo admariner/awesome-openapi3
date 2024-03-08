@@ -273,7 +273,7 @@
   stars: 1037
   watch: 19
   updated: '2024-03-06T16:51:27Z'
-  issues: 69
+  issues: 70
   forks: 155
   license: MIT
   owner: APIDevTools
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3599
+  stars: 3600
   watch: 111
   forks: 552
-  updated: '2024-03-06T17:26:09Z'
+  updated: '2024-03-07T17:33:10Z'
   issues: 89
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -475,7 +475,7 @@
   stars: 199
   watch: 19
   forks: 50
-  updated: '2024-02-22T20:44:53Z'
+  updated: '2024-03-06T13:06:55Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -655,7 +655,7 @@
   watch: 89
   updated: '2024-01-30T19:58:33Z'
   issues: 40
-  forks: 317
+  forks: 316
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
   downloads: 1925427
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 679
+  stars: 680
   watch: 15
   forks: 129
-  updated: '2024-02-23T13:48:01Z'
+  updated: '2024-03-07T16:35:07Z'
   issues: 42
   license: BSD-3-Clause
   owner: Mermade
@@ -707,7 +707,7 @@
   archived: false
   stars: 292
   watch: 12
-  forks: 48
+  forks: 47
   updated: '2024-02-12T20:44:38Z'
   issues: 24
   license: Apache-2.0
