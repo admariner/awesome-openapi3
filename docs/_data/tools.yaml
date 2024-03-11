@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1038
+  stars: 1039
   watch: 19
-  updated: '2024-03-08T14:51:52Z'
+  updated: '2024-03-11T21:35:13Z'
   issues: 70
   forks: 155
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 603
+  stars: 602
   watch: 36
   forks: 55
-  updated: '2024-03-08T16:59:19Z'
+  updated: '2024-03-10T01:33:45Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3601
+  stars: 3602
   watch: 110
   forks: 552
-  updated: '2024-03-08T16:59:13Z'
+  updated: '2024-03-11T20:53:17Z'
   issues: 89
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 909
+  stars: 910
   watch: 45
   forks: 468
-  updated: '2024-03-05T16:45:04Z'
-  issues: 353
+  updated: '2024-03-09T02:21:57Z'
+  issues: 356
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4456
+  stars: 4459
   watch: 841
-  updated: '2024-03-08T19:48:57Z'
-  issues: 101
+  updated: '2024-03-11T18:15:08Z'
+  issues: 103
   forks: 725
   license: MIT
   owner: Azure
@@ -404,8 +404,8 @@
   stars: 207
   watch: 4
   forks: 29
-  updated: '2024-03-02T22:55:11Z'
-  issues: 31
+  updated: '2024-03-10T15:58:42Z'
+  issues: 30
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
@@ -692,7 +692,7 @@
   watch: 15
   forks: 129
   updated: '2024-03-08T23:52:35Z'
-  issues: 42
+  issues: 43
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
