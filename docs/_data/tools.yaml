@@ -221,7 +221,7 @@
   watch: 9
   forks: 38
   updated: '2024-02-20T05:44:43Z'
-  issues: 56
+  issues: 57
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1039
+  stars: 1040
   watch: 19
-  updated: '2024-03-11T21:35:13Z'
+  updated: '2024-03-12T00:21:10Z'
   issues: 70
   forks: 155
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3602
+  stars: 3604
   watch: 110
   forks: 552
-  updated: '2024-03-11T20:53:17Z'
+  updated: '2024-03-12T17:40:16Z'
   issues: 89
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 910
+  stars: 911
   watch: 45
   forks: 468
-  updated: '2024-03-09T02:21:57Z'
-  issues: 356
+  updated: '2024-03-12T09:54:52Z'
+  issues: 357
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4459
+  stars: 4460
   watch: 841
-  updated: '2024-03-11T18:15:08Z'
-  issues: 103
-  forks: 725
+  updated: '2024-03-12T21:49:53Z'
+  issues: 102
+  forks: 724
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 207
+  stars: 208
   watch: 4
   forks: 29
-  updated: '2024-03-10T15:58:42Z'
+  updated: '2024-03-12T13:49:33Z'
   issues: 30
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -542,7 +542,7 @@
   archived: false
   stars: 109
   watch: 6
-  forks: 63
+  forks: 62
   updated: '2024-02-16T02:44:54Z'
   issues: 32
   owner: ErikWittern
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1069
+  stars: 1070
   watch: 21
-  updated: '2024-02-23T12:16:05Z'
+  updated: '2024-03-12T09:39:18Z'
   issues: 103
   forks: 174
   license: MIT
