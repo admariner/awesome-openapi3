@@ -221,7 +221,7 @@
   watch: 9
   forks: 38
   updated: '2024-02-20T05:44:43Z'
-  issues: 57
+  issues: 58
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3604
+  stars: 3606
   watch: 110
   forks: 552
-  updated: '2024-03-12T17:40:16Z'
+  updated: '2024-03-13T15:11:05Z'
   issues: 89
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 911
+  stars: 912
   watch: 45
   forks: 468
-  updated: '2024-03-12T09:54:52Z'
+  updated: '2024-03-13T18:55:59Z'
   issues: 357
   license: Apache-2.0
   owner: Apicurio
@@ -383,10 +383,10 @@
   category: '?'
   archived: false
   stars: 4460
-  watch: 841
-  updated: '2024-03-12T21:49:53Z'
+  watch: 842
+  updated: '2024-03-13T09:25:30Z'
   issues: 102
-  forks: 724
+  forks: 725
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 178
+  stars: 179
   watch: 5
   forks: 15
-  updated: '2024-03-02T09:24:28Z'
+  updated: '2024-03-13T13:19:26Z'
   issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -673,7 +673,7 @@
   watch: 8
   updated: '2024-01-30T12:37:06Z'
   issues: 6
-  forks: 26
+  forks: 27
   license: ''
   owner: Maks3w
   logo: 'https://avatars.githubusercontent.com/u/1301698?v=4'
