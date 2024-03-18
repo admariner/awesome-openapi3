@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1041
+  stars: 1042
   watch: 19
-  updated: '2024-03-14T06:46:27Z'
+  updated: '2024-03-18T12:54:08Z'
   issues: 70
   forks: 155
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3606
+  stars: 3607
   watch: 110
-  forks: 552
-  updated: '2024-03-15T04:53:38Z'
+  forks: 553
+  updated: '2024-03-18T21:13:22Z'
   issues: 90
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 912
+  stars: 911
   watch: 45
-  forks: 468
-  updated: '2024-03-13T18:55:59Z'
+  forks: 469
+  updated: '2024-03-16T04:46:17Z'
   issues: 357
   license: Apache-2.0
   owner: Apicurio
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4462
+  stars: 4466
   watch: 842
-  updated: '2024-03-15T22:24:40Z'
-  issues: 106
+  updated: '2024-03-18T12:21:45Z'
+  issues: 108
   forks: 726
   license: MIT
   owner: Azure
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1070
+  stars: 1071
   watch: 21
-  updated: '2024-03-12T09:39:18Z'
+  updated: '2024-03-18T21:56:46Z'
   issues: 103
   forks: 174
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 681
+  stars: 683
   watch: 15
   forks: 129
-  updated: '2024-03-14T12:33:26Z'
+  updated: '2024-03-18T08:26:02Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 146
+  stars: 147
   watch: 5
   forks: 30
-  updated: '2024-03-04T15:47:29Z'
+  updated: '2024-03-16T22:58:08Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
