@@ -274,7 +274,7 @@
   watch: 19
   updated: '2024-03-18T12:54:08Z'
   issues: 70
-  forks: 155
+  forks: 150
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 602
+  stars: 603
   watch: 36
   forks: 55
-  updated: '2024-03-10T01:33:45Z'
+  updated: '2024-03-21T21:42:31Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3606
+  stars: 3608
   watch: 110
   forks: 554
-  updated: '2024-03-19T10:30:30Z'
+  updated: '2024-03-21T17:25:52Z'
   issues: 91
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 913
+  stars: 923
   watch: 46
   forks: 469
-  updated: '2024-03-20T16:09:08Z'
-  issues: 346
+  updated: '2024-03-21T22:33:49Z'
+  issues: 344
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -385,8 +385,8 @@
   stars: 4468
   watch: 842
   updated: '2024-03-20T11:56:29Z'
-  issues: 107
-  forks: 726
+  issues: 108
+  forks: 727
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1354
+  stars: 1355
   watch: 89
-  updated: '2024-01-30T19:58:33Z'
+  updated: '2024-03-21T21:13:57Z'
   issues: 40
   forks: 316
   owner: Luracast
