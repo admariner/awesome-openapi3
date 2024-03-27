@@ -291,7 +291,7 @@
   stars: 603
   watch: 36
   forks: 55
-  updated: '2024-03-21T21:42:31Z'
+  updated: '2024-03-26T11:20:57Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -325,7 +325,7 @@
   stars: 3617
   watch: 110
   forks: 554
-  updated: '2024-03-25T20:03:59Z'
+  updated: '2024-03-26T10:07:02Z'
   issues: 92
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 929
+  stars: 930
   watch: 46
   forks: 473
-  updated: '2024-03-23T02:37:38Z'
-  issues: 347
+  updated: '2024-03-26T05:03:50Z'
+  issues: 346
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4472
+  stars: 4474
   watch: 842
-  updated: '2024-03-24T21:46:06Z'
+  updated: '2024-03-26T15:46:04Z'
   issues: 108
-  forks: 727
+  forks: 726
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 199
+  stars: 200
   watch: 19
   forks: 51
-  updated: '2024-03-06T13:06:55Z'
+  updated: '2024-03-26T13:27:01Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
