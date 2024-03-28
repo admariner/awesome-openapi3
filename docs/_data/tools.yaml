@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1044
+  stars: 1046
   watch: 19
-  updated: '2024-03-24T13:58:11Z'
+  updated: '2024-03-27T08:25:47Z'
   issues: 70
   forks: 150
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 603
+  stars: 604
   watch: 36
   forks: 55
-  updated: '2024-03-26T11:20:57Z'
+  updated: '2024-03-27T15:17:52Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3617
+  stars: 3619
   watch: 110
   forks: 554
-  updated: '2024-03-26T10:07:02Z'
+  updated: '2024-03-27T12:51:26Z'
   issues: 92
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 930
+  stars: 929
   watch: 46
   forks: 473
-  updated: '2024-03-26T05:03:50Z'
-  issues: 346
+  updated: '2024-03-27T14:09:19Z'
+  issues: 347
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -385,7 +385,7 @@
   stars: 4474
   watch: 842
   updated: '2024-03-26T15:46:04Z'
-  issues: 108
+  issues: 107
   forks: 726
   license: MIT
   owner: Azure
@@ -405,7 +405,7 @@
   watch: 4
   forks: 29
   updated: '2024-03-12T13:49:33Z'
-  issues: 30
+  issues: 31
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
   license: MIT
@@ -454,9 +454,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 176
+  stars: 177
   watch: 11
-  updated: '2024-01-25T10:33:22Z'
+  updated: '2024-03-27T15:16:20Z'
   issues: 10
   forks: 24
   license: ISC
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1071
+  stars: 1072
   watch: 21
-  updated: '2024-03-18T21:56:46Z'
+  updated: '2024-03-27T10:01:54Z'
   issues: 103
   forks: 174
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1355
+  stars: 1356
   watch: 89
-  updated: '2024-03-21T21:13:57Z'
+  updated: '2024-03-27T20:35:25Z'
   issues: 40
   forks: 316
   owner: Luracast
