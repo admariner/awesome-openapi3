@@ -217,11 +217,11 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 304
+  stars: 305
   watch: 9
   forks: 38
-  updated: '2024-03-29T05:00:37Z'
-  issues: 58
+  updated: '2024-03-31T23:46:16Z'
+  issues: 59
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3621
+  stars: 3622
   watch: 110
   forks: 554
-  updated: '2024-03-29T05:59:20Z'
-  issues: 94
+  updated: '2024-04-01T21:59:00Z'
+  issues: 95
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 929
-  watch: 46
-  forks: 473
-  updated: '2024-03-27T14:09:19Z'
-  issues: 345
+  stars: 930
+  watch: 47
+  forks: 474
+  updated: '2024-03-31T05:15:59Z'
+  issues: 347
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4471
+  stars: 4472
   watch: 842
-  updated: '2024-03-28T16:52:17Z'
-  issues: 108
-  forks: 726
+  updated: '2024-03-30T08:12:25Z'
+  issues: 106
+  forks: 725
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -475,7 +475,7 @@
   stars: 200
   watch: 19
   forks: 51
-  updated: '2024-03-26T13:27:01Z'
+  updated: '2024-04-01T22:01:14Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1074
+  stars: 1075
   watch: 21
-  updated: '2024-03-29T19:35:01Z'
+  updated: '2024-03-31T14:42:39Z'
   issues: 103
   forks: 174
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 683
+  stars: 685
   watch: 15
   forks: 129
-  updated: '2024-03-18T08:26:02Z'
+  updated: '2024-04-01T08:43:28Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
@@ -726,9 +726,9 @@
   archived: false
   stars: 24
   watch: 4
-  forks: 5
+  forks: 6
   updated: '2024-02-06T12:07:45Z'
-  issues: 5
+  issues: 6
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
