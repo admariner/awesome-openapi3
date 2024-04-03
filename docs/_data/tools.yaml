@@ -219,7 +219,7 @@
   archived: false
   stars: 305
   watch: 9
-  forks: 38
+  forks: 37
   updated: '2024-03-31T23:46:16Z'
   issues: 59
   owner: 42Crunch
@@ -347,7 +347,7 @@
   watch: 47
   forks: 474
   updated: '2024-03-31T05:15:59Z'
-  issues: 347
+  issues: 346
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -385,7 +385,7 @@
   stars: 4472
   watch: 842
   updated: '2024-03-30T08:12:25Z'
-  issues: 106
+  issues: 108
   forks: 725
   license: MIT
   owner: Azure
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 685
+  stars: 686
   watch: 15
   forks: 129
-  updated: '2024-04-01T08:43:28Z'
+  updated: '2024-04-02T05:39:21Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
