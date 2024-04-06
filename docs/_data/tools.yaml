@@ -326,7 +326,7 @@
   watch: 110
   forks: 554
   updated: '2024-04-04T20:36:08Z'
-  issues: 97
+  issues: 98
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -383,9 +383,9 @@
   category: '?'
   archived: false
   stars: 4474
-  watch: 843
+  watch: 842
   updated: '2024-04-03T23:35:29Z'
-  issues: 110
+  issues: 111
   forks: 725
   license: MIT
   owner: Azure
