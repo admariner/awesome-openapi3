@@ -221,7 +221,7 @@
   watch: 9
   forks: 37
   updated: '2024-03-31T23:46:16Z'
-  issues: 59
+  issues: 57
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1046
+  stars: 1048
   watch: 19
-  updated: '2024-03-27T08:25:47Z'
+  updated: '2024-04-10T10:10:05Z'
   issues: 70
   forks: 150
   license: MIT
@@ -324,7 +324,7 @@
   archived: false
   stars: 3630
   watch: 110
-  forks: 554
+  forks: 555
   updated: '2024-04-09T11:05:19Z'
   issues: 98
   owner: APIs-guru
@@ -345,9 +345,9 @@
   archived: false
   stars: 931
   watch: 45
-  forks: 474
+  forks: 475
   updated: '2024-04-03T04:51:45Z'
-  issues: 348
+  issues: 346
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4474
-  watch: 842
-  updated: '2024-04-08T18:18:03Z'
-  issues: 113
+  stars: 4475
+  watch: 841
+  updated: '2024-04-10T13:27:33Z'
+  issues: 116
   forks: 725
   license: MIT
   owner: Azure
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 200
+  stars: 201
   watch: 19
   forks: 51
-  updated: '2024-04-01T22:01:14Z'
+  updated: '2024-04-10T08:06:46Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -4454,10 +4454,10 @@
   description: RapiDoc -WebComponent for OpenAPI Spec
   language: JavaScript
   archived: false
-  stars: 1555
+  stars: 1556
   watch: 14
   forks: 268
-  updated: '2024-04-06T00:13:00Z'
+  updated: '2024-04-10T06:50:26Z'
   issues: 127
   owner: rapi-doc
   logo: 'https://avatars.githubusercontent.com/u/104180085?v=4'
@@ -4793,7 +4793,7 @@
   watch: 10
   forks: 127
   updated: '2024-04-09T12:17:45Z'
-  issues: 84
+  issues: 81
   owner: python-openapi
   logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
   license: BSD-3-Clause
