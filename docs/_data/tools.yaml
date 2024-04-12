@@ -221,7 +221,7 @@
   watch: 9
   forks: 37
   updated: '2024-03-31T23:46:16Z'
-  issues: 57
+  issues: 58
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1048
+  stars: 1050
   watch: 19
-  updated: '2024-04-10T10:10:05Z'
+  updated: '2024-04-11T14:48:11Z'
   issues: 70
   forks: 150
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 604
+  stars: 605
   watch: 36
   forks: 55
-  updated: '2024-03-27T15:17:52Z'
+  updated: '2024-04-11T02:48:23Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3630
+  stars: 3632
   watch: 110
-  forks: 555
-  updated: '2024-04-09T11:05:19Z'
+  forks: 556
+  updated: '2024-04-11T10:19:52Z'
   issues: 98
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,9 +345,9 @@
   archived: false
   stars: 931
   watch: 45
-  forks: 475
+  forks: 476
   updated: '2024-04-03T04:51:45Z'
-  issues: 346
+  issues: 348
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -385,7 +385,7 @@
   stars: 4475
   watch: 841
   updated: '2024-04-10T13:27:33Z'
-  issues: 116
+  issues: 117
   forks: 725
   license: MIT
   owner: Azure
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1075
+  stars: 1076
   watch: 21
-  updated: '2024-03-31T14:42:39Z'
+  updated: '2024-04-11T12:57:19Z'
   issues: 103
   forks: 174
   license: MIT
@@ -1232,11 +1232,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 5268
-  watch: 498
-  updated: '2023-09-27T14:41:44Z'
-  issues: 36
-  forks: 1627
+  stars: 5341
+  watch: 496
+  updated: '2024-04-11T02:47:04Z'
+  issues: 35
+  forks: 1614
   license: ''
   owner: ServiceStack
   logo: 'https://avatars.githubusercontent.com/u/605728?v=4'
@@ -1250,7 +1250,7 @@
   language: JavaScript
   archived: false
   stars: 73
-  watch: 4
+  watch: 5
   forks: 20
   updated: '2023-09-08T17:43:07Z'
   issues: 44
@@ -1269,7 +1269,7 @@
   category: '?'
   archived: true
   stars: 26
-  watch: 41
+  watch: 40
   updated: '2023-01-28T12:14:29Z'
   issues: 8
   forks: 13
@@ -1287,11 +1287,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1566
-  watch: 13
-  updated: '2023-09-19T23:52:42Z'
-  issues: 41
-  forks: 225
+  stars: 1635
+  watch: 11
+  updated: '2024-04-11T08:47:49Z'
+  issues: 39
+  forks: 229
   license: MIT
   owner: Surnet
   logo: 'https://avatars.githubusercontent.com/u/4512080?v=4'
@@ -1308,11 +1308,11 @@
   language: Java
   category: '?'
   archived: false
-  stars: 2456
+  stars: 2476
   watch: 93
-  updated: '2023-09-14T17:52:53Z'
+  updated: '2024-04-11T16:10:09Z'
   issues: 79
-  forks: 385
+  forks: 376
   license: Apache-2.0
   owner: Swagger2Markup
   logo: 'https://avatars.githubusercontent.com/u/13084390?v=4'
@@ -1325,9 +1325,9 @@
   language: Groovy
   category: '?'
   archived: false
-  stars: 56
+  stars: 55
   watch: 7
-  updated: '2022-04-01T09:57:41Z'
+  updated: '2024-02-08T02:44:04Z'
   issues: 6
   forks: 15
   license: Apache-2.0
@@ -1341,11 +1341,11 @@
   github: 'https://github.com/Szasza/express-gateway-plugin-openapi3-mock-server'
   description: An OpenAPI 3 mock server plugin for Express Gateway
   v3: true
-  archived: false
+  archived: true
   stars: 8
   watch: 2
   forks: 1
-  updated: '2020-08-17T14:14:25Z'
+  updated: '2023-12-29T11:39:42Z'
   issues: 2
   license: ''
   owner: Szasza
@@ -1377,9 +1377,9 @@
   language: Python
   category: '?'
   archived: false
-  stars: 21
+  stars: 22
   watch: 5
-  updated: '2023-03-10T11:55:36Z'
+  updated: '2024-01-29T17:48:54Z'
   issues: 2
   forks: 6
   license: MIT
@@ -1396,7 +1396,7 @@
   archived: false
   stars: 103
   watch: 12
-  updated: '2023-08-17T19:09:55Z'
+  updated: '2024-01-30T16:01:23Z'
   issues: 7
   forks: 36
   license: MIT
@@ -1412,7 +1412,7 @@
   language: Go
   archived: false
   stars: 20
-  watch: 5
+  watch: 6
   forks: 1
   updated: '2023-02-22T17:36:24Z'
   issues: 2
@@ -1428,11 +1428,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 593
+  stars: 600
   watch: 26
-  updated: '2023-09-12T13:13:39Z'
-  issues: 82
-  forks: 119
+  updated: '2024-03-19T20:45:21Z'
+  issues: 81
+  forks: 120
   license: ''
   owner: Yelp
   logo: 'https://avatars.githubusercontent.com/u/49071?v=4'
@@ -1447,9 +1447,9 @@
   archived: false
   stars: 108
   watch: 22
-  updated: '2023-06-02T07:39:35Z'
+  updated: '2024-02-04T23:08:18Z'
   issues: 47
-  forks: 101
+  forks: 99
   license: ''
   owner: Yelp
   logo: 'https://avatars.githubusercontent.com/u/49071?v=4'
@@ -1462,11 +1462,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 101
+  stars: 103
   watch: 17
-  updated: '2023-06-02T07:39:35Z'
-  issues: 23
-  forks: 67
+  updated: '2024-03-27T07:33:37Z'
+  issues: 26
+  forks: 71
   license: ''
   owner: Yelp
   logo: 'https://avatars.githubusercontent.com/u/49071?v=4'
@@ -1481,9 +1481,9 @@
   archived: false
   stars: 132
   watch: 15
-  updated: '2023-09-28T10:07:02Z'
+  updated: '2024-04-06T09:56:53Z'
   issues: 52
-  forks: 90
+  forks: 92
   license: Apache-2.0
   owner: abelsilva
   logo: 'https://avatars.githubusercontent.com/u/1167088?v=4'
@@ -1494,14 +1494,16 @@
   category: unclassified
   uuid: e889854f-1f62-4011-b865-4a957e091666
   name: kui
-  description: An easy-to-use web framework.
+  description: >-
+    An easy-to-use web framework. Supports both WSGI and ASGI modes. Gevent or
+    asyncio, this is the question.
   language: Python
   archived: false
-  stars: 273
-  watch: 6
-  forks: 23
-  updated: '2023-09-19T11:45:05Z'
-  issues: 3
+  stars: 281
+  watch: 7
+  forks: 25
+  updated: '2024-04-02T00:53:15Z'
+  issues: 0
   owner: abersheeran
   logo: 'https://avatars.githubusercontent.com/u/25364828?v=4'
   license: Apache-2.0
@@ -1542,18 +1544,20 @@
   downloads: 0
   uuid: af9b6366-acbb-40ed-822c-0dd4d0a397e2
 - name: openapi_first
-  description: Rack middlewares to create OpenAPI based HTTP APIs
+  description: >-
+    Build your API on top of OpenAPI. Ensure that your implementation follows
+    exactly your API description.
   github: 'https://github.com/ahx/openapi_first'
   v3: true
   language: Ruby
   category: frameworks
   license: MIT
   archived: false
-  stars: 47
-  watch: 2
-  forks: 6
-  updated: '2023-08-26T20:26:33Z'
-  issues: 6
+  stars: 76
+  watch: 6
+  forks: 10
+  updated: '2024-04-10T13:18:13Z'
+  issues: 0
   owner: ahx
   logo: 'https://avatars.githubusercontent.com/u/8669?v=4'
   downloads: 0
@@ -1565,11 +1569,11 @@
   description: 'Spot is a concise, developer-friendly way to describe your API contract.'
   language: TypeScript
   archived: false
-  stars: 489
-  watch: 48
-  forks: 38
-  updated: '2023-09-18T21:15:18Z'
-  issues: 93
+  stars: 530
+  watch: 49
+  forks: 37
+  updated: '2024-04-08T08:35:20Z'
+  issues: 69
   owner: airtasker
   logo: 'https://avatars.githubusercontent.com/u/1745680?v=4'
   license: ''
@@ -1583,9 +1587,9 @@
   language: Ruby
   category: '?'
   archived: false
-  stars: 17
-  watch: 1
-  updated: '2023-08-23T11:02:37Z'
+  stars: 18
+  watch: 2
+  updated: '2024-01-05T23:32:48Z'
   issues: 1
   forks: 4
   license: MIT
@@ -1600,9 +1604,9 @@
   language: Python
   category: '?'
   archived: false
-  stars: 31
+  stars: 32
   watch: 4
-  updated: '2023-08-16T11:15:58Z'
+  updated: '2023-11-18T08:22:20Z'
   issues: 1
   forks: 15
   license: MIT
@@ -1617,10 +1621,10 @@
   description: Java Micro Service API Generation
   language: Java
   archived: false
-  stars: 29
+  stars: 31
   watch: 5
   forks: 14
-  updated: '2023-07-21T15:55:59Z'
+  updated: '2024-03-16T15:12:06Z'
   issues: 0
   owner: anupsaund
   logo: 'https://avatars.githubusercontent.com/u/6728822?v=4'
@@ -1636,11 +1640,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 4053
+  stars: 4121
   watch: 75
-  forks: 304
-  updated: '2023-09-25T12:51:44Z'
-  issues: 256
+  forks: 276
+  updated: '2024-04-10T14:53:22Z'
+  issues: 258
   license: MIT
   owner: apiaryio
   logo: 'https://avatars.githubusercontent.com/u/765943?v=4'
@@ -1705,11 +1709,11 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 698
-  watch: 49
-  updated: '2023-09-05T11:51:16Z'
+  stars: 701
+  watch: 48
+  updated: '2024-02-23T20:05:14Z'
   issues: 150
-  forks: 381
+  forks: 376
   license: MIT
   owner: apigee-127
   logo: 'https://avatars.githubusercontent.com/u/7990855?v=4'
@@ -1724,11 +1728,11 @@
   link: 'http://fusio-project.org/'
   v3: true
   archived: false
-  stars: 1565
+  stars: 1667
   watch: 58
-  forks: 202
-  updated: '2023-09-20T20:33:03Z'
-  issues: 153
+  forks: 210
+  updated: '2024-04-09T08:40:17Z'
+  issues: 161
   license: Apache-2.0
   owner: apioo
   logo: 'https://avatars.githubusercontent.com/u/18172950?v=4'
