@@ -326,7 +326,7 @@
   watch: 110
   forks: 556
   updated: '2024-04-11T10:19:52Z'
-  issues: 98
+  issues: 100
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 931
+  stars: 932
   watch: 45
   forks: 476
-  updated: '2024-04-03T04:51:45Z'
-  issues: 348
+  updated: '2024-04-12T12:30:45Z'
+  issues: 346
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4475
+  stars: 4476
   watch: 841
-  updated: '2024-04-10T13:27:33Z'
+  updated: '2024-04-12T14:45:51Z'
   issues: 117
   forks: 725
   license: MIT
@@ -655,7 +655,7 @@
   watch: 89
   updated: '2024-03-27T20:35:25Z'
   issues: 40
-  forks: 316
+  forks: 317
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
   downloads: 0
@@ -5669,11 +5669,11 @@
   description: Swagger Spec to Java POJOs
   v2: true
   archived: false
-  stars: 746
+  stars: 748
   watch: 45
-  forks: 514
-  updated: '2024-04-08T11:31:15Z'
-  issues: 287
+  forks: 515
+  updated: '2024-04-12T11:43:06Z'
+  issues: 285
   license: Apache-2.0
   owner: swagger-api
   logo: 'https://avatars.githubusercontent.com/u/7658037?v=4'
@@ -5688,11 +5688,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 25462
+  stars: 25473
   watch: 648
-  updated: '2024-04-09T00:32:50Z'
-  issues: 1123
-  forks: 8801
+  updated: '2024-04-12T19:47:02Z'
+  issues: 1121
+  forks: 8804
   license: Apache-2.0
   owner: swagger-api
   logo: 'https://avatars.githubusercontent.com/u/7658037?v=4'
@@ -5708,9 +5708,9 @@
   archived: false
   stars: 201
   watch: 18
-  forks: 84
+  forks: 85
   updated: '2024-04-02T18:58:53Z'
-  issues: 52
+  issues: 51
   owner: swagger-api
   logo: 'https://avatars.githubusercontent.com/u/7658037?v=4'
   license: Apache-2.0
@@ -5831,11 +5831,11 @@
   description: Sane and flexible OpenAPI 3 schema generation for Django REST framework.
   language: Python
   archived: false
-  stars: 2096
+  stars: 2102
   watch: 13
-  forks: 242
-  updated: '2024-04-08T09:14:01Z'
-  issues: 97
+  forks: 243
+  updated: '2024-04-12T17:21:37Z'
+  issues: 98
   owner: tfranzel
   logo: 'https://avatars.githubusercontent.com/u/13507857?v=4'
   license: BSD-3-Clause
@@ -5905,11 +5905,11 @@
   v3: true
   downloads: 0
   archived: false
-  stars: 70319
-  watch: 665
-  forks: 5883
-  updated: '2024-04-09T00:58:34Z'
-  issues: 331
+  stars: 70494
+  watch: 664
+  forks: 5899
+  updated: '2024-04-13T00:08:35Z'
+  issues: 334
   owner: tiangolo
   logo: 'https://avatars.githubusercontent.com/u/1326112?v=4'
   license: MIT
@@ -5942,11 +5942,11 @@
     PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
   language: TypeScript
   archived: false
-  stars: 22314
-  watch: 261
-  forks: 3650
-  updated: '2024-04-09T00:41:16Z'
-  issues: 169
+  stars: 22548
+  watch: 263
+  forks: 3679
+  updated: '2024-04-13T00:30:06Z'
+  issues: 172
   owner: tiangolo
   logo: 'https://avatars.githubusercontent.com/u/1326112?v=4'
   license: MIT
@@ -5961,10 +5961,10 @@
     web applications in Python with performance auto-tuning.
   language: Python
   archived: false
-  stars: 2505
+  stars: 2510
   watch: 24
   forks: 316
-  updated: '2024-04-08T15:11:40Z'
+  updated: '2024-04-11T21:26:24Z'
   issues: 52
   owner: tiangolo
   logo: 'https://avatars.githubusercontent.com/u/1326112?v=4'
@@ -6054,10 +6054,10 @@
     reference.
   language: 'C#'
   archived: false
-  stars: 91
+  stars: 100
   watch: 2
-  forks: 15
-  updated: '2023-09-08T09:43:33Z'
+  forks: 16
+  updated: '2024-03-15T15:30:14Z'
   issues: 4
   owner: unchase
   logo: 'https://avatars.githubusercontent.com/u/29679226?v=4'
@@ -6123,18 +6123,18 @@
   uuid: ff914d4f-e535-4a4c-a378-ce41a03dc626
 - name: octohipster
   description: '[UNMAINTAINED] A hypermedia REST HTTP API library for Clojure'
-  github: 'https://github.com/unrelentingtech/octohipster'
+  github: 'https://github.com/valpackett/octohipster'
   v1: true
   language: Clojure
   category: '?'
   archived: true
-  stars: 77
-  watch: 7
-  updated: '2021-05-05T01:28:56Z'
+  stars: 75
+  watch: 8
+  updated: '2023-04-02T07:58:50Z'
   issues: 0
-  forks: 7
+  forks: 6
   license: Unlicense
-  owner: unrelentingtech
+  owner: valpackett
   logo: 'https://avatars.githubusercontent.com/u/208340?v=4'
   downloads: 0
   uuid: 1e4867d3-e481-4c4f-8842-90e9ca74b547
@@ -6149,8 +6149,8 @@
   archived: false
   stars: 41
   watch: 5
-  updated: '2022-08-05T16:07:10Z'
-  issues: 5
+  updated: '2024-04-11T10:36:50Z'
+  issues: 3
   forks: 17
   license: MIT
   owner: vanderlee
@@ -6183,11 +6183,11 @@
   description: ':lemon: Gin wrapper with OpenAPI 3 spec generation'
   language: Go
   archived: false
-  stars: 183
-  watch: 8
-  forks: 43
-  updated: '2023-09-10T06:12:04Z'
-  issues: 13
+  stars: 203
+  watch: 10
+  forks: 48
+  updated: '2024-04-12T08:21:13Z'
+  issues: 17
   owner: wI2L
   logo: 'https://avatars.githubusercontent.com/u/6519569?v=4'
   license: MIT
