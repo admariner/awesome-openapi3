@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 304
+  stars: 306
   watch: 9
   forks: 37
-  updated: '2024-04-17T20:05:08Z'
+  updated: '2024-04-18T16:47:36Z'
   issues: 58
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -290,7 +290,7 @@
   archived: false
   stars: 605
   watch: 36
-  forks: 55
+  forks: 50
   updated: '2024-04-11T02:48:23Z'
   issues: 8
   license: BSD-3-Clause
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3640
+  stars: 3644
   watch: 111
   forks: 555
-  updated: '2024-04-16T21:41:17Z'
+  updated: '2024-04-18T05:48:18Z'
   issues: 102
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4478
-  watch: 841
-  updated: '2024-04-16T13:32:08Z'
-  issues: 120
+  stars: 4479
+  watch: 843
+  updated: '2024-04-18T12:44:57Z'
+  issues: 122
   forks: 725
   license: MIT
   owner: Azure
@@ -631,11 +631,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1080
+  stars: 1081
   watch: 22
-  updated: '2024-04-17T08:18:06Z'
-  issues: 103
-  forks: 174
+  updated: '2024-04-18T21:50:41Z'
+  issues: 104
+  forks: 175
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 687
+  stars: 688
   watch: 15
   forks: 129
-  updated: '2024-04-16T19:17:52Z'
+  updated: '2024-04-18T11:11:58Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
