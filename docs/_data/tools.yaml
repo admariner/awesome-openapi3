@@ -220,8 +220,8 @@
   stars: 306
   watch: 9
   forks: 37
-  updated: '2024-04-18T16:47:36Z'
-  issues: 58
+  updated: '2024-04-19T16:13:00Z'
+  issues: 56
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1053
+  stars: 1055
   watch: 19
-  updated: '2024-04-14T02:43:33Z'
+  updated: '2024-04-19T20:23:34Z'
   issues: 70
   forks: 150
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3644
+  stars: 3646
   watch: 111
   forks: 555
-  updated: '2024-04-18T05:48:18Z'
+  updated: '2024-04-19T18:59:38Z'
   issues: 102
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4479
+  stars: 4480
   watch: 843
-  updated: '2024-04-18T12:44:57Z'
-  issues: 122
-  forks: 725
+  updated: '2024-04-19T19:18:11Z'
+  issues: 118
+  forks: 726
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -631,10 +631,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1081
+  stars: 1082
   watch: 22
-  updated: '2024-04-18T21:50:41Z'
-  issues: 104
+  updated: '2024-04-19T01:39:01Z'
+  issues: 105
   forks: 175
   license: MIT
   owner: LucyBot-Inc
