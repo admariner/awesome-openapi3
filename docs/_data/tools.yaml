@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 306
+  stars: 307
   watch: 9
   forks: 37
-  updated: '2024-04-19T16:13:00Z'
+  updated: '2024-04-20T08:21:24Z'
   issues: 56
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1055
+  stars: 1056
   watch: 19
-  updated: '2024-04-19T20:23:34Z'
+  updated: '2024-04-22T03:51:20Z'
   issues: 70
   forks: 150
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 605
+  stars: 606
   watch: 36
   forks: 50
-  updated: '2024-04-11T02:48:23Z'
+  updated: '2024-04-22T05:28:07Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3646
+  stars: 3652
   watch: 111
-  forks: 555
-  updated: '2024-04-19T18:59:38Z'
+  forks: 556
+  updated: '2024-04-22T16:11:39Z'
   issues: 102
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 933
+  stars: 934
   watch: 45
   forks: 476
-  updated: '2024-04-16T17:49:04Z'
-  issues: 346
+  updated: '2024-04-22T21:37:25Z'
+  issues: 344
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4480
-  watch: 843
-  updated: '2024-04-19T19:18:11Z'
-  issues: 118
+  stars: 4479
+  watch: 845
+  updated: '2024-04-22T00:40:08Z'
+  issues: 120
   forks: 726
   license: MIT
   owner: Azure
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 110
+  stars: 111
   watch: 6
   forks: 62
-  updated: '2024-04-09T08:11:09Z'
+  updated: '2024-04-22T10:05:20Z'
   issues: 32
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -705,10 +705,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 292
+  stars: 291
   watch: 12
   forks: 47
-  updated: '2024-02-12T20:44:38Z'
+  updated: '2024-04-22T16:12:52Z'
   issues: 24
   license: Apache-2.0
   owner: Mermade
