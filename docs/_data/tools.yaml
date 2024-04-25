@@ -274,7 +274,7 @@
   watch: 19
   updated: '2024-04-23T03:50:55Z'
   issues: 70
-  forks: 150
+  forks: 151
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -385,7 +385,7 @@
   stars: 4479
   watch: 846
   updated: '2024-04-22T00:40:08Z'
-  issues: 122
+  issues: 123
   forks: 726
   license: MIT
   owner: Azure
@@ -724,10 +724,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 24
+  stars: 25
   watch: 4
   forks: 7
-  updated: '2024-02-06T12:07:45Z'
+  updated: '2024-04-24T14:24:36Z'
   issues: 6
   license: BSD-3-Clause
   owner: Mermade
