@@ -220,8 +220,8 @@
   stars: 307
   watch: 9
   forks: 37
-  updated: '2024-04-20T08:21:24Z'
-  issues: 55
+  updated: '2024-04-25T22:43:48Z'
+  issues: 56
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -325,7 +325,7 @@
   stars: 3655
   watch: 111
   forks: 556
-  updated: '2024-04-23T13:57:27Z'
+  updated: '2024-04-25T16:03:34Z'
   issues: 102
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -346,8 +346,8 @@
   stars: 934
   watch: 45
   forks: 477
-  updated: '2024-04-23T20:58:07Z'
-  issues: 344
+  updated: '2024-04-25T14:31:53Z'
+  issues: 351
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4479
-  watch: 846
-  updated: '2024-04-22T00:40:08Z'
+  stars: 4480
+  watch: 847
+  updated: '2024-04-25T23:29:47Z'
   issues: 123
-  forks: 726
+  forks: 725
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -544,7 +544,7 @@
   watch: 6
   forks: 62
   updated: '2024-04-22T10:05:20Z'
-  issues: 32
+  issues: 33
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
   license: MIT
