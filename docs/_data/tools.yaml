@@ -217,11 +217,11 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 308
+  stars: 309
   watch: 9
   forks: 37
-  updated: '2024-05-07T17:36:44Z'
-  issues: 57
+  updated: '2024-05-08T17:31:49Z'
+  issues: 56
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3671
+  stars: 3676
   watch: 113
   forks: 556
-  updated: '2024-05-07T16:09:50Z'
+  updated: '2024-05-08T20:36:58Z'
   issues: 106
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 45
   forks: 478
   updated: '2024-05-06T15:35:39Z'
-  issues: 351
+  issues: 352
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4487
-  watch: 850
-  updated: '2024-05-07T15:19:57Z'
-  issues: 124
-  forks: 724
+  stars: 4488
+  watch: 851
+  updated: '2024-05-08T20:21:04Z'
+  issues: 122
+  forks: 725
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -560,7 +560,7 @@
   archived: false
   stars: 36
   watch: 21
-  forks: 2
+  forks: 3
   updated: '2022-09-10T22:14:19Z'
   issues: 3
   owner: Frameio
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 690
+  stars: 691
   watch: 15
   forks: 129
-  updated: '2024-04-26T18:20:39Z'
+  updated: '2024-05-08T03:06:53Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
