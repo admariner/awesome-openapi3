@@ -220,7 +220,7 @@
   stars: 309
   watch: 9
   forks: 37
-  updated: '2024-05-08T17:31:49Z'
+  updated: '2024-05-09T21:25:00Z'
   issues: 56
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1059
+  stars: 1060
   watch: 19
-  updated: '2024-05-04T12:51:54Z'
+  updated: '2024-05-09T14:24:49Z'
   issues: 71
   forks: 151
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3676
+  stars: 3677
   watch: 113
-  forks: 556
-  updated: '2024-05-08T20:36:58Z'
-  issues: 106
+  forks: 557
+  updated: '2024-05-09T05:09:13Z'
+  issues: 107
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 45
   forks: 478
   updated: '2024-05-06T15:35:39Z'
-  issues: 352
+  issues: 353
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4488
+  stars: 4490
   watch: 851
-  updated: '2024-05-08T20:21:04Z'
+  updated: '2024-05-09T18:02:10Z'
   issues: 122
   forks: 725
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 208
+  stars: 209
   watch: 4
   forks: 29
-  updated: '2024-03-12T13:49:33Z'
+  updated: '2024-05-09T22:07:01Z'
   issues: 34
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1089
+  stars: 1090
   watch: 22
-  updated: '2024-05-07T15:08:46Z'
+  updated: '2024-05-09T11:14:01Z'
   issues: 105
   forks: 176
   license: MIT
