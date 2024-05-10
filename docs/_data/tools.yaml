@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 515
+  stars: 516
   watch: 14
   forks: 70
-  updated: '2024-03-01T06:16:18Z'
+  updated: '2024-05-10T22:14:27Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -256,7 +256,7 @@
   watch: 21
   updated: '2024-03-06T17:44:10Z'
   issues: 1
-  forks: 202
+  forks: 203
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1060
+  stars: 1061
   watch: 19
-  updated: '2024-05-09T14:24:49Z'
+  updated: '2024-05-10T22:59:38Z'
   issues: 71
   forks: 151
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3677
+  stars: 3678
   watch: 113
-  forks: 557
-  updated: '2024-05-09T05:09:13Z'
-  issues: 107
+  forks: 559
+  updated: '2024-05-10T13:48:15Z'
+  issues: 109
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -344,10 +344,10 @@
   v3: true
   archived: false
   stars: 935
-  watch: 45
+  watch: 44
   forks: 478
-  updated: '2024-05-06T15:35:39Z'
-  issues: 353
+  updated: '2024-05-10T16:01:10Z'
+  issues: 354
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4490
+  stars: 4492
   watch: 851
-  updated: '2024-05-09T18:02:10Z'
-  issues: 122
+  updated: '2024-05-10T21:31:10Z'
+  issues: 124
   forks: 725
   license: MIT
   owner: Azure
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1090
+  stars: 1091
   watch: 22
-  updated: '2024-05-09T11:14:01Z'
+  updated: '2024-05-10T15:22:27Z'
   issues: 105
   forks: 176
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 691
+  stars: 692
   watch: 15
   forks: 129
-  updated: '2024-05-08T03:06:53Z'
+  updated: '2024-05-10T13:33:48Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
