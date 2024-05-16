@@ -220,7 +220,7 @@
   stars: 309
   watch: 9
   forks: 37
-  updated: '2024-05-15T16:56:00Z'
+  updated: '2024-05-16T18:15:37Z'
   issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4499
+  stars: 4500
   watch: 851
-  updated: '2024-05-15T08:22:39Z'
+  updated: '2024-05-16T03:25:49Z'
   issues: 125
   forks: 726
   license: MIT
@@ -634,7 +634,7 @@
   stars: 1091
   watch: 22
   updated: '2024-05-15T03:59:39Z'
-  issues: 106
+  issues: 104
   forks: 176
   license: MIT
   owner: LucyBot-Inc
