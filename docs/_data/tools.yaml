@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 310
+  stars: 311
   watch: 9
   forks: 37
-  updated: '2024-05-17T14:41:10Z'
+  updated: '2024-05-20T16:14:23Z'
   issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1061
+  stars: 1065
   watch: 19
-  updated: '2024-05-10T22:59:38Z'
+  updated: '2024-05-20T19:07:13Z'
   issues: 71
   forks: 151
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3688
+  stars: 3691
   watch: 113
   forks: 559
-  updated: '2024-05-17T20:17:12Z'
-  issues: 110
+  updated: '2024-05-20T16:49:59Z'
+  issues: 111
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4501
+  stars: 4500
   watch: 852
-  updated: '2024-05-17T00:56:27Z'
+  updated: '2024-05-18T15:35:11Z'
   issues: 125
   forks: 726
   license: MIT
@@ -489,11 +489,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 426
+  stars: 427
   watch: 29
-  updated: '2024-05-05T04:53:33Z'
+  updated: '2024-05-19T09:58:59Z'
   issues: 90
-  forks: 151
+  forks: 152
   license: ''
   owner: DarthFubuMVC
   logo: 'https://avatars.githubusercontent.com/u/179202?v=4'
@@ -542,7 +542,7 @@
   archived: false
   stars: 112
   watch: 6
-  forks: 62
+  forks: 63
   updated: '2024-05-06T07:14:37Z'
   issues: 34
   owner: ErikWittern
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1092
+  stars: 1093
   watch: 22
-  updated: '2024-05-17T20:38:19Z'
+  updated: '2024-05-20T17:12:02Z'
   issues: 104
   forks: 176
   license: MIT
