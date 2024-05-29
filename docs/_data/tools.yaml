@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3705
+  stars: 3708
   watch: 113
   forks: 559
-  updated: '2024-05-27T18:23:33Z'
+  updated: '2024-05-28T12:16:59Z'
   issues: 116
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,7 +345,7 @@
   archived: false
   stars: 944
   watch: 44
-  forks: 482
+  forks: 483
   updated: '2024-05-27T13:03:06Z'
   issues: 355
   license: Apache-2.0
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4507
+  stars: 4511
   watch: 852
-  updated: '2024-05-25T12:33:08Z'
-  issues: 124
+  updated: '2024-05-28T21:26:09Z'
+  issues: 125
   forks: 726
   license: MIT
   owner: Azure
@@ -705,10 +705,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 291
+  stars: 292
   watch: 12
   forks: 47
-  updated: '2024-04-22T16:12:52Z'
+  updated: '2024-05-28T15:09:06Z'
   issues: 24
   license: Apache-2.0
   owner: Mermade
