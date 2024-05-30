@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 311
+  stars: 313
   watch: 9
   forks: 38
-  updated: '2024-05-22T15:35:11Z'
+  updated: '2024-05-29T12:50:02Z'
   issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1065
+  stars: 1066
   watch: 19
-  updated: '2024-05-20T19:07:13Z'
+  updated: '2024-05-29T15:09:10Z'
   issues: 71
   forks: 152
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 610
+  stars: 611
   watch: 35
   forks: 50
-  updated: '2024-05-13T20:53:54Z'
+  updated: '2024-05-29T11:38:28Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3708
+  stars: 3711
   watch: 113
   forks: 559
-  updated: '2024-05-28T12:16:59Z'
+  updated: '2024-05-29T18:15:53Z'
   issues: 116
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,7 +345,7 @@
   archived: false
   stars: 944
   watch: 44
-  forks: 483
+  forks: 484
   updated: '2024-05-27T13:03:06Z'
   issues: 355
   license: Apache-2.0
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4511
-  watch: 852
-  updated: '2024-05-28T21:26:09Z'
-  issues: 125
+  stars: 4512
+  watch: 851
+  updated: '2024-05-29T18:44:47Z'
+  issues: 122
   forks: 726
   license: MIT
   owner: Azure
@@ -691,7 +691,7 @@
   stars: 692
   watch: 15
   forks: 129
-  updated: '2024-05-10T13:33:48Z'
+  updated: '2024-05-29T03:48:03Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
@@ -705,10 +705,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 292
+  stars: 291
   watch: 12
   forks: 47
-  updated: '2024-05-28T15:09:06Z'
+  updated: '2024-05-29T22:04:21Z'
   issues: 24
   license: Apache-2.0
   owner: Mermade
