@@ -345,9 +345,9 @@
   archived: false
   stars: 944
   watch: 44
-  forks: 484
-  updated: '2024-05-27T13:03:06Z'
-  issues: 355
+  forks: 486
+  updated: '2024-05-30T14:10:37Z'
+  issues: 352
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -575,10 +575,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 40
+  stars: 41
   watch: 5
   forks: 5
-  updated: '2024-03-08T14:35:23Z'
+  updated: '2024-05-30T15:39:45Z'
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 188
+  stars: 189
   watch: 5
   forks: 16
-  updated: '2024-05-12T20:14:13Z'
+  updated: '2024-05-30T09:30:54Z'
   issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
