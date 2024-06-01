@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 313
+  stars: 314
   watch: 9
   forks: 38
-  updated: '2024-05-29T12:50:02Z'
+  updated: '2024-05-31T18:12:10Z'
   issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -346,8 +346,8 @@
   stars: 944
   watch: 44
   forks: 486
-  updated: '2024-05-30T14:10:37Z'
-  issues: 352
+  updated: '2024-05-31T11:44:20Z'
+  issues: 354
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4512
-  watch: 851
-  updated: '2024-05-29T18:44:47Z'
+  stars: 4513
+  watch: 852
+  updated: '2024-05-31T22:22:51Z'
   issues: 122
   forks: 726
   license: MIT
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 206
+  stars: 207
   watch: 20
   forks: 52
-  updated: '2024-05-17T06:33:00Z'
+  updated: '2024-05-31T05:17:46Z'
   issues: 4
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 148
+  stars: 149
   watch: 5
   forks: 30
-  updated: '2024-04-04T13:21:47Z'
+  updated: '2024-05-31T10:22:19Z'
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
