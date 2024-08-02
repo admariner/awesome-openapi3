@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3780
+  stars: 3784
   watch: 113
-  forks: 569
-  updated: '2024-07-31T14:47:10Z'
+  forks: 570
+  updated: '2024-08-01T15:41:49Z'
   issues: 130
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -385,8 +385,8 @@
   stars: 4555
   watch: 867
   updated: '2024-07-31T05:38:20Z'
-  issues: 130
-  forks: 730
+  issues: 132
+  forks: 731
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 699
+  stars: 700
   watch: 15
   forks: 129
-  updated: '2024-07-25T03:38:01Z'
+  updated: '2024-08-01T06:12:40Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
