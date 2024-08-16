@@ -220,7 +220,7 @@
   stars: 326
   watch: 11
   forks: 41
-  updated: '2024-08-15T16:55:38Z'
+  updated: '2024-08-16T14:18:51Z'
   issues: 57
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -347,7 +347,7 @@
   watch: 43
   forks: 492
   updated: '2024-08-15T15:06:30Z'
-  issues: 357
+  issues: 358
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4567
+  stars: 4568
   watch: 874
-  updated: '2024-08-14T17:07:52Z'
-  issues: 136
+  updated: '2024-08-16T19:04:06Z'
+  issues: 135
   forks: 729
   license: MIT
   owner: Azure
@@ -635,7 +635,7 @@
   watch: 22
   updated: '2024-07-31T14:35:29Z'
   issues: 107
-  forks: 178
+  forks: 179
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -652,7 +652,7 @@
   category: '?'
   archived: false
   stars: 1359
-  watch: 88
+  watch: 87
   updated: '2024-07-30T08:35:15Z'
   issues: 40
   forks: 317
