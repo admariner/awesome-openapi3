@@ -220,7 +220,7 @@
   stars: 326
   watch: 11
   forks: 41
-  updated: '2024-08-19T16:17:16Z'
+  updated: '2024-08-21T15:16:04Z'
   issues: 57
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1083
+  stars: 1084
   watch: 18
-  updated: '2024-08-19T19:42:22Z'
+  updated: '2024-08-21T07:30:49Z'
   issues: 73
   forks: 154
   license: MIT
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3810
+  stars: 3811
   watch: 113
   forks: 570
-  updated: '2024-08-20T15:49:08Z'
+  updated: '2024-08-21T08:47:53Z'
   issues: 133
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 972
+  stars: 973
   watch: 43
   forks: 493
-  updated: '2024-08-20T15:08:17Z'
-  issues: 357
+  updated: '2024-08-21T05:46:47Z'
+  issues: 358
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -383,9 +383,9 @@
   category: '?'
   archived: false
   stars: 4570
-  watch: 875
+  watch: 876
   updated: '2024-08-20T21:30:27Z'
-  issues: 135
+  issues: 136
   forks: 729
   license: MIT
   owner: Azure
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1106
+  stars: 1107
   watch: 22
-  updated: '2024-08-17T01:04:35Z'
+  updated: '2024-08-21T06:44:20Z'
   issues: 107
   forks: 179
   license: MIT
