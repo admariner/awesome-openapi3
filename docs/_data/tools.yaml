@@ -220,7 +220,7 @@
   stars: 326
   watch: 11
   forks: 41
-  updated: '2024-08-21T15:16:04Z'
+  updated: '2024-08-29T21:51:00Z'
   issues: 57
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1085
+  stars: 1086
   watch: 18
-  updated: '2024-08-22T11:24:50Z'
+  updated: '2024-08-29T14:55:07Z'
   issues: 73
   forks: 154
   license: MIT
@@ -324,7 +324,7 @@
   archived: false
   stars: 3818
   watch: 113
-  forks: 570
+  forks: 571
   updated: '2024-08-28T08:20:48Z'
   issues: 133
   owner: APIs-guru
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4576
-  watch: 879
-  updated: '2024-08-28T06:54:49Z'
-  issues: 136
+  stars: 4577
+  watch: 880
+  updated: '2024-08-29T06:00:22Z'
+  issues: 135
   forks: 729
   license: MIT
   owner: Azure
