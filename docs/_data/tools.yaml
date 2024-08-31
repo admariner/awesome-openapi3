@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 977
+  stars: 979
   watch: 43
   forks: 493
-  updated: '2024-08-27T15:26:14Z'
+  updated: '2024-08-30T16:02:12Z'
   issues: 358
   license: Apache-2.0
   owner: Apicurio
@@ -383,10 +383,10 @@
   category: '?'
   archived: false
   stars: 4577
-  watch: 880
+  watch: 881
   updated: '2024-08-29T06:00:22Z'
-  issues: 135
-  forks: 729
+  issues: 136
+  forks: 730
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
