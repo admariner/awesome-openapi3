@@ -221,7 +221,7 @@
   watch: 11
   forks: 41
   updated: '2024-08-29T21:51:00Z'
-  issues: 58
+  issues: 59
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1086
+  stars: 1087
   watch: 18
-  updated: '2024-08-29T14:55:07Z'
+  updated: '2024-09-03T14:46:39Z'
   issues: 74
   forks: 154
   license: MIT
@@ -325,7 +325,7 @@
   stars: 3819
   watch: 113
   forks: 572
-  updated: '2024-09-01T17:18:03Z'
+  updated: '2024-09-03T10:15:40Z'
   issues: 133
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 979
+  stars: 980
   watch: 43
   forks: 493
-  updated: '2024-08-30T16:02:12Z'
-  issues: 359
+  updated: '2024-09-03T13:36:47Z'
+  issues: 356
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4580
-  watch: 882
-  updated: '2024-09-02T08:01:55Z'
+  stars: 4582
+  watch: 880
+  updated: '2024-09-03T19:44:33Z'
   issues: 137
   forks: 731
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 213
+  stars: 214
   watch: 4
   forks: 30
-  updated: '2024-08-20T04:55:16Z'
+  updated: '2024-09-03T23:43:38Z'
   issues: 40
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
