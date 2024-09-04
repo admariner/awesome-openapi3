@@ -221,7 +221,7 @@
   watch: 11
   forks: 41
   updated: '2024-08-29T21:51:00Z'
-  issues: 59
+  issues: 58
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3819
+  stars: 3820
   watch: 113
   forks: 572
-  updated: '2024-09-03T10:15:40Z'
-  issues: 133
+  updated: '2024-09-04T14:12:08Z'
+  issues: 136
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 980
+  stars: 981
   watch: 43
-  forks: 493
-  updated: '2024-09-03T13:36:47Z'
+  forks: 494
+  updated: '2024-09-04T01:26:00Z'
   issues: 356
   license: Apache-2.0
   owner: Apicurio
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4582
+  stars: 4583
   watch: 880
-  updated: '2024-09-03T19:44:33Z'
-  issues: 137
+  updated: '2024-09-04T19:22:43Z'
+  issues: 139
   forks: 731
   license: MIT
   owner: Azure
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 115
+  stars: 116
   watch: 6
   forks: 66
-  updated: '2024-08-20T13:38:58Z'
+  updated: '2024-09-04T16:20:25Z'
   issues: 36
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -578,7 +578,7 @@
   stars: 42
   watch: 5
   forks: 5
-  updated: '2024-09-01T09:03:15Z'
+  updated: '2024-09-04T15:11:34Z'
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
