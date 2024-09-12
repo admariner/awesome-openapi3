@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1088
+  stars: 1090
   watch: 18
-  updated: '2024-09-06T02:59:56Z'
+  updated: '2024-09-11T20:45:31Z'
   issues: 74
   forks: 154
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 623
+  stars: 622
   watch: 35
   forks: 52
-  updated: '2024-09-06T01:00:34Z'
+  updated: '2024-09-11T08:19:45Z'
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -326,7 +326,7 @@
   watch: 113
   forks: 574
   updated: '2024-09-10T15:00:57Z'
-  issues: 138
+  issues: 139
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -384,8 +384,8 @@
   archived: false
   stars: 4591
   watch: 885
-  updated: '2024-09-10T16:04:58Z'
-  issues: 126
+  updated: '2024-09-11T17:30:49Z'
+  issues: 127
   forks: 730
   license: MIT
   owner: Azure
