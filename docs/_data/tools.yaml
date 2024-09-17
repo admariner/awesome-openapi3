@@ -290,7 +290,7 @@
   archived: false
   stars: 623
   watch: 35
-  forks: 52
+  forks: 53
   updated: '2024-09-12T00:15:42Z'
   issues: 9
   license: BSD-3-Clause
@@ -305,10 +305,10 @@
   description: Amazon Web Services API description to OpenAPI 3.0 definition
   language: JavaScript
   archived: false
-  stars: 56
+  stars: 57
   watch: 5
   forks: 10
-  updated: '2024-06-25T22:52:57Z'
+  updated: '2024-09-17T17:45:37Z'
   issues: 14
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3826
+  stars: 3827
   watch: 113
-  forks: 574
-  updated: '2024-09-16T17:45:55Z'
-  issues: 139
+  forks: 575
+  updated: '2024-09-17T07:58:55Z'
+  issues: 140
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,9 +345,9 @@
   archived: false
   stars: 982
   watch: 43
-  forks: 494
+  forks: 493
   updated: '2024-09-05T05:13:09Z'
-  issues: 359
+  issues: 361
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -383,7 +383,7 @@
   category: '?'
   archived: false
   stars: 4593
-  watch: 887
+  watch: 888
   updated: '2024-09-13T09:08:12Z'
   issues: 127
   forks: 731
