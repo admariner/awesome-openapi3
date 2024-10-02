@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 983
+  stars: 985
   watch: 43
-  forks: 494
-  updated: '2024-09-20T12:41:38Z'
+  forks: 495
+  updated: '2024-10-02T14:58:22Z'
   issues: 364
   license: Apache-2.0
   owner: Apicurio
@@ -383,7 +383,7 @@
   category: '?'
   archived: false
   stars: 4600
-  watch: 896
+  watch: 897
   updated: '2024-09-29T04:40:37Z'
   issues: 130
   forks: 733
@@ -633,7 +633,7 @@
   archived: false
   stars: 1109
   watch: 22
-  updated: '2024-09-13T09:35:05Z'
+  updated: '2024-10-02T18:32:57Z'
   issues: 105
   forks: 180
   license: MIT
