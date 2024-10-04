@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 328
+  stars: 329
   watch: 11
   forks: 41
-  updated: '2024-10-01T12:07:12Z'
+  updated: '2024-10-03T14:53:40Z'
   issues: 61
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3843
+  stars: 3845
   watch: 113
   forks: 575
-  updated: '2024-10-01T09:31:32Z'
+  updated: '2024-10-03T07:13:30Z'
   issues: 143
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -476,7 +476,7 @@
   watch: 20
   forks: 53
   updated: '2024-09-26T17:27:56Z'
-  issues: 4
+  issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
+  stars: 1360
   watch: 87
-  updated: '2024-07-30T08:35:15Z'
+  updated: '2024-10-03T20:56:33Z'
   issues: 40
   forks: 315
   owner: Luracast
@@ -705,10 +705,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 292
+  stars: 293
   watch: 12
   forks: 47
-  updated: '2024-06-08T04:11:17Z'
+  updated: '2024-10-03T09:11:19Z'
   issues: 24
   license: Apache-2.0
   owner: Mermade
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 155
+  stars: 156
   watch: 5
   forks: 33
-  updated: '2024-09-26T11:52:51Z'
+  updated: '2024-10-03T13:28:20Z'
   issues: 9
   license: BSD-3-Clause
   owner: Mermade
