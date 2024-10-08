@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 330
+  stars: 331
   watch: 11
   forks: 41
-  updated: '2024-10-04T14:23:57Z'
+  updated: '2024-10-07T16:23:39Z'
   issues: 61
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -271,9 +271,9 @@
   category: '?'
   archived: false
   stars: 1097
-  watch: 18
-  updated: '2024-09-27T11:29:50Z'
-  issues: 74
+  watch: 19
+  updated: '2024-10-07T18:11:29Z'
+  issues: 70
   forks: 155
   license: MIT
   owner: APIDevTools
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3846
+  stars: 3851
   watch: 113
   forks: 576
-  updated: '2024-10-04T21:02:24Z'
-  issues: 144
+  updated: '2024-10-07T02:37:36Z'
+  issues: 145
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,11 +382,11 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4601
-  watch: 898
-  updated: '2024-10-04T16:18:44Z'
+  stars: 4604
+  watch: 899
+  updated: '2024-10-07T06:35:23Z'
   issues: 130
-  forks: 733
+  forks: 734
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -474,7 +474,7 @@
   archived: false
   stars: 218
   watch: 20
-  forks: 53
+  forks: 54
   updated: '2024-10-04T18:31:46Z'
   issues: 4
   owner: Cornutum
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 196
+  stars: 195
   watch: 5
   forks: 16
-  updated: '2024-09-28T04:23:22Z'
+  updated: '2024-10-05T11:42:53Z'
   issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1109
+  stars: 1110
   watch: 22
-  updated: '2024-10-02T18:32:57Z'
+  updated: '2024-10-06T14:23:32Z'
   issues: 105
   forks: 180
   license: MIT
