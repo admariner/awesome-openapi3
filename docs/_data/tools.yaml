@@ -273,7 +273,7 @@
   stars: 1097
   watch: 19
   updated: '2024-10-07T18:11:29Z'
-  issues: 70
+  issues: 59
   forks: 155
   license: MIT
   owner: APIDevTools
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4604
+  stars: 4603
   watch: 899
-  updated: '2024-10-07T06:35:23Z'
+  updated: '2024-10-08T09:08:39Z'
   issues: 130
   forks: 734
   license: MIT
