@@ -305,10 +305,10 @@
   description: Amazon Web Services API description to OpenAPI 3.0 definition
   language: JavaScript
   archived: false
-  stars: 57
+  stars: 58
   watch: 5
   forks: 10
-  updated: '2024-09-17T17:45:37Z'
+  updated: '2024-10-11T12:39:26Z'
   issues: 14
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,7 +345,7 @@
   archived: false
   stars: 986
   watch: 43
-  forks: 495
+  forks: 494
   updated: '2024-10-10T08:20:54Z'
   issues: 364
   license: Apache-2.0
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 116
+  stars: 117
   watch: 6
   forks: 67
-  updated: '2024-09-04T16:20:25Z'
+  updated: '2024-10-11T17:44:43Z'
   issues: 37
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
