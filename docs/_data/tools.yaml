@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3850
+  stars: 3852
   watch: 113
   forks: 579
-  updated: '2024-10-15T17:14:30Z'
+  updated: '2024-10-16T05:57:15Z'
   issues: 147
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 987
+  stars: 988
   watch: 43
   forks: 495
-  updated: '2024-10-14T14:03:21Z'
+  updated: '2024-10-16T00:30:45Z'
   issues: 364
   license: Apache-2.0
   owner: Apicurio
@@ -384,8 +384,8 @@
   archived: false
   stars: 4605
   watch: 901
-  updated: '2024-10-15T22:44:56Z'
-  issues: 130
+  updated: '2024-10-16T11:10:46Z'
+  issues: 129
   forks: 737
   license: MIT
   owner: Azure
@@ -540,10 +540,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 117
+  stars: 118
   watch: 6
   forks: 67
-  updated: '2024-10-11T17:44:43Z'
+  updated: '2024-10-16T08:06:47Z'
   issues: 37
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 703
+  stars: 704
   watch: 15
   forks: 129
-  updated: '2024-10-13T14:35:08Z'
+  updated: '2024-10-16T00:36:55Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
