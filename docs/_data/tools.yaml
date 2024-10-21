@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1099
+  stars: 1100
   watch: 19
-  updated: '2024-10-15T00:50:01Z'
+  updated: '2024-10-19T01:33:00Z'
   issues: 60
   forks: 155
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 624
+  stars: 625
   watch: 35
   forks: 53
-  updated: '2024-10-18T07:22:54Z'
+  updated: '2024-10-19T07:09:42Z'
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3852
-  watch: 113
-  forks: 579
-  updated: '2024-10-16T05:57:15Z'
+  stars: 3856
+  watch: 114
+  forks: 578
+  updated: '2024-10-21T12:36:03Z'
   issues: 147
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -346,7 +346,7 @@
   stars: 988
   watch: 43
   forks: 495
-  updated: '2024-10-18T17:27:06Z'
+  updated: '2024-10-21T18:07:11Z'
   issues: 354
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4605
+  stars: 4607
   watch: 902
-  updated: '2024-10-17T20:51:34Z'
+  updated: '2024-10-21T09:39:59Z'
   issues: 129
   forks: 737
   license: MIT
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1361
+  stars: 1360
   watch: 87
-  updated: '2024-10-12T13:31:26Z'
+  updated: '2024-10-20T23:13:22Z'
   issues: 40
   forks: 316
   owner: Luracast
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 704
+  stars: 705
   watch: 15
   forks: 129
-  updated: '2024-10-16T00:36:55Z'
+  updated: '2024-10-21T23:35:26Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
@@ -728,7 +728,7 @@
   watch: 4
   forks: 9
   updated: '2024-08-20T10:03:54Z'
-  issues: 6
+  issues: 7
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
