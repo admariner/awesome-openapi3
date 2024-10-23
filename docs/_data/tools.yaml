@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 332
+  stars: 333
   watch: 11
   forks: 41
-  updated: '2024-10-18T14:00:15Z'
+  updated: '2024-10-23T21:41:15Z'
   issues: 61
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 516
+  stars: 517
   watch: 14
   forks: 68
-  updated: '2024-10-22T10:01:50Z'
+  updated: '2024-10-23T17:45:28Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1100
+  stars: 1101
   watch: 19
-  updated: '2024-10-19T01:33:00Z'
+  updated: '2024-10-23T00:53:36Z'
   issues: 60
   forks: 155
   license: MIT
@@ -291,8 +291,8 @@
   stars: 626
   watch: 35
   forks: 53
-  updated: '2024-10-22T04:36:26Z'
-  issues: 9
+  updated: '2024-10-23T22:54:49Z'
+  issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3860
+  stars: 3859
   watch: 114
   forks: 578
-  updated: '2024-10-22T22:57:12Z'
+  updated: '2024-10-23T14:50:33Z'
   issues: 147
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -346,7 +346,7 @@
   stars: 988
   watch: 43
   forks: 495
-  updated: '2024-10-22T22:13:33Z'
+  updated: '2024-10-23T20:02:20Z'
   issues: 353
   license: Apache-2.0
   owner: Apicurio
@@ -382,10 +382,10 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4607
-  watch: 902
-  updated: '2024-10-21T09:39:59Z'
-  issues: 129
+  stars: 4608
+  watch: 903
+  updated: '2024-10-23T23:03:08Z'
+  issues: 130
   forks: 737
   license: MIT
   owner: Azure
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
+  stars: 1360
   watch: 87
-  updated: '2024-10-22T21:16:23Z'
+  updated: '2024-10-23T12:54:31Z'
   issues: 40
   forks: 316
   owner: Luracast
