@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 627
+  stars: 628
   watch: 35
   forks: 53
-  updated: '2024-10-26T00:03:37Z'
+  updated: '2024-10-29T08:08:42Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3862
+  stars: 3865
   watch: 114
-  forks: 578
-  updated: '2024-10-28T13:08:22Z'
+  forks: 579
+  updated: '2024-10-29T19:20:57Z'
   issues: 147
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -346,7 +346,7 @@
   stars: 988
   watch: 42
   forks: 496
-  updated: '2024-10-28T18:30:43Z'
+  updated: '2024-10-29T20:52:48Z'
   issues: 353
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4609
+  stars: 4610
   watch: 906
-  updated: '2024-10-27T23:39:03Z'
+  updated: '2024-10-29T08:57:39Z'
   issues: 130
   forks: 737
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 217
+  stars: 218
   watch: 4
   forks: 30
-  updated: '2024-09-29T04:19:30Z'
+  updated: '2024-10-29T13:20:22Z'
   issues: 43
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -1287,11 +1287,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1635
+  stars: 1697
   watch: 11
-  updated: '2024-04-11T08:47:49Z'
-  issues: 39
-  forks: 229
+  updated: '2024-10-28T11:45:37Z'
+  issues: 44
+  forks: 228
   license: MIT
   owner: Surnet
   logo: 'https://avatars.githubusercontent.com/u/4512080?v=4'
@@ -1308,11 +1308,11 @@
   language: Java
   category: '?'
   archived: false
-  stars: 2476
+  stars: 2497
   watch: 93
-  updated: '2024-04-11T16:10:09Z'
+  updated: '2024-10-28T06:18:42Z'
   issues: 79
-  forks: 376
+  forks: 382
   license: Apache-2.0
   owner: Swagger2Markup
   logo: 'https://avatars.githubusercontent.com/u/13084390?v=4'
@@ -1325,9 +1325,9 @@
   language: Groovy
   category: '?'
   archived: false
-  stars: 55
+  stars: 56
   watch: 7
-  updated: '2024-02-08T02:44:04Z'
+  updated: '2024-08-30T11:23:28Z'
   issues: 6
   forks: 15
   license: Apache-2.0
@@ -1364,7 +1364,7 @@
   watch: 6
   updated: '2023-08-17T16:06:44Z'
   issues: 0
-  forks: 8
+  forks: 7
   license: MIT
   owner: Trax-air
   logo: 'https://avatars.githubusercontent.com/u/5397850?v=4'
@@ -1394,9 +1394,9 @@
   language: Python
   category: '?'
   archived: false
-  stars: 103
+  stars: 105
   watch: 12
-  updated: '2024-01-30T16:01:23Z'
+  updated: '2024-09-26T20:11:26Z'
   issues: 7
   forks: 36
   license: MIT
@@ -1428,11 +1428,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 600
+  stars: 605
   watch: 26
-  updated: '2024-03-19T20:45:21Z'
-  issues: 81
-  forks: 120
+  updated: '2024-10-02T16:43:40Z'
+  issues: 83
+  forks: 117
   license: ''
   owner: Yelp
   logo: 'https://avatars.githubusercontent.com/u/49071?v=4'
@@ -1445,11 +1445,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 108
+  stars: 109
   watch: 22
-  updated: '2024-02-04T23:08:18Z'
-  issues: 47
-  forks: 99
+  updated: '2024-05-29T00:18:27Z'
+  issues: 48
+  forks: 98
   license: ''
   owner: Yelp
   logo: 'https://avatars.githubusercontent.com/u/49071?v=4'
@@ -1462,10 +1462,10 @@
   language: Python
   category: '?'
   archived: false
-  stars: 103
+  stars: 104
   watch: 17
-  updated: '2024-03-27T07:33:37Z'
-  issues: 26
+  updated: '2024-08-19T21:14:18Z'
+  issues: 27
   forks: 71
   license: ''
   owner: Yelp
@@ -1483,7 +1483,7 @@
   watch: 15
   updated: '2024-04-06T09:56:53Z'
   issues: 52
-  forks: 92
+  forks: 94
   license: Apache-2.0
   owner: abelsilva
   logo: 'https://avatars.githubusercontent.com/u/1167088?v=4'
@@ -1499,11 +1499,11 @@
     asyncio, this is the question.
   language: Python
   archived: false
-  stars: 281
+  stars: 290
   watch: 7
   forks: 25
-  updated: '2024-04-02T00:53:15Z'
-  issues: 0
+  updated: '2024-10-06T03:30:16Z'
+  issues: 1
   owner: abersheeran
   logo: 'https://avatars.githubusercontent.com/u/25364828?v=4'
   license: Apache-2.0
@@ -1533,10 +1533,10 @@
   description: Rust serialization library for OpenAPIv3
   v3: true
   archived: true
-  stars: 12
+  stars: 13
   watch: 2
   forks: 4
-  updated: '2023-01-28T15:03:31Z'
+  updated: '2024-04-22T10:18:12Z'
   issues: 2
   owner: adwhit
   logo: 'https://avatars.githubusercontent.com/u/3189554?v=4'
@@ -1545,19 +1545,20 @@
   uuid: af9b6366-acbb-40ed-822c-0dd4d0a397e2
 - name: openapi_first
   description: >-
-    Build your API on top of OpenAPI. Ensure that your implementation follows
-    exactly your API description.
+    openapi_first is a Ruby gem for request / response validation and
+    contract-testing against an OpenAPI API description. It makes APIFirst easy
+    and reliable.
   github: 'https://github.com/ahx/openapi_first'
   v3: true
   language: Ruby
   category: frameworks
   license: MIT
   archived: false
-  stars: 76
+  stars: 119
   watch: 6
-  forks: 10
-  updated: '2024-04-10T13:18:13Z'
-  issues: 0
+  forks: 15
+  updated: '2024-10-26T15:59:08Z'
+  issues: 3
   owner: ahx
   logo: 'https://avatars.githubusercontent.com/u/8669?v=4'
   downloads: 0
@@ -1569,11 +1570,11 @@
   description: 'Spot is a concise, developer-friendly way to describe your API contract.'
   language: TypeScript
   archived: false
-  stars: 530
+  stars: 554
   watch: 49
-  forks: 37
-  updated: '2024-04-08T08:35:20Z'
-  issues: 69
+  forks: 38
+  updated: '2024-10-18T01:43:53Z'
+  issues: 77
   owner: airtasker
   logo: 'https://avatars.githubusercontent.com/u/1745680?v=4'
   license: ''
@@ -1591,7 +1592,7 @@
   watch: 2
   updated: '2024-01-05T23:32:48Z'
   issues: 1
-  forks: 4
+  forks: 5
   license: MIT
   owner: alekseyl
   logo: 'https://avatars.githubusercontent.com/u/2870243?v=4'
@@ -1606,7 +1607,7 @@
   archived: false
   stars: 32
   watch: 4
-  updated: '2023-11-18T08:22:20Z'
+  updated: '2024-07-01T18:48:37Z'
   issues: 1
   forks: 15
   license: MIT
@@ -1621,10 +1622,10 @@
   description: Java Micro Service API Generation
   language: Java
   archived: false
-  stars: 31
+  stars: 32
   watch: 5
-  forks: 14
-  updated: '2024-03-16T15:12:06Z'
+  forks: 15
+  updated: '2024-04-25T22:33:50Z'
   issues: 0
   owner: anupsaund
   logo: 'https://avatars.githubusercontent.com/u/6728822?v=4'
@@ -1640,11 +1641,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 4121
+  stars: 4192
   watch: 75
-  forks: 276
-  updated: '2024-04-10T14:53:22Z'
-  issues: 258
+  forks: 279
+  updated: '2024-10-28T15:09:18Z'
+  issues: 259
   license: MIT
   owner: apiaryio
   logo: 'https://avatars.githubusercontent.com/u/765943?v=4'
@@ -1709,11 +1710,11 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 701
+  stars: 702
   watch: 48
-  updated: '2024-02-23T20:05:14Z'
+  updated: '2024-10-09T09:43:01Z'
   issues: 150
-  forks: 376
+  forks: 373
   license: MIT
   owner: apigee-127
   logo: 'https://avatars.githubusercontent.com/u/7990855?v=4'
@@ -1728,11 +1729,11 @@
   link: 'http://fusio-project.org/'
   v3: true
   archived: false
-  stars: 1667
+  stars: 1862
   watch: 58
-  forks: 210
-  updated: '2024-04-09T08:40:17Z'
-  issues: 161
+  forks: 223
+  updated: '2024-10-28T18:13:39Z'
+  issues: 165
   license: Apache-2.0
   owner: apioo
   logo: 'https://avatars.githubusercontent.com/u/18172950?v=4'
@@ -1743,14 +1744,14 @@
   link: 'http://phpsx.org'
   github: 'https://github.com/apioo/psx-api'
   language: PHP
-  description: Parse and generate API specification formats
+  description: TypeAPI parser and SDK code generator
   v2: true
   v3: true
   archived: false
-  stars: 33
+  stars: 36
   watch: 3
   forks: 9
-  updated: '2023-05-06T06:47:12Z'
+  updated: '2024-10-24T22:33:40Z'
   issues: 0
   license: Apache-2.0
   owner: apioo
@@ -1766,31 +1767,31 @@
     Testing
   language: HTML
   archived: false
-  stars: 557
-  watch: 28
-  forks: 276
-  updated: '2023-09-21T13:46:52Z'
-  issues: 41
+  stars: 686
+  watch: 30
+  forks: 324
+  updated: '2024-10-29T19:16:15Z'
+  issues: 18
   license: MIT
   owner: apisyouwonthate
   logo: 'https://avatars.githubusercontent.com/u/35378327?v=4'
   downloads: 0
   uuid: c46c6d4e-152d-487e-a475-7c4d184ceb82
-- github: 'https://github.com/aress31/swurg'
+- github: 'https://github.com/aress31/openapi-parser'
   v3: true
   category: parsers
-  name: swurg
+  name: openapi-parser
   description: >-
     Parse OpenAPI documents into Burp Suite for automating OpenAPI-based APIs
     security assessments (approved by PortSwigger for inclusion in their
     official BApp Store).
   language: Java
   archived: false
-  stars: 172
+  stars: 194
   watch: 7
-  forks: 49
-  updated: '2023-09-13T11:30:07Z'
-  issues: 9
+  forks: 52
+  updated: '2024-10-16T12:26:47Z'
+  issues: 6
   license: Apache-2.0
   owner: aress31
   logo: 'https://avatars.githubusercontent.com/u/11601622?v=4'
