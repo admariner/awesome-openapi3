@@ -291,8 +291,8 @@
   stars: 629
   watch: 35
   forks: 53
-  updated: '2024-11-05T00:00:52Z'
-  issues: 8
+  updated: '2024-11-06T00:02:48Z'
+  issues: 10
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3873
+  stars: 3874
   watch: 113
   forks: 579
-  updated: '2024-11-05T11:47:45Z'
+  updated: '2024-11-06T21:34:56Z'
   issues: 154
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,8 +345,8 @@
   archived: false
   stars: 987
   watch: 42
-  forks: 496
-  updated: '2024-11-01T16:12:52Z'
+  forks: 497
+  updated: '2024-11-06T14:30:31Z'
   issues: 353
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeScript
   category: '?'
   archived: false
-  stars: 4619
-  watch: 909
-  updated: '2024-11-05T23:24:10Z'
+  stars: 4620
+  watch: 910
+  updated: '2024-11-06T01:59:17Z'
   issues: 129
   forks: 739
   license: MIT
@@ -578,7 +578,7 @@
   stars: 42
   watch: 5
   forks: 5
-  updated: '2024-10-18T12:22:20Z'
+  updated: '2024-11-06T15:42:52Z'
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 197
+  stars: 198
   watch: 5
   forks: 16
-  updated: '2024-10-26T01:21:51Z'
+  updated: '2024-11-06T15:50:09Z'
   issues: 6
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1114
+  stars: 1115
   watch: 22
-  updated: '2024-10-30T04:55:18Z'
+  updated: '2024-11-06T13:56:49Z'
   issues: 105
   forks: 181
   license: MIT
