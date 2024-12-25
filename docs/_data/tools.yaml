@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 642
+  stars: 643
   watch: 35
   forks: 54
-  updated: '2024-12-24T00:03:03Z'
+  updated: '2024-12-25T15:46:12Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4649
-  watch: 924
-  updated: '2024-12-24T00:52:24Z'
+  stars: 4650
+  watch: 923
+  updated: '2024-12-25T21:54:08Z'
   issues: 135
   forks: 742
   license: MIT
