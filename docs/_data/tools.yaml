@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1116
+  stars: 1117
   watch: 20
-  updated: '2025-01-15T15:00:30Z'
+  updated: '2025-01-19T22:32:21Z'
   issues: 60
   forks: 157
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 644
+  stars: 645
   watch: 35
   forks: 54
-  updated: '2025-01-17T00:01:25Z'
+  updated: '2025-01-19T22:35:58Z'
   issues: 8
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3940
+  stars: 3943
   watch: 112
-  forks: 588
-  updated: '2025-01-17T08:49:47Z'
+  forks: 589
+  updated: '2025-01-20T16:26:39Z'
   issues: 168
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -347,7 +347,7 @@
   watch: 42
   forks: 504
   updated: '2025-01-17T16:28:54Z'
-  issues: 357
+  issues: 360
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4669
-  watch: 928
-  updated: '2025-01-17T07:20:42Z'
-  issues: 132
-  forks: 742
+  stars: 4670
+  watch: 927
+  updated: '2025-01-20T10:17:45Z'
+  issues: 131
+  forks: 741
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1359
+  stars: 1360
   watch: 87
-  updated: '2025-01-13T15:20:53Z'
+  updated: '2025-01-20T11:24:34Z'
   issues: 40
   forks: 315
   owner: Luracast
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 707
+  stars: 708
   watch: 15
   forks: 129
-  updated: '2025-01-17T15:35:19Z'
+  updated: '2025-01-20T09:54:24Z'
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
