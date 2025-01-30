@@ -221,7 +221,7 @@
   watch: 12
   forks: 40
   updated: '2025-01-24T19:01:54Z'
-  issues: 62
+  issues: 63
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 646
+  stars: 648
   watch: 35
   forks: 54
-  updated: '2025-01-29T00:01:49Z'
+  updated: '2025-01-30T15:54:43Z'
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 3954
+  stars: 3956
   watch: 112
   forks: 592
-  updated: '2025-01-29T00:06:52Z'
+  updated: '2025-01-30T14:07:16Z'
   issues: 169
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 1007
+  stars: 1008
   watch: 41
-  forks: 503
-  updated: '2025-01-29T13:11:36Z'
+  forks: 504
+  updated: '2025-01-30T20:45:39Z'
   issues: 354
   license: Apache-2.0
   owner: Apicurio
