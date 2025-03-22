@@ -220,7 +220,7 @@
   stars: 345
   watch: 11
   forks: 40
-  updated: '2025-03-20T06:16:33Z'
+  updated: '2025-03-21T17:47:59Z'
   issues: 53
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 659
+  stars: 660
   watch: 33
   forks: 55
-  updated: '2025-03-20T00:01:40Z'
+  updated: '2025-03-21T18:18:02Z'
   issues: 10
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4006
+  stars: 4007
   watch: 112
   forks: 595
-  updated: '2025-03-20T08:55:53Z'
+  updated: '2025-03-21T15:36:11Z'
   issues: 197
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 1017
+  stars: 1018
   watch: 40
   forks: 507
-  updated: '2025-03-19T02:54:32Z'
+  updated: '2025-03-21T23:00:47Z'
   issues: 360
   license: Apache-2.0
   owner: Apicurio
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 226
+  stars: 225
   watch: 17
   forks: 55
-  updated: '2025-03-19T22:11:54Z'
+  updated: '2025-03-21T07:02:45Z'
   issues: 8
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
