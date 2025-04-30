@@ -221,7 +221,7 @@
   watch: 11
   forks: 41
   updated: '2025-04-28T03:10:07Z'
-  issues: 47
+  issues: 48
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -278,7 +278,7 @@
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
-  downloads: 0
+  downloads: 31540864
   downloadStr: 31.54M
   uuid: 8b6626c3-80e1-42f0-bc12-6cdb15b6750a
 - github: 'https://github.com/APIs-guru/awesome-openapi3'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 669
+  stars: 670
   watch: 33
   forks: 55
-  updated: '2025-04-26T23:24:56Z'
+  updated: '2025-04-29T17:26:10Z'
   issues: 11
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4046
+  stars: 4048
   watch: 112
   forks: 599
-  updated: '2025-04-27T16:40:41Z'
-  issues: 210
+  updated: '2025-04-29T23:44:31Z'
+  issues: 211
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -347,7 +347,7 @@
   watch: 39
   forks: 509
   updated: '2025-04-26T18:58:18Z'
-  issues: 363
+  issues: 364
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -385,7 +385,7 @@
   stars: 4722
   watch: 968
   updated: '2025-04-27T05:10:45Z'
-  issues: 146
+  issues: 147
   forks: 740
   license: MIT
   owner: Azure
@@ -444,7 +444,7 @@
   license: MIT
   owner: BlueOakJS
   logo: 'https://avatars.githubusercontent.com/u/17052968?v=4'
-  downloads: 0
+  downloads: 2526
   downloadStr: 2.53K
   uuid: edf3f1f1-65c2-4f14-b16b-ec2df46563a0
 - name: hippie-swagger
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 719
+  stars: 720
   watch: 14
   forks: 120
-  updated: '2025-04-23T11:27:08Z'
+  updated: '2025-04-29T12:12:07Z'
   issues: 44
   license: BSD-3-Clause
   owner: Mermade
@@ -1718,7 +1718,7 @@
   license: MIT
   owner: apigee-127
   logo: 'https://avatars.githubusercontent.com/u/7990855?v=4'
-  downloads: 0
+  downloads: 2938657
   downloadStr: 2.94M
   uuid: 455c6594-1c47-4a9b-a2fc-c177f5eba1cd
 - name: fusio
@@ -3601,7 +3601,7 @@
   license: MIT
   owner: mac-
   logo: 'https://avatars.githubusercontent.com/u/1530281?v=4'
-  downloads: 0
+  downloads: 1371
   downloadStr: 1.37K
   uuid: e585df60-5d8e-4529-9ad1-d9d17876210f
 - github: 'https://github.com/madkote/fastapi-plugins'
