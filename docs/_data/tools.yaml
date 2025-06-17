@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 352
+  stars: 353
   watch: 11
   forks: 39
-  updated: '2025-06-13T03:12:52Z'
+  updated: '2025-06-16T13:49:49Z'
   issues: 49
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -272,7 +272,7 @@
   archived: false
   stars: 1143
   watch: 19
-  updated: '2025-06-12T13:42:04Z'
+  updated: '2025-06-16T22:25:13Z'
   issues: 55
   forks: 163
   license: MIT
@@ -291,7 +291,7 @@
   stars: 676
   watch: 33
   forks: 57
-  updated: '2025-06-13T00:01:04Z'
+  updated: '2025-06-14T00:01:06Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -324,8 +324,8 @@
   archived: false
   stars: 4084
   watch: 112
-  forks: 606
-  updated: '2025-06-12T15:58:08Z'
+  forks: 607
+  updated: '2025-06-16T11:47:14Z'
   issues: 227
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 1039
+  stars: 1040
   watch: 39
-  forks: 512
-  updated: '2025-06-11T11:51:31Z'
-  issues: 358
+  forks: 513
+  updated: '2025-06-16T22:54:11Z'
+  issues: 359
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -384,7 +384,7 @@
   archived: false
   stars: 4737
   watch: 977
-  updated: '2025-06-12T14:05:51Z'
+  updated: '2025-06-16T20:21:02Z'
   issues: 150
   forks: 742
   license: MIT
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1146
+  stars: 1145
   watch: 21
-  updated: '2025-06-08T13:14:37Z'
+  updated: '2025-06-15T09:11:39Z'
   issues: 105
   forks: 184
   license: MIT
