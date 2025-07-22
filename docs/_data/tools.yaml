@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 677
+  stars: 676
   watch: 33
   forks: 60
-  updated: '2025-07-19T00:01:09Z'
+  updated: '2025-07-22T00:01:14Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4114
+  stars: 4118
   watch: 111
-  forks: 609
-  updated: '2025-07-19T20:22:47Z'
-  issues: 256
+  forks: 611
+  updated: '2025-07-22T17:16:39Z'
+  issues: 258
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 1044
+  stars: 1045
   watch: 39
-  forks: 513
-  updated: '2025-07-18T16:09:06Z'
-  issues: 360
+  forks: 514
+  updated: '2025-07-22T10:42:58Z'
+  issues: 359
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,11 +382,11 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4751
-  watch: 975
-  updated: '2025-07-19T13:59:52Z'
+  stars: 4752
+  watch: 974
+  updated: '2025-07-22T04:05:14Z'
   issues: 152
-  forks: 740
+  forks: 739
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 229
+  stars: 230
   watch: 17
-  forks: 55
-  updated: '2025-07-12T18:56:10Z'
+  forks: 56
+  updated: '2025-07-22T18:33:16Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 202
+  stars: 203
   watch: 4
   forks: 16
-  updated: '2025-07-07T22:18:56Z'
+  updated: '2025-07-22T04:58:48Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1148
+  stars: 1149
   watch: 21
-  updated: '2025-07-17T14:24:52Z'
+  updated: '2025-07-21T20:36:05Z'
   issues: 105
   forks: 186
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 726
+  stars: 727
   watch: 14
   forks: 120
-  updated: '2025-07-17T14:34:47Z'
+  updated: '2025-07-22T06:24:56Z'
   issues: 44
   license: BSD-3-Clause
   owner: Mermade
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 165
+  stars: 166
   watch: 4
   forks: 34
-  updated: '2025-07-14T16:32:24Z'
+  updated: '2025-07-22T18:53:49Z'
   issues: 9
   license: BSD-3-Clause
   owner: Mermade
