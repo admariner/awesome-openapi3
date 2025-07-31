@@ -220,7 +220,7 @@
   stars: 354
   watch: 11
   forks: 38
-  updated: '2025-07-28T12:47:21Z'
+  updated: '2025-07-30T14:42:38Z'
   issues: 49
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -256,7 +256,7 @@
   watch: 20
   updated: '2025-03-09T23:19:30Z'
   issues: 1
-  forks: 197
+  forks: 196
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -291,7 +291,7 @@
   stars: 677
   watch: 33
   forks: 60
-  updated: '2025-07-29T00:03:28Z'
+  updated: '2025-07-31T00:01:13Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -309,7 +309,7 @@
   watch: 4
   forks: 11
   updated: '2025-07-17T19:24:23Z'
-  issues: 14
+  issues: 15
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4128
+  stars: 4131
   watch: 111
   forks: 611
-  updated: '2025-07-29T14:17:03Z'
-  issues: 261
+  updated: '2025-07-31T11:14:45Z'
+  issues: 262
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -346,8 +346,8 @@
   stars: 1050
   watch: 39
   forks: 514
-  updated: '2025-07-29T15:41:10Z'
-  issues: 361
+  updated: '2025-07-30T12:01:30Z'
+  issues: 360
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,10 +382,10 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4755
+  stars: 4757
   watch: 974
-  updated: '2025-07-29T02:50:38Z'
-  issues: 151
+  updated: '2025-07-31T03:19:35Z'
+  issues: 152
   forks: 738
   license: MIT
   owner: Azure
@@ -651,9 +651,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1364
+  stars: 1365
   watch: 86
-  updated: '2025-07-29T22:45:06Z'
+  updated: '2025-07-30T07:45:19Z'
   issues: 41
   forks: 312
   owner: Luracast
