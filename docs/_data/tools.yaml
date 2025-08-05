@@ -270,11 +270,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1151
+  stars: 1153
   watch: 19
-  updated: '2025-07-25T02:23:18Z'
+  updated: '2025-08-05T07:40:17Z'
   issues: 56
-  forks: 166
+  forks: 165
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -291,7 +291,7 @@
   stars: 677
   watch: 33
   forks: 60
-  updated: '2025-08-02T00:02:30Z'
+  updated: '2025-08-05T00:03:29Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -305,10 +305,10 @@
   description: Amazon Web Services API description to OpenAPI 3.0 definition
   language: JavaScript
   archived: false
-  stars: 60
+  stars: 59
   watch: 4
   forks: 11
-  updated: '2025-07-17T19:24:23Z'
+  updated: '2025-08-03T21:48:20Z'
   issues: 15
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -324,9 +324,9 @@
   archived: false
   stars: 4136
   watch: 111
-  forks: 611
+  forks: 610
   updated: '2025-08-01T16:19:59Z'
-  issues: 263
+  issues: 264
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -346,7 +346,7 @@
   stars: 1051
   watch: 39
   forks: 514
-  updated: '2025-08-02T21:25:29Z'
+  updated: '2025-08-05T15:00:21Z'
   issues: 360
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4757
+  stars: 4758
   watch: 974
-  updated: '2025-07-31T03:19:35Z'
+  updated: '2025-08-03T17:04:45Z'
   issues: 152
   forks: 738
   license: MIT
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1149
+  stars: 1150
   watch: 21
-  updated: '2025-07-21T20:36:05Z'
+  updated: '2025-08-04T09:50:37Z'
   issues: 105
   forks: 186
   license: MIT
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 727
+  stars: 729
   watch: 14
-  forks: 119
-  updated: '2025-07-25T18:56:32Z'
+  forks: 120
+  updated: '2025-08-04T10:23:08Z'
   issues: 44
   license: BSD-3-Clause
   owner: Mermade
