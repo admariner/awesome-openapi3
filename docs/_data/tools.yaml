@@ -291,7 +291,7 @@
   stars: 677
   watch: 33
   forks: 60
-  updated: '2025-08-23T00:01:13Z'
+  updated: '2025-08-26T00:03:57Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4154
+  stars: 4155
   watch: 111
-  forks: 622
-  updated: '2025-08-23T21:25:23Z'
+  forks: 624
+  updated: '2025-08-26T19:33:01Z'
   issues: 271
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -343,11 +343,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 1052
+  stars: 1053
   watch: 39
   forks: 518
-  updated: '2025-08-21T19:09:31Z'
-  issues: 362
+  updated: '2025-08-26T14:49:54Z'
+  issues: 361
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4765
+  stars: 4766
   watch: 973
-  updated: '2025-08-21T14:26:13Z'
+  updated: '2025-08-25T21:31:02Z'
   issues: 154
   forks: 740
   license: MIT
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 166
+  stars: 165
   watch: 4
   forks: 34
-  updated: '2025-07-22T18:53:49Z'
+  updated: '2025-08-25T16:53:35Z'
   issues: 9
   license: BSD-3-Clause
   owner: Mermade
@@ -3565,7 +3565,7 @@
   license: MIT
   owner: luckymarmot
   logo: 'https://avatars.githubusercontent.com/u/3215332?v=4'
-  downloads: 2114
+  downloads: 0
   downloadStr: 2.11K
   uuid: b1634338-f66a-42ec-93fd-7ec42e791792
 - github: 'https://github.com/m3-moretv/smogger'
@@ -5179,7 +5179,7 @@
   license: MIT
   owner: slanatech
   logo: 'https://avatars.githubusercontent.com/u/28799285?v=4'
-  downloads: 1958762
+  downloads: 0
   downloadStr: 1.96M
   uuid: a58ad94a-2192-458f-a440-9d049b37115b
 - name: openapi-first
