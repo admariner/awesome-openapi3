@@ -270,11 +270,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1154
+  stars: 1155
   watch: 19
-  updated: '2025-08-17T20:16:46Z'
+  updated: '2025-08-29T08:15:27Z'
   issues: 56
-  forks: 165
+  forks: 166
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -291,7 +291,7 @@
   stars: 679
   watch: 33
   forks: 60
-  updated: '2025-08-27T14:25:56Z'
+  updated: '2025-08-29T00:01:05Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4160
+  stars: 4162
   watch: 111
   forks: 625
-  updated: '2025-08-27T17:39:38Z'
+  updated: '2025-08-29T21:16:42Z'
   issues: 271
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -345,7 +345,7 @@
   archived: false
   stars: 1053
   watch: 39
-  forks: 517
+  forks: 518
   updated: '2025-08-26T14:49:54Z'
   issues: 361
   license: Apache-2.0
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4766
+  stars: 4764
   watch: 973
-  updated: '2025-08-25T21:31:02Z'
+  updated: '2025-08-29T16:37:55Z'
   issues: 154
   forks: 740
   license: MIT
@@ -631,11 +631,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1156
+  stars: 1157
   watch: 21
-  updated: '2025-08-21T12:43:36Z'
+  updated: '2025-08-29T15:01:03Z'
   issues: 105
-  forks: 187
+  forks: 188
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -745,10 +745,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 165
+  stars: 166
   watch: 4
   forks: 34
-  updated: '2025-08-25T16:53:35Z'
+  updated: '2025-08-27T14:25:58Z'
   issues: 9
   license: BSD-3-Clause
   owner: Mermade
