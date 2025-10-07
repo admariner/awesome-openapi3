@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 355
+  stars: 354
   watch: 12
   forks: 40
-  updated: '2025-09-26T12:24:35Z'
+  updated: '2025-10-06T15:54:19Z'
   issues: 50
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -236,8 +236,8 @@
   archived: true
   stars: 516
   watch: 12
-  forks: 71
-  updated: '2025-08-06T01:32:28Z'
+  forks: 70
+  updated: '2025-10-06T09:17:02Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -272,9 +272,9 @@
   archived: false
   stars: 1160
   watch: 19
-  updated: '2025-09-29T05:41:42Z'
-  issues: 57
-  forks: 166
+  updated: '2025-10-06T09:15:54Z'
+  issues: 58
+  forks: 167
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 683
-  watch: 33
+  stars: 684
+  watch: 32
   forks: 59
-  updated: '2025-10-01T00:03:02Z'
+  updated: '2025-10-07T00:01:15Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -306,7 +306,7 @@
   language: JavaScript
   archived: false
   stars: 61
-  watch: 4
+  watch: 3
   forks: 11
   updated: '2025-08-07T22:28:43Z'
   issues: 15
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4187
-  watch: 111
-  forks: 625
-  updated: '2025-09-30T19:47:01Z'
-  issues: 283
+  stars: 4235
+  watch: 113
+  forks: 638
+  updated: '2025-10-07T19:31:46Z'
+  issues: 286
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -344,7 +344,7 @@
   v3: true
   archived: false
   stars: 1059
-  watch: 39
+  watch: 38
   forks: 520
   updated: '2025-09-27T23:58:54Z'
   issues: 368
@@ -363,7 +363,7 @@
   v3: true
   archived: true
   stars: 48
-  watch: 4
+  watch: 3
   forks: 9
   updated: '2025-03-20T00:51:32Z'
   issues: 0
@@ -382,11 +382,11 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4777
-  watch: 973
-  updated: '2025-10-01T20:39:48Z'
+  stars: 4776
+  watch: 971
+  updated: '2025-10-06T09:16:25Z'
   issues: 159
-  forks: 741
+  forks: 740
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -437,7 +437,7 @@
   category: '?'
   archived: false
   stars: 140
-  watch: 38
+  watch: 37
   updated: '2025-01-03T21:19:34Z'
   issues: 29
   forks: 24
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 234
-  watch: 17
+  stars: 235
+  watch: 16
   forks: 56
-  updated: '2025-09-16T19:55:27Z'
+  updated: '2025-10-07T16:05:01Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -507,7 +507,7 @@
   language: 'F#'
   archived: false
   stars: 11
-  watch: 5
+  watch: 4
   forks: 2
   updated: '2020-11-12T16:00:37Z'
   issues: 1
@@ -541,7 +541,7 @@
   language: JavaScript
   archived: false
   stars: 127
-  watch: 5
+  watch: 4
   forks: 69
   updated: '2025-09-02T08:07:02Z'
   issues: 38
@@ -559,7 +559,7 @@
   language: Elixir
   archived: false
   stars: 36
-  watch: 20
+  watch: 19
   forks: 3
   updated: '2022-09-10T22:14:19Z'
   issues: 3
@@ -595,7 +595,7 @@
   language: TypeScript
   archived: false
   stars: 206
-  watch: 4
+  watch: 3
   forks: 16
   updated: '2025-08-19T13:21:18Z'
   issues: 5
@@ -652,7 +652,7 @@
   category: '?'
   archived: false
   stars: 1365
-  watch: 86
+  watch: 85
   updated: '2025-08-08T12:57:53Z'
   issues: 42
   forks: 312
@@ -689,9 +689,9 @@
   v3: true
   archived: false
   stars: 734
-  watch: 14
+  watch: 13
   forks: 120
-  updated: '2025-09-16T21:50:56Z'
+  updated: '2025-10-06T09:20:01Z'
   issues: 44
   license: BSD-3-Clause
   owner: Mermade
@@ -706,7 +706,7 @@
   language: JavaScript
   archived: false
   stars: 295
-  watch: 11
+  watch: 10
   forks: 47
   updated: '2025-07-25T18:56:34Z'
   issues: 24
@@ -725,9 +725,9 @@
   v3: true
   archived: false
   stars: 33
-  watch: 3
+  watch: 2
   forks: 9
-  updated: '2025-04-23T16:47:17Z'
+  updated: '2025-10-06T09:23:30Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
@@ -746,7 +746,7 @@
   v3: true
   archived: false
   stars: 166
-  watch: 4
+  watch: 3
   forks: 34
   updated: '2025-08-27T14:25:58Z'
   issues: 9
