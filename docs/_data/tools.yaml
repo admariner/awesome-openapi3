@@ -219,9 +219,9 @@
   archived: false
   stars: 354
   watch: 12
-  forks: 40
+  forks: 39
   updated: '2025-10-17T17:24:40Z'
-  issues: 50
+  issues: 49
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -235,7 +235,7 @@
   v2: true
   archived: true
   stars: 516
-  watch: 12
+  watch: 11
   forks: 70
   updated: '2025-10-06T09:17:02Z'
   issues: 51
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1165
-  watch: 20
-  updated: '2025-10-17T19:45:22Z'
+  stars: 1167
+  watch: 19
+  updated: '2025-10-21T17:33:31Z'
   issues: 59
   forks: 166
   license: MIT
@@ -291,7 +291,7 @@
   stars: 684
   watch: 32
   forks: 60
-  updated: '2025-10-18T00:01:18Z'
+  updated: '2025-10-21T00:03:06Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4248
+  stars: 4255
   watch: 113
-  forks: 638
-  updated: '2025-10-16T21:23:29Z'
+  forks: 642
+  updated: '2025-10-21T06:33:12Z'
   issues: 290
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -346,8 +346,8 @@
   stars: 1062
   watch: 38
   forks: 518
-  updated: '2025-10-17T13:13:26Z'
-  issues: 368
+  updated: '2025-10-20T07:47:06Z'
+  issues: 369
   license: Apache-2.0
   owner: Apicurio
   logo: 'https://avatars.githubusercontent.com/u/28107283?v=4'
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4776
+  stars: 4779
   watch: 972
-  updated: '2025-10-17T21:06:02Z'
+  updated: '2025-10-21T17:04:47Z'
   issues: 158
   forks: 739
   license: MIT
@@ -543,7 +543,7 @@
   stars: 127
   watch: 4
   forks: 69
-  updated: '2025-09-02T08:07:02Z'
+  updated: '2025-10-21T02:23:35Z'
   issues: 38
   owner: ErikWittern
   logo: 'https://avatars.githubusercontent.com/u/1745998?v=4'
@@ -578,7 +578,7 @@
   stars: 44
   watch: 4
   forks: 5
-  updated: '2025-09-28T08:43:11Z'
+  updated: '2025-10-20T08:55:16Z'
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
