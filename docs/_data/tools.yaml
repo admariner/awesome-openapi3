@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 354
-  watch: 12
+  stars: 353
+  watch: 11
   forks: 39
-  updated: '2025-10-22T15:21:23Z'
+  updated: '2025-10-23T01:48:36Z'
   issues: 49
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 516
+  stars: 517
   watch: 11
   forks: 70
-  updated: '2025-10-06T09:17:02Z'
+  updated: '2025-10-24T11:02:25Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 574
+  stars: 575
   watch: 20
-  updated: '2025-09-22T06:46:54Z'
+  updated: '2025-10-24T11:02:26Z'
   issues: 1
   forks: 195
   license: MIT
@@ -290,8 +290,8 @@
   archived: false
   stars: 684
   watch: 32
-  forks: 60
-  updated: '2025-10-22T00:02:07Z'
+  forks: 61
+  updated: '2025-10-24T00:01:25Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,10 +322,10 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4256
-  watch: 113
+  stars: 4260
+  watch: 110
   forks: 642
-  updated: '2025-10-22T07:27:51Z'
+  updated: '2025-10-24T18:42:38Z'
   issues: 290
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -342,11 +342,11 @@
   description: Open Source API Design
   v2: true
   v3: true
-  archived: false
+  archived: true
   stars: 1062
-  watch: 38
+  watch: 37
   forks: 518
-  updated: '2025-10-20T07:47:06Z'
+  updated: '2025-10-23T15:10:19Z'
   issues: 369
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4779
-  watch: 972
-  updated: '2025-10-21T17:04:47Z'
+  stars: 4781
+  watch: 968
+  updated: '2025-10-23T16:53:15Z'
   issues: 158
   forks: 739
   license: MIT
@@ -576,7 +576,7 @@
   language: Go
   archived: false
   stars: 44
-  watch: 4
+  watch: 3
   forks: 5
   updated: '2025-10-20T08:55:16Z'
   issues: 8
@@ -635,7 +635,7 @@
   watch: 22
   updated: '2025-09-28T01:02:00Z'
   issues: 105
-  forks: 189
+  forks: 190
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
@@ -652,7 +652,7 @@
   category: '?'
   archived: false
   stars: 1365
-  watch: 85
+  watch: 82
   updated: '2025-08-08T12:57:53Z'
   issues: 42
   forks: 312
