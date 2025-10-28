@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 517
+  stars: 518
   watch: 11
   forks: 70
-  updated: '2025-10-24T11:02:25Z'
+  updated: '2025-10-27T07:46:59Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 575
+  stars: 576
   watch: 20
-  updated: '2025-10-24T11:02:26Z'
+  updated: '2025-10-27T07:47:00Z'
   issues: 1
   forks: 195
   license: MIT
@@ -291,7 +291,7 @@
   stars: 684
   watch: 32
   forks: 61
-  updated: '2025-10-25T00:02:03Z'
+  updated: '2025-10-28T00:03:26Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4261
+  stars: 4264
   watch: 110
   forks: 642
-  updated: '2025-10-25T19:47:56Z'
-  issues: 291
+  updated: '2025-10-28T18:27:30Z'
+  issues: 293
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,11 +382,11 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4781
+  stars: 4780
   watch: 968
-  updated: '2025-10-25T22:28:18Z'
+  updated: '2025-10-26T17:44:07Z'
   issues: 158
-  forks: 739
+  forks: 740
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -475,7 +475,7 @@
   stars: 235
   watch: 16
   forks: 56
-  updated: '2025-10-13T17:47:12Z'
+  updated: '2025-10-26T23:47:31Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
