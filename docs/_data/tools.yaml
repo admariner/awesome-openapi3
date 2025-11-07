@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 576
+  stars: 577
   watch: 20
-  updated: '2025-10-27T07:47:00Z'
+  updated: '2025-11-07T08:14:30Z'
   issues: 1
   forks: 195
   license: MIT
@@ -291,7 +291,7 @@
   stars: 686
   watch: 32
   forks: 61
-  updated: '2025-11-06T00:02:48Z'
+  updated: '2025-11-07T00:03:00Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -326,7 +326,7 @@
   watch: 110
   forks: 643
   updated: '2025-11-06T01:29:59Z'
-  issues: 297
+  issues: 300
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
