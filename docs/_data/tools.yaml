@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 686
+  stars: 687
   watch: 32
   forks: 61
-  updated: '2025-11-07T00:03:00Z'
+  updated: '2025-11-08T08:45:22Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -345,7 +345,7 @@
   archived: true
   stars: 1060
   watch: 36
-  forks: 518
+  forks: 517
   updated: '2025-11-05T00:40:52Z'
   issues: 369
   license: Apache-2.0
@@ -578,7 +578,7 @@
   stars: 44
   watch: 3
   forks: 5
-  updated: '2025-10-20T08:55:16Z'
+  updated: '2025-11-08T11:19:42Z'
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
@@ -635,7 +635,7 @@
   watch: 22
   updated: '2025-11-06T07:21:42Z'
   issues: 105
-  forks: 191
+  forks: 190
   license: MIT
   owner: LucyBot-Inc
   logo: 'https://avatars.githubusercontent.com/u/26313641?v=4'
