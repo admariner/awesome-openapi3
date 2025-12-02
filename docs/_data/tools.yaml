@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 356
+  stars: 357
   watch: 11
   forks: 40
-  updated: '2025-11-28T16:21:02Z'
+  updated: '2025-12-01T08:49:40Z'
   issues: 49
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1173
+  stars: 1174
   watch: 19
-  updated: '2025-11-29T14:08:57Z'
+  updated: '2025-12-02T01:35:48Z'
   issues: 60
   forks: 165
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 689
+  stars: 690
   watch: 32
   forks: 60
-  updated: '2025-11-29T00:02:01Z'
+  updated: '2025-12-02T11:25:43Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4298
-  watch: 111
-  forks: 644
-  updated: '2025-11-29T09:05:39Z'
-  issues: 311
+  stars: 4303
+  watch: 112
+  forks: 645
+  updated: '2025-12-02T15:48:21Z'
+  issues: 313
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4788
+  stars: 4787
   watch: 968
-  updated: '2025-11-28T08:42:33Z'
+  updated: '2025-12-01T18:07:10Z'
   issues: 159
   forks: 741
   license: MIT
@@ -644,21 +644,21 @@
   uuid: bcf24fcc-360c-4175-bd84-13ac17bc02d0
 - name: Restler
   description: >-
-    Simple and effective multi-format Web API Server to host your PHP API as
-    Pragmatic REST and/or RESTful API
+    Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs,
+    validation.
   github: 'https://github.com/Luracast/Restler'
   v1: true
-  language: JavaScript
+  language: PHP
   category: '?'
   archived: false
-  stars: 1366
+  stars: 1367
   watch: 82
-  updated: '2025-10-25T09:52:20Z'
-  issues: 42
+  updated: '2025-12-02T22:41:43Z'
+  issues: 33
   forks: 312
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
-  downloads: 1925427
+  downloads: 0
   downloadStr: 1.93M
   uuid: 4e5d7b8b-a977-42eb-a6ab-709ed6e265e3
   license: LGPL-2.1
