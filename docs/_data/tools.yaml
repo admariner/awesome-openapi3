@@ -291,7 +291,7 @@
   stars: 692
   watch: 32
   forks: 59
-  updated: '2025-12-16T00:02:40Z'
+  updated: '2025-12-17T00:02:32Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4314
+  stars: 4315
   watch: 111
   forks: 647
-  updated: '2025-12-16T19:29:43Z'
-  issues: 320
+  updated: '2025-12-17T22:26:12Z'
+  issues: 321
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,11 +382,11 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4788
+  stars: 4789
   watch: 968
-  updated: '2025-12-12T05:51:05Z'
+  updated: '2025-12-17T10:14:01Z'
   issues: 159
-  forks: 740
+  forks: 739
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -651,9 +651,9 @@
   language: PHP
   category: '?'
   archived: false
-  stars: 1370
+  stars: 1372
   watch: 82
-  updated: '2025-12-05T12:05:59Z'
+  updated: '2025-12-17T18:15:58Z'
   issues: 35
   forks: 311
   owner: Luracast
