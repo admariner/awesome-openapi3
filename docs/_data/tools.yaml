@@ -291,7 +291,7 @@
   stars: 692
   watch: 32
   forks: 59
-  updated: '2025-12-19T00:01:10Z'
+  updated: '2025-12-20T00:01:50Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -324,9 +324,9 @@
   archived: false
   stars: 4317
   watch: 111
-  forks: 647
+  forks: 646
   updated: '2025-12-19T02:45:13Z'
-  issues: 322
+  issues: 323
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,7 +345,7 @@
   archived: true
   stars: 1059
   watch: 36
-  forks: 519
+  forks: 518
   updated: '2025-11-28T22:15:00Z'
   issues: 368
   license: Apache-2.0
@@ -386,7 +386,7 @@
   watch: 968
   updated: '2025-12-18T09:00:57Z'
   issues: 158
-  forks: 739
+  forks: 738
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
