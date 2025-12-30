@@ -291,7 +291,7 @@
   stars: 692
   watch: 32
   forks: 59
-  updated: '2025-12-27T00:02:38Z'
+  updated: '2025-12-30T00:03:04Z'
   issues: 12
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4322
+  stars: 4325
   watch: 111
-  forks: 646
-  updated: '2025-12-26T10:03:10Z'
-  issues: 327
+  forks: 647
+  updated: '2025-12-29T23:23:10Z'
+  issues: 329
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
