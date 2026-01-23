@@ -220,8 +220,8 @@
   stars: 362
   watch: 11
   forks: 43
-  updated: '2026-01-21T16:51:40Z'
-  issues: 52
+  updated: '2026-01-23T12:57:10Z'
+  issues: 50
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -291,7 +291,7 @@
   stars: 694
   watch: 32
   forks: 60
-  updated: '2026-01-21T00:02:30Z'
+  updated: '2026-01-23T00:03:32Z'
   issues: 13
   license: BSD-3-Clause
   owner: APIs-guru
@@ -309,7 +309,7 @@
   watch: 3
   forks: 12
   updated: '2025-08-07T22:28:43Z'
-  issues: 16
+  issues: 17
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4345
+  stars: 4348
   watch: 111
-  forks: 652
-  updated: '2026-01-21T10:59:03Z'
-  issues: 343
+  forks: 653
+  updated: '2026-01-23T13:52:05Z'
+  issues: 345
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -346,7 +346,7 @@
   stars: 1061
   watch: 36
   forks: 517
-  updated: '2026-01-15T20:14:18Z'
+  updated: '2026-01-23T03:24:57Z'
   issues: 368
   license: Apache-2.0
   owner: Apicurio
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4795
-  watch: 965
-  updated: '2026-01-20T06:58:20Z'
+  stars: 4796
+  watch: 964
+  updated: '2026-01-22T14:23:30Z'
   issues: 159
   forks: 738
   license: MIT
@@ -401,10 +401,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 223
+  stars: 224
   watch: 3
   forks: 31
-  updated: '2026-01-01T04:32:05Z'
+  updated: '2026-01-22T20:03:25Z'
   issues: 48
   owner: BRIKEV
   logo: 'https://avatars.githubusercontent.com/u/59850028?v=4'
@@ -558,10 +558,10 @@
   description: "\U0001F4C7API Documentation Generator for Phoenix"
   language: Elixir
   archived: false
-  stars: 36
+  stars: 37
   watch: 19
   forks: 2
-  updated: '2022-09-10T22:14:19Z'
+  updated: '2026-01-23T21:53:41Z'
   issues: 3
   owner: Frameio
   logo: 'https://avatars.githubusercontent.com/u/8882715?v=4'
@@ -594,10 +594,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 206
+  stars: 207
   watch: 3
   forks: 16
-  updated: '2025-12-05T19:22:25Z'
+  updated: '2026-01-23T08:00:34Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
