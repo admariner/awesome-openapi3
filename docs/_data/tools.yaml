@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1185
+  stars: 1186
   watch: 19
-  updated: '2026-02-26T07:59:40Z'
+  updated: '2026-02-28T17:50:46Z'
   issues: 60
   forks: 165
   license: MIT
@@ -291,7 +291,7 @@
   stars: 697
   watch: 32
   forks: 61
-  updated: '2026-02-27T00:04:03Z'
+  updated: '2026-02-28T00:03:44Z'
   issues: 13
   license: BSD-3-Clause
   owner: APIs-guru
@@ -542,7 +542,7 @@
   archived: false
   stars: 128
   watch: 4
-  forks: 68
+  forks: 69
   updated: '2026-01-01T17:57:57Z'
   issues: 38
   owner: ErikWittern
