@@ -237,7 +237,7 @@
   stars: 518
   watch: 11
   forks: 68
-  updated: '2026-03-10T15:41:42Z'
+  updated: '2026-03-16T08:06:27Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1188
+  stars: 1189
   watch: 19
-  updated: '2026-03-07T16:52:12Z'
+  updated: '2026-03-16T17:05:24Z'
   issues: 61
   forks: 166
   license: MIT
@@ -289,10 +289,10 @@
   language: JavaScript
   archived: false
   stars: 695
-  watch: 32
-  forks: 63
-  updated: '2026-03-14T00:04:39Z'
-  issues: 14
+  watch: 31
+  forks: 62
+  updated: '2026-03-17T12:56:52Z'
+  issues: 15
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4396
-  watch: 109
-  forks: 664
-  updated: '2026-03-14T23:09:57Z'
-  issues: 484
+  stars: 4401
+  watch: 108
+  forks: 666
+  updated: '2026-03-17T17:25:49Z'
+  issues: 773
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: true
-  stars: 1062
+  stars: 1063
   watch: 36
-  forks: 516
-  updated: '2026-02-11T13:54:19Z'
+  forks: 517
+  updated: '2026-03-15T08:51:18Z'
   issues: 368
   license: Apache-2.0
   owner: Apicurio
@@ -362,10 +362,10 @@
   language: TypeScript
   v3: true
   archived: true
-  stars: 52
+  stars: 53
   watch: 3
   forks: 9
-  updated: '2026-03-14T19:02:18Z'
+  updated: '2026-03-15T06:08:31Z'
   issues: 0
   license: Apache-2.0
   owner: Apicurio
@@ -382,11 +382,11 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4803
+  stars: 4800
   watch: 962
-  updated: '2026-03-08T18:05:17Z'
+  updated: '2026-03-17T12:29:49Z'
   issues: 47
-  forks: 738
+  forks: 739
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1170
+  stars: 1171
   watch: 22
-  updated: '2026-03-05T16:22:50Z'
+  updated: '2026-03-16T10:58:36Z'
   issues: 106
   forks: 190
   license: MIT
