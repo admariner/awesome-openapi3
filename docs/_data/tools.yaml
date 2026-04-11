@@ -236,7 +236,7 @@
   archived: true
   stars: 517
   watch: 11
-  forks: 68
+  forks: 67
   updated: '2026-04-08T19:05:46Z'
   issues: 51
   license: MIT
@@ -290,9 +290,9 @@
   archived: false
   stars: 696
   watch: 31
-  forks: 65
-  updated: '2026-04-10T00:07:49Z'
-  issues: 18
+  forks: 66
+  updated: '2026-04-11T00:06:05Z'
+  issues: 16
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4417
+  stars: 4418
   watch: 107
   forks: 682
-  updated: '2026-04-09T18:29:28Z'
-  issues: 1205
+  updated: '2026-04-11T22:03:38Z'
+  issues: 1203
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,7 +345,7 @@
   archived: true
   stars: 1062
   watch: 36
-  forks: 515
+  forks: 514
   updated: '2026-04-08T19:04:51Z'
   issues: 368
   license: Apache-2.0
@@ -472,10 +472,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 237
+  stars: 238
   watch: 16
   forks: 56
-  updated: '2026-03-10T15:56:31Z'
+  updated: '2026-04-11T13:02:39Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -651,9 +651,9 @@
   language: PHP
   category: '?'
   archived: false
-  stars: 1374
+  stars: 1375
   watch: 82
-  updated: '2026-03-19T16:31:18Z'
+  updated: '2026-04-11T19:21:04Z'
   issues: 35
   forks: 310
   owner: Luracast
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 743
+  stars: 744
   watch: 13
   forks: 119
-  updated: '2026-03-25T19:27:32Z'
+  updated: '2026-04-11T15:19:12Z'
   issues: 45
   license: BSD-3-Clause
   owner: Mermade
