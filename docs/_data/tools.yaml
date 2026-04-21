@@ -274,7 +274,7 @@
   watch: 19
   updated: '2026-04-18T14:36:48Z'
   issues: 61
-  forks: 167
+  forks: 168
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 696
+  stars: 697
   watch: 31
   forks: 67
-  updated: '2026-04-18T00:08:43Z'
+  updated: '2026-04-21T12:17:52Z'
   issues: 16
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4430
+  stars: 4434
   watch: 107
-  forks: 690
-  updated: '2026-04-18T14:55:34Z'
-  issues: 1220
+  forks: 694
+  updated: '2026-04-21T04:23:59Z'
+  issues: 1228
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4802
+  stars: 4801
   watch: 962
-  updated: '2026-04-17T14:05:17Z'
+  updated: '2026-04-20T13:18:59Z'
   issues: 46
   forks: 737
   license: MIT
@@ -655,7 +655,7 @@
   watch: 82
   updated: '2026-04-11T19:21:04Z'
   issues: 36
-  forks: 309
+  forks: 308
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
   downloads: 0
