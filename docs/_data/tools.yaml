@@ -220,7 +220,7 @@
   stars: 374
   watch: 11
   forks: 43
-  updated: '2026-04-16T06:29:08Z'
+  updated: '2026-04-22T15:02:13Z'
   issues: 54
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -273,7 +273,7 @@
   stars: 1196
   watch: 19
   updated: '2026-04-18T14:36:48Z'
-  issues: 61
+  issues: 62
   forks: 168
   license: MIT
   owner: APIDevTools
@@ -291,7 +291,7 @@
   stars: 697
   watch: 31
   forks: 67
-  updated: '2026-04-21T12:17:52Z'
+  updated: '2026-04-22T00:07:45Z'
   issues: 16
   license: BSD-3-Clause
   owner: APIs-guru
@@ -323,10 +323,10 @@
   language: Unknown
   archived: false
   stars: 4434
-  watch: 107
-  forks: 694
+  watch: 106
+  forks: 697
   updated: '2026-04-21T04:23:59Z'
-  issues: 1228
+  issues: 1236
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -542,7 +542,7 @@
   archived: false
   stars: 129
   watch: 4
-  forks: 65
+  forks: 64
   updated: '2026-04-18T12:07:59Z'
   issues: 36
   owner: ErikWittern
