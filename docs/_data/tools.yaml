@@ -284,7 +284,7 @@
   stars: 697
   watch: 31
   forks: 68
-  updated: 2026-04-25T00:11:34Z
+  updated: 2026-04-28T00:15:25Z
   issues: 17
   license: BSD-3-Clause
   owner: APIs-guru
@@ -316,11 +316,11 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 4439
+  stars: 4443
   watch: 106
   forks: 701
-  updated: 2026-04-26T18:49:23Z
-  issues: 1247
+  updated: 2026-04-28T20:50:21Z
+  issues: 1250
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
