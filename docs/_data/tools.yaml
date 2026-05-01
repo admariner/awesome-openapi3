@@ -221,7 +221,7 @@
   watch: 11
   forks: 43
   updated: '2026-04-22T15:02:13Z'
-  issues: 54
+  issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -290,8 +290,8 @@
   archived: false
   stars: 697
   watch: 31
-  forks: 68
-  updated: '2026-04-29T00:14:58Z'
+  forks: 69
+  updated: '2026-05-01T00:15:52Z'
   issues: 17
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4446
+  stars: 4448
   watch: 106
-  forks: 701
-  updated: '2026-04-29T14:11:08Z'
-  issues: 1250
+  forks: 704
+  updated: '2026-05-01T13:54:58Z'
+  issues: 1254
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -597,7 +597,7 @@
   stars: 207
   watch: 3
   forks: 16
-  updated: '2026-01-23T08:00:34Z'
+  updated: '2026-04-30T13:53:42Z'
   issues: 5
   owner: Himenon
   logo: 'https://avatars.githubusercontent.com/u/6715229?v=4'
