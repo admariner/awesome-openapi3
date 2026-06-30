@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 516
+  stars: 517
   watch: 0
   forks: 68
-  updated: '2026-05-12T03:47:04Z'
+  updated: '2026-06-29T11:41:37Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -256,7 +256,7 @@
   watch: 0
   updated: '2025-11-07T08:14:30Z'
   issues: 1
-  forks: 192
+  forks: 191
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -291,7 +291,7 @@
   stars: 699
   watch: 31
   forks: 73
-  updated: '2026-06-27T00:21:26Z'
+  updated: '2026-06-30T00:20:53Z'
   issues: 19
   license: BSD-3-Clause
   owner: APIs-guru
@@ -324,9 +324,9 @@
   archived: false
   stars: 4498
   watch: 106
-  forks: 727
-  updated: '2026-06-26T22:53:22Z'
-  issues: 1487
+  forks: 729
+  updated: '2026-06-30T19:41:41Z'
+  issues: 1501
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: true
-  stars: 1060
+  stars: 1059
   watch: 2
   forks: 509
-  updated: '2026-06-21T12:42:25Z'
+  updated: '2026-06-30T11:52:12Z'
   issues: 368
   license: Apache-2.0
   owner: ApicurioArchive
@@ -385,7 +385,7 @@
   stars: 4799
   watch: 960
   updated: '2026-06-23T04:00:53Z'
-  issues: 44
+  issues: 45
   forks: 736
   license: MIT
   owner: Azure
@@ -558,10 +558,10 @@
   description: "\U0001F4C7API Documentation Generator for Phoenix"
   language: Elixir
   archived: false
-  stars: 38
+  stars: 37
   watch: 20
   forks: 2
-  updated: '2026-02-03T18:15:03Z'
+  updated: '2026-06-30T16:37:44Z'
   issues: 3
   owner: Frameio
   logo: 'https://avatars.githubusercontent.com/u/8882715?v=4'
@@ -575,10 +575,10 @@
   description: Memar framework (to developing software) port in the GO programming language
   language: Go
   archived: false
-  stars: 44
+  stars: 45
   watch: 3
   forks: 5
-  updated: '2026-01-29T12:09:15Z'
+  updated: '2026-06-28T05:37:13Z'
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
@@ -654,7 +654,7 @@
   stars: 1382
   watch: 82
   updated: '2026-06-24T01:42:10Z'
-  issues: 34
+  issues: 32
   forks: 310
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
