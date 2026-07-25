@@ -217,11 +217,11 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 374
+  stars: 375
   watch: 10
-  forks: 45
-  updated: '2026-07-21T05:51:21Z'
-  issues: 54
+  forks: 46
+  updated: '2026-07-24T16:54:29Z'
+  issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
   license: AGPL-3.0
@@ -270,10 +270,10 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1204
+  stars: 1205
   watch: 19
-  updated: '2026-07-18T12:46:59Z'
-  issues: 63
+  updated: '2026-07-22T02:44:58Z'
+  issues: 64
   forks: 172
   license: MIT
   owner: APIDevTools
@@ -290,9 +290,9 @@
   archived: false
   stars: 701
   watch: 31
-  forks: 72
-  updated: '2026-07-21T00:17:11Z'
-  issues: 19
+  forks: 73
+  updated: '2026-07-25T00:18:50Z'
+  issues: 20
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4516
+  stars: 4519
   watch: 105
-  forks: 734
-  updated: '2026-07-21T17:55:54Z'
-  issues: 1590
+  forks: 733
+  updated: '2026-07-25T19:25:40Z'
+  issues: 1620
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -346,7 +346,7 @@
   stars: 1059
   watch: 2
   forks: 510
-  updated: '2026-06-30T11:52:12Z'
+  updated: '2026-07-22T21:44:34Z'
   issues: 368
   license: Apache-2.0
   owner: ApicurioArchive
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4801
+  stars: 4802
   watch: 960
-  updated: '2026-07-18T12:47:11Z'
+  updated: '2026-07-23T12:32:50Z'
   issues: 45
   forks: 736
   license: MIT
@@ -655,7 +655,7 @@
   watch: 82
   updated: '2026-07-13T12:23:10Z'
   issues: 32
-  forks: 312
+  forks: 313
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
   downloads: 0
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 747
+  stars: 748
   watch: 13
   forks: 119
-  updated: '2026-06-09T11:07:35Z'
+  updated: '2026-07-22T01:54:59Z'
   issues: 45
   license: BSD-3-Clause
   owner: Mermade
