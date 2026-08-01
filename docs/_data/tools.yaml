@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 517
+  stars: 516
   watch: 0
   forks: 68
-  updated: '2026-07-21T05:10:50Z'
+  updated: '2026-08-01T13:33:20Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 577
+  stars: 576
   watch: 0
-  updated: '2025-11-07T08:14:30Z'
+  updated: '2026-08-01T20:33:53Z'
   issues: 1
   forks: 190
   license: MIT
@@ -291,7 +291,7 @@
   stars: 702
   watch: 31
   forks: 74
-  updated: '2026-07-31T00:18:45Z'
+  updated: '2026-08-01T00:16:48Z'
   issues: 20
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4519
+  stars: 4520
   watch: 105
-  forks: 736
-  updated: '2026-07-31T17:56:45Z'
-  issues: 1677
+  forks: 737
+  updated: '2026-08-01T15:14:24Z'
+  issues: 1683
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
