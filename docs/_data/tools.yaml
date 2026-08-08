@@ -291,7 +291,7 @@
   stars: 703
   watch: 31
   forks: 75
-  updated: '2026-08-07T01:06:11Z'
+  updated: '2026-08-08T00:07:20Z'
   issues: 22
   license: BSD-3-Clause
   owner: APIs-guru
@@ -326,7 +326,7 @@
   watch: 105
   forks: 740
   updated: '2026-08-07T22:20:30Z'
-  issues: 1704
+  issues: 1713
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -688,10 +688,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 748
+  stars: 747
   watch: 13
   forks: 118
-  updated: '2026-08-07T00:38:08Z'
+  updated: '2026-08-08T10:17:15Z'
   issues: 45
   license: BSD-3-Clause
   owner: Mermade
