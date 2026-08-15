@@ -288,11 +288,11 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 703
+  stars: 704
   watch: 31
-  forks: 77
-  updated: '2026-08-13T00:11:44Z'
-  issues: 23
+  forks: 79
+  updated: '2026-08-15T06:38:54Z'
+  issues: 24
   license: BSD-3-Clause
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4532
+  stars: 4533
   watch: 105
-  forks: 740
-  updated: '2026-08-12T09:55:07Z'
-  issues: 1752
+  forks: 739
+  updated: '2026-08-14T14:40:53Z'
+  issues: 1766
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,7 +345,7 @@
   archived: true
   stars: 1059
   watch: 2
-  forks: 510
+  forks: 512
   updated: '2026-07-22T21:44:34Z'
   issues: 368
   license: Apache-2.0
@@ -384,9 +384,9 @@
   archived: false
   stars: 4799
   watch: 960
-  updated: '2026-08-12T02:50:14Z'
+  updated: '2026-08-14T22:51:57Z'
   issues: 22
-  forks: 737
+  forks: 738
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
