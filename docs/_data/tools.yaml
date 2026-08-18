@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 376
+  stars: 375
   watch: 10
   forks: 44
-  updated: '2026-08-13T21:12:53Z'
+  updated: '2026-08-18T14:23:05Z'
   issues: 55
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -291,7 +291,7 @@
   stars: 704
   watch: 31
   forks: 79
-  updated: '2026-08-15T06:38:54Z'
+  updated: '2026-08-18T00:05:28Z'
   issues: 24
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4533
+  stars: 4534
   watch: 105
-  forks: 739
-  updated: '2026-08-14T14:40:53Z'
-  issues: 1766
+  forks: 740
+  updated: '2026-08-16T21:49:38Z'
+  issues: 1780
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,7 +345,7 @@
   archived: true
   stars: 1059
   watch: 2
-  forks: 512
+  forks: 511
   updated: '2026-07-22T21:44:34Z'
   issues: 368
   license: Apache-2.0
@@ -383,10 +383,10 @@
   category: '?'
   archived: false
   stars: 4799
-  watch: 960
-  updated: '2026-08-14T22:51:57Z'
+  watch: 959
+  updated: '2026-08-18T04:16:41Z'
   issues: 22
-  forks: 738
+  forks: 739
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -475,7 +475,7 @@
   stars: 240
   watch: 16
   forks: 56
-  updated: '2026-08-11T14:22:25Z'
+  updated: '2026-08-18T18:29:45Z'
   issues: 5
   owner: Cornutum
   logo: 'https://avatars.githubusercontent.com/u/11477145?v=4'
@@ -631,9 +631,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1178
+  stars: 1177
   watch: 22
-  updated: '2026-06-24T10:45:42Z'
+  updated: '2026-08-17T03:53:54Z'
   issues: 106
   forks: 190
   license: MIT
@@ -653,7 +653,7 @@
   archived: false
   stars: 1382
   watch: 82
-  updated: '2026-08-13T07:19:34Z'
+  updated: '2026-08-18T14:57:45Z'
   issues: 32
   forks: 314
   owner: Luracast
@@ -724,10 +724,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 34
+  stars: 35
   watch: 2
   forks: 8
-  updated: '2026-03-04T12:59:20Z'
+  updated: '2026-08-17T14:39:06Z'
   issues: 7
   license: BSD-3-Clause
   owner: Mermade
