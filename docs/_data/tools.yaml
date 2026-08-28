@@ -273,8 +273,8 @@
   stars: 1205
   watch: 19
   updated: '2026-08-22T10:32:55Z'
-  issues: 64
-  forks: 172
+  issues: 63
+  forks: 171
   license: MIT
   owner: APIDevTools
   logo: 'https://avatars.githubusercontent.com/u/43750074?v=4'
@@ -291,7 +291,7 @@
   stars: 706
   watch: 31
   forks: 79
-  updated: '2026-08-26T00:06:37Z'
+  updated: '2026-08-27T01:08:00Z'
   issues: 23
   license: BSD-3-Clause
   owner: APIs-guru
@@ -324,9 +324,9 @@
   archived: false
   stars: 4542
   watch: 105
-  forks: 743
+  forks: 742
   updated: '2026-08-26T15:18:19Z'
-  issues: 1850
+  issues: 1855
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -385,7 +385,7 @@
   stars: 4798
   watch: 959
   updated: '2026-08-20T20:54:06Z'
-  issues: 22
+  issues: 23
   forks: 738
   license: MIT
   owner: Azure
@@ -596,7 +596,7 @@
   archived: false
   stars: 208
   watch: 3
-  forks: 17
+  forks: 16
   updated: '2026-06-02T01:52:39Z'
   issues: 4
   owner: Himenon
