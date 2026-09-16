@@ -291,7 +291,7 @@
   stars: 706
   watch: 31
   forks: 79
-  updated: '2026-09-15T00:02:54Z'
+  updated: '2026-09-16T00:03:05Z'
   issues: 23
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4554
+  stars: 4553
   watch: 105
   forks: 746
-  updated: '2026-09-13T20:26:49Z'
-  issues: 2012
+  updated: '2026-09-16T20:53:05Z'
+  issues: 2017
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4799
+  stars: 4798
   watch: 961
-  updated: '2026-09-13T19:09:09Z'
+  updated: '2026-09-16T19:07:02Z'
   issues: 25
   forks: 736
   license: MIT
@@ -4278,11 +4278,11 @@
     express servers.
   language: JavaScript
   archived: false
-  stars: 193
+  stars: 204
   watch: 11
-  forks: 57
-  updated: '2023-09-21T05:19:54Z'
-  issues: 7
+  forks: 58
+  updated: '2026-09-13T20:15:44Z'
+  issues: 15
   license: Apache-2.0
   owner: oas-tools
   logo: 'https://avatars.githubusercontent.com/u/97441539?v=4'
@@ -4299,11 +4299,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 199
-  watch: 20
-  forks: 81
-  updated: '2025-01-30T10:18:18Z'
-  issues: 11
+  stars: 221
+  watch: 18
+  forks: 91
+  updated: '2026-09-14T07:53:51Z'
+  issues: 17
   license: ''
   owner: oasis-tcs
   logo: 'https://avatars.githubusercontent.com/u/20116735?v=4'
@@ -4316,11 +4316,11 @@
   language: C++
   category: '?'
   archived: false
-  stars: 96
-  watch: 9
-  updated: '2024-12-11T05:37:38Z'
-  issues: 35
-  forks: 54
+  stars: 107
+  watch: 7
+  updated: '2026-04-24T01:20:37Z'
+  issues: 46
+  forks: 65
   license: Apache-2.0
   owner: oatpp
   logo: 'https://avatars.githubusercontent.com/u/37167448?v=4'
@@ -4335,11 +4335,11 @@
     literally anything you need.
   language: JavaScript
   archived: false
-  stars: 90
-  watch: 3
-  forks: 27
-  updated: '2024-10-19T11:35:38Z'
-  issues: 22
+  stars: 89
+  watch: 2
+  forks: 26
+  updated: '2026-01-19T09:17:34Z'
+  issues: 21
   license: Apache-2.0
   owner: openapi-contrib
   logo: 'https://avatars.githubusercontent.com/u/49447320?v=4'
@@ -4353,10 +4353,10 @@
   description: OpenApi Designer Extension for VS Code
   language: JavaScript
   archived: false
-  stars: 16
-  watch: 3
-  forks: 2
-  updated: '2024-11-11T09:16:00Z'
+  stars: 17
+  watch: 2
+  forks: 3
+  updated: '2025-07-18T14:03:25Z'
   issues: 16
   license: GPL-3.0
   owner: philosowaffle
@@ -4371,9 +4371,9 @@
   language: PHP
   category: '?'
   archived: false
-  stars: 16
+  stars: 18
   watch: 1
-  updated: '2022-11-06T10:15:04Z'
+  updated: '2025-10-16T12:56:25Z'
   issues: 0
   forks: 18
   license: MIT
@@ -4390,11 +4390,11 @@
     format
   language: JavaScript
   archived: false
-  stars: 955
-  watch: 22
-  forks: 209
-  updated: '2025-02-02T02:25:54Z'
-  issues: 83
+  stars: 1061
+  watch: 20
+  forks: 254
+  updated: '2026-09-08T03:24:18Z'
+  issues: 103
   owner: postmanlabs
   logo: 'https://avatars.githubusercontent.com/u/10251060?v=4'
   license: Apache-2.0
@@ -4410,8 +4410,8 @@
   language: Python
   archived: true
   stars: 37
-  watch: 5
-  forks: 3
+  watch: 1
+  forks: 2
   updated: '2024-11-23T06:34:06Z'
   issues: 4
   license: BSD-3-Clause
@@ -4428,7 +4428,7 @@
   category: '?'
   archived: true
   stars: 29
-  watch: 8
+  watch: 1
   updated: '2023-06-27T14:17:04Z'
   issues: 26
   forks: 25
@@ -4444,7 +4444,7 @@
   category: '?'
   archived: false
   stars: 3
-  watch: 2
+  watch: 0
   updated: '2023-09-28T04:03:24Z'
   issues: 0
   forks: 2
@@ -4460,18 +4460,18 @@
   description: RapiDoc -WebComponent for OpenAPI Spec
   language: JavaScript
   archived: false
-  stars: 1745
-  watch: 15
-  forks: 295
-  updated: '2025-02-04T20:38:53Z'
-  issues: 76
+  stars: 1899
+  watch: 17
+  forks: 326
+  updated: '2026-09-14T21:21:02Z'
+  issues: 138
   owner: rapi-doc
   logo: 'https://avatars.githubusercontent.com/u/104180085?v=4'
   downloads: 349444
   downloadStr: 349.44K
   license: MIT
   uuid: 054cd178-8482-4eb0-825c-4948675297a0
-- github: 'https://github.com/riddhi89/simple-flask-project'
+- github: 'https://github.com/jshahriddhi/simple-flask-project'
   v3: true
   category: parsers
   name: simple-flask-project
@@ -4479,11 +4479,11 @@
   language: Python
   archived: false
   stars: 2
-  watch: 1
+  watch: 0
   forks: 0
-  updated: '2023-06-01T03:35:54Z'
+  updated: '2025-10-06T09:24:51Z'
   issues: 0
-  owner: riddhi89
+  owner: jshahriddhi
   logo: 'https://avatars.githubusercontent.com/u/4574087?v=4'
   unsure: true
   downloads: 0
@@ -4496,11 +4496,11 @@
   description: (Unofficial) Google Home local API documentation.
   language: Handlebars
   archived: false
-  stars: 452
-  watch: 31
-  forks: 37
-  updated: '2025-01-14T09:44:40Z'
-  issues: 6
+  stars: 467
+  watch: 30
+  forks: 36
+  updated: '2026-09-03T19:33:40Z'
+  issues: 7
   owner: rithvikvibhu
   logo: 'https://avatars.githubusercontent.com/u/5113343?v=4'
   license: MIT
@@ -4512,11 +4512,11 @@
   language: Ruby
   category: '?'
   archived: false
-  stars: 2041
-  watch: 29
-  updated: '2025-02-03T14:45:39Z'
-  issues: 79
-  forks: 438
+  stars: 2201
+  watch: 28
+  updated: '2026-09-04T03:32:36Z'
+  issues: 26
+  forks: 454
   owner: rswag
   logo: 'https://avatars.githubusercontent.com/u/55741034?v=4'
   downloads: 0
@@ -4583,7 +4583,7 @@
   language: JavaScript
   archived: false
   stars: 3
-  watch: 4
+  watch: 2
   forks: 0
   updated: '2021-05-12T11:30:18Z'
   issues: 8
@@ -4602,11 +4602,11 @@
   description: Generate TypeScript clients to tap into OpenAPI servers
   language: TypeScript
   archived: false
-  stars: 514
-  watch: 6
-  forks: 82
-  updated: '2025-02-01T16:49:48Z'
-  issues: 53
+  stars: 578
+  watch: 5
+  forks: 89
+  updated: '2026-09-06T19:31:10Z'
+  issues: 49
   owner: oazapfts
   logo: 'https://avatars.githubusercontent.com/u/119607625?v=4'
   downloads: 704713
@@ -4619,11 +4619,11 @@
   description: Use Jest or Chai to assert that HTTP responses satisfy an OpenAPI spec
   language: TypeScript
   archived: false
-  stars: 192
+  stars: 195
   watch: 11
-  forks: 35
-  updated: '2025-01-10T11:37:03Z'
-  issues: 47
+  forks: 38
+  updated: '2026-06-21T21:39:58Z'
+  issues: 53
   owner: openapi-library
   logo: 'https://avatars.githubusercontent.com/u/53815441?v=4'
   license: MIT
@@ -4635,10 +4635,10 @@
   description: 'OpenAPI 3 parser, JSON schema and request validator.'
   language: Java
   archived: true
-  stars: 103
-  watch: 5
+  stars: 110
+  watch: 1
   forks: 41
-  updated: '2024-11-05T02:12:18Z'
+  updated: '2026-03-21T17:10:44Z'
   issues: 21
   owner: openapi4j
   logo: 'https://avatars.githubusercontent.com/u/39759775?v=4'
@@ -4652,10 +4652,10 @@
   description: Generates a Swagger/OpenAPI specification from a Vert.x Web Router.
   language: Kotlin
   archived: false
-  stars: 29
-  watch: 7
+  stars: 31
+  watch: 5
   forks: 4
-  updated: '2023-07-21T15:55:53Z'
+  updated: '2026-06-24T09:52:29Z'
   issues: 7
   owner: outofcoffee
   logo: 'https://avatars.githubusercontent.com/u/1248633?v=4'
@@ -4668,11 +4668,11 @@
   description: A standard library for microservices.
   language: Go
   archived: false
-  stars: 171
-  watch: 10
-  forks: 21
-  updated: '2025-02-03T15:13:25Z'
-  issues: 6
+  stars: 178
+  watch: 8
+  forks: 19
+  updated: '2026-07-13T20:16:07Z'
+  issues: 1
   owner: pace
   logo: 'https://avatars.githubusercontent.com/u/16001479?v=4'
   license: MIT
@@ -4686,7 +4686,7 @@
   category: '?'
   archived: false
   stars: 29
-  watch: 3
+  watch: 2
   updated: '2024-10-02T16:28:29Z'
   issues: 10
   forks: 7
@@ -4703,9 +4703,9 @@
   language: Python
   archived: false
   stars: 13
-  watch: 3
+  watch: 2
   forks: 2
-  updated: '2024-03-18T07:38:58Z'
+  updated: '2026-04-22T12:50:15Z'
   issues: 1
   owner: pglass
   logo: 'https://avatars.githubusercontent.com/u/1077740?v=4'
@@ -4723,7 +4723,7 @@
   archived: false
   stars: 109
   watch: 7
-  updated: '2024-04-02T17:40:21Z'
+  updated: '2026-03-30T15:48:22Z'
   issues: 5
   forks: 18
   license: MIT
@@ -4738,11 +4738,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 150
-  watch: 14
-  updated: '2024-11-30T08:13:01Z'
-  issues: 35
-  forks: 76
+  stars: 151
+  watch: 12
+  updated: '2026-04-07T13:55:06Z'
+  issues: 37
+  forks: 75
   license: MIT
   owner: pipermerriam
   logo: 'https://avatars.githubusercontent.com/u/824194?v=4'
@@ -4758,10 +4758,10 @@
   language: Python
   archived: false
   stars: 105
-  watch: 6
-  forks: 9
-  updated: '2024-12-30T22:21:14Z'
-  issues: 19
+  watch: 4
+  forks: 10
+  updated: '2026-07-10T00:01:56Z'
+  issues: 20
   owner: playpauseandstop
   logo: 'https://avatars.githubusercontent.com/u/21325?v=4'
   license: BSD-3-Clause
@@ -4776,11 +4776,11 @@
   language: Python
   category: '?'
   archived: false
-  stars: 387
-  watch: 14
-  updated: '2025-01-04T23:25:00Z'
-  issues: 45
-  forks: 91
+  stars: 393
+  watch: 13
+  updated: '2026-04-30T16:51:37Z'
+  issues: 43
+  forks: 89
   license: MIT
   owner: pyopenapi
   logo: 'https://avatars.githubusercontent.com/u/35984678?v=4'
@@ -4792,14 +4792,15 @@
   name: openapi-core
   description: >-
     Openapi-core is a Python library that adds client-side and server-side
-    support for the OpenAPI v3.0 and OpenAPI v3.1 specification.
+    support for the OpenAPI v3.0 and OpenAPI v3.1 and OpenAPI v3.2
+    specification.
   language: Python
   archived: false
-  stars: 315
-  watch: 8
-  forks: 132
-  updated: '2025-01-27T14:36:21Z'
-  issues: 96
+  stars: 368
+  watch: 6
+  forks: 140
+  updated: '2026-09-13T11:16:52Z'
+  issues: 105
   owner: python-openapi
   logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
   license: BSD-3-Clause
@@ -4815,11 +4816,11 @@
     and OpenAPI 3.1 specification.
   v3: true
   archived: false
-  stars: 343
-  watch: 10
-  forks: 66
-  updated: '2025-02-01T18:55:17Z'
-  issues: 45
+  stars: 409
+  watch: 8
+  forks: 73
+  updated: '2026-09-09T08:44:07Z'
+  issues: 54
   license: Apache-2.0
   owner: python-openapi
   logo: 'https://avatars.githubusercontent.com/u/126442889?v=4'
@@ -4835,7 +4836,7 @@
   language: Python
   archived: true
   stars: 26
-  watch: 4
+  watch: 2
   forks: 1
   updated: '2023-01-27T23:43:25Z'
   issues: 8
