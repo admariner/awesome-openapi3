@@ -291,7 +291,7 @@
   stars: 706
   watch: 31
   forks: 79
-  updated: '2026-09-16T00:03:05Z'
+  updated: '2026-09-17T00:02:41Z'
   issues: 23
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4553
+  stars: 4555
   watch: 105
   forks: 746
-  updated: '2026-09-16T20:53:05Z'
-  issues: 2017
+  updated: '2026-09-17T05:19:39Z'
+  issues: 2042
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -345,7 +345,7 @@
   archived: true
   stars: 1057
   watch: 2
-  forks: 510
+  forks: 509
   updated: '2026-09-15T09:21:09Z'
   issues: 368
   license: Apache-2.0
@@ -3280,6 +3280,23 @@
   logo: 'https://avatars.githubusercontent.com/u/1165287?v=4'
   downloads: 0
   uuid: d971d991-3d65-41bb-9128-9e81285e59c2
+- github: 'https://github.com/jshahriddhi/simple-flask-project'
+  v3: true
+  category: parsers
+  name: simple-flask-project
+  description: Generate OpenAPI spec from Flask routes
+  language: Python
+  archived: false
+  stars: 2
+  watch: 0
+  forks: 0
+  updated: '2025-10-06T09:24:51Z'
+  issues: 0
+  owner: jshahriddhi
+  logo: 'https://avatars.githubusercontent.com/u/4574087?v=4'
+  unsure: true
+  downloads: 0
+  uuid: 05f1a526-af34-44ec-b7b3-f4b275be7458
 - name: node-swagger-mongodb
   description: lightweight swagger-ui crud-api backed by mongodb
   github: 'https://github.com/kaizhu256/node-swagger-mongodb'
@@ -4471,23 +4488,6 @@
   downloadStr: 349.44K
   license: MIT
   uuid: 054cd178-8482-4eb0-825c-4948675297a0
-- github: 'https://github.com/jshahriddhi/simple-flask-project'
-  v3: true
-  category: parsers
-  name: simple-flask-project
-  description: Generate OpenAPI spec from Flask routes
-  language: Python
-  archived: false
-  stars: 2
-  watch: 0
-  forks: 0
-  updated: '2025-10-06T09:24:51Z'
-  issues: 0
-  owner: jshahriddhi
-  logo: 'https://avatars.githubusercontent.com/u/4574087?v=4'
-  unsure: true
-  downloads: 0
-  uuid: 05f1a526-af34-44ec-b7b3-f4b275be7458
 - github: 'https://github.com/rithvikvibhu/GHLocalApi'
   v3: true
   category: unclassified
