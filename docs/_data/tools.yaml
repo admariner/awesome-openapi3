@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 574
+  stars: 573
   watch: 0
-  updated: '2026-09-09T08:56:49Z'
+  updated: '2026-10-09T17:48:03Z'
   issues: 1
   forks: 189
   license: MIT
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1208
+  stars: 1207
   watch: 19
-  updated: '2026-10-08T18:30:45Z'
+  updated: '2026-10-09T17:47:52Z'
   issues: 63
   forks: 171
   license: MIT
@@ -288,10 +288,10 @@
   description: "\U0001F60E A list of awesome projects related to OpenAPI 3.0.x, curated by the community"
   language: JavaScript
   archived: false
-  stars: 707
+  stars: 708
   watch: 31
   forks: 81
-  updated: '2026-10-08T00:03:19Z'
+  updated: '2026-10-09T20:53:16Z'
   issues: 25
   license: BSD-3-Clause
   owner: APIs-guru
@@ -325,8 +325,8 @@
   stars: 4569
   watch: 104
   forks: 750
-  updated: '2026-10-05T13:44:44Z'
-  issues: 1606
+  updated: '2026-10-09T13:02:35Z'
+  issues: 1622
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -382,9 +382,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4795
+  stars: 4794
   watch: 958
-  updated: '2026-10-08T18:22:24Z'
+  updated: '2026-10-09T17:48:02Z'
   issues: 22
   forks: 736
   license: MIT
@@ -669,9 +669,9 @@
   language: PHP
   category: '?'
   archived: false
-  stars: 138
+  stars: 137
   watch: 7
-  updated: '2025-10-16T12:59:48Z'
+  updated: '2026-10-09T15:03:58Z'
   issues: 7
   forks: 27
   license: ''
@@ -6094,7 +6094,7 @@
   language: JavaScript
   archived: false
   stars: 1
-  watch: 3
+  watch: 2
   forks: 2
   updated: '2019-05-01T08:50:29Z'
   issues: 0
@@ -6113,7 +6113,7 @@
   language: JavaScript
   archived: false
   stars: 0
-  watch: 3
+  watch: 2
   forks: 0
   updated: '2019-05-01T08:51:22Z'
   issues: 0
@@ -6131,9 +6131,9 @@
   language: Clojure
   category: '?'
   archived: true
-  stars: 75
-  watch: 8
-  updated: '2023-04-02T07:58:50Z'
+  stars: 76
+  watch: 1
+  updated: '2024-05-31T07:49:26Z'
   issues: 0
   forks: 6
   license: Unlicense
@@ -6150,11 +6150,11 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 41
-  watch: 5
-  updated: '2024-04-11T10:36:50Z'
-  issues: 3
-  forks: 17
+  stars: 44
+  watch: 3
+  updated: '2026-09-21T12:38:58Z'
+  issues: 1
+  forks: 16
   license: MIT
   owner: vanderlee
   logo: 'https://avatars.githubusercontent.com/u/649240?v=4'
@@ -6168,7 +6168,7 @@
   language: JavaScript
   archived: false
   stars: 1
-  watch: 3
+  watch: 2
   forks: 0
   updated: '2018-04-09T12:18:40Z'
   issues: 0
@@ -6179,20 +6179,20 @@
   downloads: 121
   downloadStr: '121'
   uuid: 72641cd4-e4ce-472c-9193-05c10278541f
-- github: 'https://github.com/wI2L/fizz'
+- github: 'https://github.com/ovh/fizz'
   v3: true
   category: unclassified
   name: fizz
   description: ':lemon: Gin wrapper with OpenAPI 3 spec generation'
   language: Go
   archived: false
-  stars: 203
-  watch: 10
-  forks: 48
-  updated: '2024-04-12T08:21:13Z'
-  issues: 17
-  owner: wI2L
-  logo: 'https://avatars.githubusercontent.com/u/6519569?v=4'
+  stars: 230
+  watch: 8
+  forks: 56
+  updated: '2026-07-13T20:15:00Z'
+  issues: 20
+  owner: ovh
+  logo: 'https://avatars.githubusercontent.com/u/1698434?v=4'
   license: MIT
   downloads: 0
   uuid: 71ec4f22-4b74-474f-9cf5-bc96a481dd05
@@ -6222,10 +6222,10 @@
   category: '?'
   archived: false
   stars: 213
-  watch: 8
-  updated: '2023-07-23T17:52:50Z'
-  issues: 23
-  forks: 70
+  watch: 6
+  updated: '2026-03-20T13:30:32Z'
+  issues: 25
+  forks: 63
   license: Apache-2.0
   owner: westfieldlabs
   logo: 'https://avatars.githubusercontent.com/u/4454594?v=4'
@@ -6238,11 +6238,11 @@
   description: "Well Spectually \U0001F913 Enforce quality rules on your OpenAPI 3.0.x specifications."
   v3: true
   archived: false
-  stars: 802
-  watch: 28
-  forks: 77
-  updated: '2023-09-11T14:25:45Z'
-  issues: 86
+  stars: 839
+  watch: 25
+  forks: 79
+  updated: '2026-10-06T02:18:39Z'
+  issues: 83
   license: MIT
   owner: wework
   logo: 'https://avatars.githubusercontent.com/u/4072897?v=4'
@@ -6257,10 +6257,10 @@
   category: '?'
   archived: false
   stars: 89
-  watch: 19
+  watch: 18
   updated: '2023-04-16T08:14:35Z'
-  issues: 38
-  forks: 46
+  issues: 39
+  forks: 43
   owner: wkennedy
   logo: 'https://avatars.githubusercontent.com/u/1119475?v=4'
   downloads: 0
@@ -6274,9 +6274,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 8
-  watch: 2
-  updated: '2019-10-07T21:40:35Z'
+  stars: 7
+  watch: 1
+  updated: '2025-05-14T02:35:31Z'
   issues: 3
   forks: 4
   license: MIT
@@ -6293,10 +6293,10 @@
   v1: true
   language: CoffeeScript
   category: '?'
-  archived: false
-  stars: 46
-  watch: 13
-  updated: '2021-06-13T03:54:21Z'
+  archived: true
+  stars: 45
+  watch: 5
+  updated: '2026-07-03T19:30:39Z'
   issues: 9
   forks: 16
   license: MIT
@@ -6313,11 +6313,11 @@
     3.0.0)
   language: JavaScript
   archived: false
-  stars: 218
-  watch: 2
-  forks: 27
-  updated: '2021-05-29T08:35:26Z'
-  issues: 4
+  stars: 234
+  watch: 1
+  forks: 29
+  updated: '2026-09-08T06:38:59Z'
+  issues: 9
   owner: wrannaman
   logo: 'https://avatars.githubusercontent.com/u/5325165?v=4'
   license: MIT
@@ -6334,9 +6334,9 @@
   language: Go
   archived: false
   stars: 50
-  watch: 6
+  watch: 5
   forks: 6
-  updated: '2023-02-25T15:24:42Z'
+  updated: '2026-09-14T14:39:13Z'
   issues: 0
   license: MIT
   owner: wzshiming
@@ -6350,10 +6350,10 @@
   description: OpenAPI 3 Specification for golang
   language: Go
   archived: false
-  stars: 15
+  stars: 17
   watch: 1
   forks: 0
-  updated: '2021-06-08T16:29:11Z'
+  updated: '2023-09-08T17:41:57Z'
   issues: 0
   license: MIT
   owner: wzshiming
@@ -6368,11 +6368,11 @@
   language: Elixir
   category: '?'
   archived: false
-  stars: 649
-  watch: 18
-  updated: '2023-09-04T15:26:55Z'
-  issues: 41
-  forks: 179
+  stars: 711
+  watch: 15
+  updated: '2026-09-03T18:03:01Z'
+  issues: 33
+  forks: 185
   license: MPL-2.0
   owner: xerions
   logo: 'https://avatars.githubusercontent.com/u/11320029?v=4'
@@ -6386,7 +6386,7 @@
   v3: true
   archived: false
   stars: 7
-  watch: 4
+  watch: 3
   forks: 5
   updated: '2023-05-22T09:10:47Z'
   issues: 4
@@ -6401,11 +6401,11 @@
   language: 'C#'
   category: '?'
   archived: false
-  stars: 134
-  watch: 16
-  updated: '2023-05-06T12:44:01Z'
+  stars: 133
+  watch: 15
+  updated: '2024-07-17T14:23:31Z'
   issues: 35
-  forks: 64
+  forks: 58
   license: MIT
   owner: yahehe
   logo: 'https://avatars.githubusercontent.com/u/6528050?v=4'
@@ -6418,10 +6418,10 @@
   description: Mock data generator CLI for Swagger3 (OpenAPI 3)
   language: TypeScript
   archived: false
-  stars: 51
-  watch: 3
+  stars: 53
+  watch: 2
   forks: 8
-  updated: '2023-08-18T17:34:51Z'
+  updated: '2025-08-08T16:31:19Z'
   issues: 15
   owner: yayoc
   logo: 'https://avatars.githubusercontent.com/u/6383334?v=4'
@@ -6436,11 +6436,11 @@
   language: Swift
   category: '?'
   archived: false
-  stars: 616
-  watch: 17
-  updated: '2023-08-18T07:21:46Z'
-  issues: 71
-  forks: 149
+  stars: 631
+  watch: 15
+  updated: '2026-09-09T21:17:32Z'
+  issues: 66
+  forks: 146
   license: MIT
   owner: yonaskolb
   logo: 'https://avatars.githubusercontent.com/u/2393781?v=4'
@@ -6454,10 +6454,10 @@
   category: '?'
   archived: false
   stars: 788
-  watch: 34
-  updated: '2023-08-15T09:54:26Z'
-  issues: 38
-  forks: 132
+  watch: 31
+  updated: '2026-09-27T00:26:35Z'
+  issues: 36
+  forks: 125
   license: BSD-3-Clause
   owner: yvasiyarov
   logo: 'https://avatars.githubusercontent.com/u/889406?v=4'
@@ -6474,10 +6474,10 @@
   category: '?'
   archived: false
   stars: 81
-  watch: 4
-  updated: '2022-02-25T16:57:06Z'
-  issues: 38
-  forks: 38
+  watch: 3
+  updated: '2026-10-02T19:56:53Z'
+  issues: 37
+  forks: 35
   license: MIT
   owner: z0mt3c
   logo: 'https://avatars.githubusercontent.com/u/1782471?v=4'
@@ -6494,10 +6494,10 @@
   category: '?'
   archived: false
   stars: 74
-  watch: 7
-  updated: '2023-05-10T13:55:51Z'
+  watch: 6
+  updated: '2026-04-29T15:26:40Z'
   issues: 3
-  forks: 10
+  forks: 11
   license: MIT
   owner: zaaack
   logo: 'https://avatars.githubusercontent.com/u/5233940?v=4'
@@ -6511,9 +6511,9 @@
   language: Scala
   category: '?'
   archived: true
-  stars: 97
-  watch: 18
-  updated: '2023-07-08T07:20:46Z'
+  stars: 96
+  watch: 1
+  updated: '2026-06-24T01:08:45Z'
   issues: 24
   forks: 15
   license: MIT
@@ -6530,9 +6530,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 45
-  watch: 15
-  updated: '2023-07-25T13:55:09Z'
+  stars: 47
+  watch: 13
+  updated: '2025-08-01T14:52:42Z'
   issues: 18
   forks: 13
   license: ISC
@@ -6550,8 +6550,8 @@
   category: '?'
   archived: true
   stars: 118
-  watch: 16
-  updated: '2023-07-25T13:55:23Z'
+  watch: 3
+  updated: '2026-04-22T03:31:46Z'
   issues: 25
   forks: 16
   license: Apache-2.0
@@ -6559,20 +6559,20 @@
   logo: 'https://avatars.githubusercontent.com/u/1564818?v=4'
   downloads: 0
   uuid: 62d274eb-b653-450e-add2-0d645c57fd81
-- github: 'https://github.com/zweidenker/OpenAPI'
+- github: 'https://github.com/ApptiveGrid/OpenAPI'
   v3: true
   category: parsers
   name: OpenAPI
   description: A pharo implementation of OpenAPI 3.0.1
   language: Smalltalk
   archived: false
-  stars: 22
-  watch: 7
-  forks: 5
-  updated: '2023-08-13T00:57:19Z'
-  issues: 5
-  owner: zweidenker
-  logo: 'https://avatars.githubusercontent.com/u/20300491?v=4'
+  stars: 23
+  watch: 5
+  forks: 7
+  updated: '2026-08-05T15:35:57Z'
+  issues: 4
+  owner: ApptiveGrid
+  logo: 'https://avatars.githubusercontent.com/u/93137245?v=4'
   unsure: true
   downloads: 0
   uuid: b50e15d4-6ec2-497b-8e0c-bd6a2b2436ce
