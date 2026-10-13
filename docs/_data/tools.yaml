@@ -291,7 +291,7 @@
   stars: 708
   watch: 31
   forks: 81
-  updated: '2026-10-09T20:53:16Z'
+  updated: '2026-10-10T00:02:28Z'
   issues: 25
   license: BSD-3-Clause
   owner: APIs-guru
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4569
-  watch: 104
-  forks: 750
-  updated: '2026-10-09T13:02:35Z'
-  issues: 1622
+  stars: 4574
+  watch: 103
+  forks: 749
+  updated: '2026-10-12T10:31:48Z'
+  issues: 1668
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -373,6 +373,24 @@
   downloads: 9829
   downloadStr: 9.83K
   uuid: 85313bdb-1ee4-4dd2-87ab-5c958964a2c4
+- github: 'https://github.com/ApptiveGrid/OpenAPI'
+  v3: true
+  category: parsers
+  name: OpenAPI
+  description: A pharo implementation of OpenAPI 3.0.1
+  language: Smalltalk
+  archived: false
+  stars: 23
+  watch: 5
+  forks: 7
+  updated: '2026-08-05T15:35:57Z'
+  issues: 4
+  owner: ApptiveGrid
+  logo: 'https://avatars.githubusercontent.com/u/93137245?v=4'
+  unsure: true
+  downloads: 0
+  uuid: b50e15d4-6ec2-497b-8e0c-bd6a2b2436ce
+  license: MIT
 - name: autorest
   description: >-
     OpenAPI (f.k.a Swagger) Specification code generator. Supports C#,
@@ -382,9 +400,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4794
+  stars: 4793
   watch: 958
-  updated: '2026-10-09T17:48:02Z'
+  updated: '2026-10-11T00:29:39Z'
   issues: 22
   forks: 736
   license: MIT
@@ -4661,6 +4679,23 @@
   logo: 'https://avatars.githubusercontent.com/u/1248633?v=4'
   downloads: 0
   uuid: afe75fa7-e7c4-4c1c-ada2-9c9782920ab6
+- github: 'https://github.com/ovh/fizz'
+  v3: true
+  category: unclassified
+  name: fizz
+  description: ':lemon: Gin wrapper with OpenAPI 3 spec generation'
+  language: Go
+  archived: false
+  stars: 230
+  watch: 8
+  forks: 56
+  updated: '2026-07-13T20:15:00Z'
+  issues: 20
+  owner: ovh
+  logo: 'https://avatars.githubusercontent.com/u/1698434?v=4'
+  license: MIT
+  downloads: 0
+  uuid: 71ec4f22-4b74-474f-9cf5-bc96a481dd05
 - github: 'https://github.com/pace/bricks'
   v3: true
   category: unclassified
@@ -6179,23 +6214,6 @@
   downloads: 121
   downloadStr: '121'
   uuid: 72641cd4-e4ce-472c-9193-05c10278541f
-- github: 'https://github.com/ovh/fizz'
-  v3: true
-  category: unclassified
-  name: fizz
-  description: ':lemon: Gin wrapper with OpenAPI 3 spec generation'
-  language: Go
-  archived: false
-  stars: 230
-  watch: 8
-  forks: 56
-  updated: '2026-07-13T20:15:00Z'
-  issues: 20
-  owner: ovh
-  logo: 'https://avatars.githubusercontent.com/u/1698434?v=4'
-  license: MIT
-  downloads: 0
-  uuid: 71ec4f22-4b74-474f-9cf5-bc96a481dd05
 - name: swagger-docs-cfml
   description: create swagger docs from CFML (Railo) ReST components
   github: 'https://github.com/webonix/swagger-docs-cfml'
@@ -6559,24 +6577,6 @@
   logo: 'https://avatars.githubusercontent.com/u/1564818?v=4'
   downloads: 0
   uuid: 62d274eb-b653-450e-add2-0d645c57fd81
-- github: 'https://github.com/ApptiveGrid/OpenAPI'
-  v3: true
-  category: parsers
-  name: OpenAPI
-  description: A pharo implementation of OpenAPI 3.0.1
-  language: Smalltalk
-  archived: false
-  stars: 23
-  watch: 5
-  forks: 7
-  updated: '2026-08-05T15:35:57Z'
-  issues: 4
-  owner: ApptiveGrid
-  logo: 'https://avatars.githubusercontent.com/u/93137245?v=4'
-  unsure: true
-  downloads: 0
-  uuid: b50e15d4-6ec2-497b-8e0c-bd6a2b2436ce
-  license: MIT
 - name: swagger-template
   description: swagger-template
   github: 'https://gitlab.com/tijsg/swagger-template'
