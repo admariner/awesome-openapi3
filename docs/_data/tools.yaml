@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 576
+  stars: 575
   watch: 0
-  updated: '2026-11-10T08:30:49Z'
+  updated: '2026-11-18T00:28:23Z'
   issues: 1
   forks: 189
   license: MIT
@@ -290,7 +290,7 @@
   archived: false
   stars: 709
   watch: 31
-  forks: 81
+  forks: 80
   updated: '2026-11-16T04:55:54Z'
   issues: 27
   license: BSD-3-Clause
@@ -323,10 +323,10 @@
   language: Unknown
   archived: false
   stars: 4610
-  watch: 103
+  watch: 102
   forks: 762
-  updated: '2026-11-16T23:43:01Z'
-  issues: 3062
+  updated: '2026-11-18T18:37:05Z'
+  issues: 3075
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -400,11 +400,11 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4788
+  stars: 4787
   watch: 949
-  updated: '2026-11-12T22:14:31Z'
+  updated: '2026-11-18T22:22:09Z'
   issues: 21
-  forks: 734
+  forks: 733
   license: MIT
   owner: Azure
   logo: 'https://avatars.githubusercontent.com/u/6844498?v=4'
@@ -706,10 +706,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 748
+  stars: 747
   watch: 13
   forks: 120
-  updated: '2026-11-09T21:16:40Z'
+  updated: '2026-11-18T00:26:14Z'
   issues: 44
   license: BSD-3-Clause
   owner: Mermade
