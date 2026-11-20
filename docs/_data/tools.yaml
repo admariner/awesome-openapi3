@@ -217,10 +217,10 @@
   v3: true
   github: 'https://github.com/42Crunch/vscode-openapi'
   archived: false
-  stars: 378
+  stars: 377
   watch: 10
   forks: 45
-  updated: '2026-11-16T20:28:25Z'
+  updated: '2026-11-19T21:25:24Z'
   issues: 54
   owner: 42Crunch
   logo: 'https://avatars.githubusercontent.com/u/25365245?v=4'
@@ -234,10 +234,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 514
+  stars: 513
   watch: 0
   forks: 66
-  updated: '2026-11-09T21:18:44Z'
+  updated: '2026-11-19T19:36:05Z'
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -252,9 +252,9 @@
   language: JavaScript
   category: '?'
   archived: true
-  stars: 575
+  stars: 574
   watch: 0
-  updated: '2026-11-18T00:28:23Z'
+  updated: '2026-11-19T19:29:53Z'
   issues: 1
   forks: 189
   license: MIT
@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1210
+  stars: 1209
   watch: 19
-  updated: '2026-11-09T21:13:29Z'
+  updated: '2026-11-19T19:22:31Z'
   issues: 64
   forks: 170
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4610
+  stars: 4612
   watch: 102
   forks: 762
-  updated: '2026-11-18T18:37:05Z'
-  issues: 3075
+  updated: '2026-11-19T21:31:49Z'
+  issues: 3094
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -343,10 +343,10 @@
   v2: true
   v3: true
   archived: true
-  stars: 1055
+  stars: 1054
   watch: 2
   forks: 508
-  updated: '2026-11-16T09:03:08Z'
+  updated: '2026-11-19T20:09:54Z'
   issues: 368
   license: Apache-2.0
   owner: ApicurioArchive
@@ -400,9 +400,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4787
+  stars: 4786
   watch: 949
-  updated: '2026-11-18T22:22:09Z'
+  updated: '2026-11-19T19:29:17Z'
   issues: 21
   forks: 733
   license: MIT
@@ -669,9 +669,9 @@
   language: PHP
   category: '?'
   archived: false
-  stars: 1388
+  stars: 1387
   watch: 80
-  updated: '2026-11-11T09:04:56Z'
+  updated: '2026-11-19T18:38:01Z'
   issues: 33
   forks: 313
   owner: Luracast
@@ -706,10 +706,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 747
+  stars: 746
   watch: 13
   forks: 120
-  updated: '2026-11-18T00:26:14Z'
+  updated: '2026-11-19T20:11:31Z'
   issues: 44
   license: BSD-3-Clause
   owner: Mermade
