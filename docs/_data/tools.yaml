@@ -270,9 +270,9 @@
   language: JavaScript
   category: '?'
   archived: false
-  stars: 1209
+  stars: 1210
   watch: 19
-  updated: '2026-11-19T19:22:31Z'
+  updated: '2026-11-21T06:42:58Z'
   issues: 64
   forks: 170
   license: MIT
@@ -322,11 +322,11 @@
   description: "\U0001F310 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format"
   language: Unknown
   archived: false
-  stars: 4612
+  stars: 4614
   watch: 102
-  forks: 763
-  updated: '2026-11-19T21:31:49Z'
-  issues: 3121
+  forks: 766
+  updated: '2026-11-23T21:36:35Z'
+  issues: 3189
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -400,9 +400,9 @@
   language: TypeSpec
   category: '?'
   archived: false
-  stars: 4786
+  stars: 4787
   watch: 948
-  updated: '2026-11-20T20:12:56Z'
+  updated: '2026-11-23T10:08:53Z'
   issues: 21
   forks: 733
   license: MIT
@@ -576,10 +576,10 @@
   description: "\U0001F4C7API Documentation Generator for Phoenix"
   language: Elixir
   archived: false
-  stars: 37
+  stars: 36
   watch: 20
   forks: 2
-  updated: '2026-06-30T16:37:44Z'
+  updated: '2026-11-23T12:06:15Z'
   issues: 3
   owner: Frameio
   logo: 'https://avatars.githubusercontent.com/u/8882715?v=4'
@@ -673,7 +673,7 @@
   watch: 80
   updated: '2026-11-19T18:38:01Z'
   issues: 33
-  forks: 313
+  forks: 314
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
   downloads: 0
@@ -706,11 +706,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 746
+  stars: 747
   watch: 13
-  forks: 120
-  updated: '2026-11-19T20:11:31Z'
-  issues: 44
+  forks: 121
+  updated: '2026-11-22T01:28:52Z'
+  issues: 45
   license: BSD-3-Clause
   owner: Mermade
   logo: 'https://avatars.githubusercontent.com/u/15950345?v=4'
