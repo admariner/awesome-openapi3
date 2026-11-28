@@ -324,9 +324,9 @@
   archived: false
   stars: 4614
   watch: 102
-  forks: 766
-  updated: '2026-11-26T20:28:26Z'
-  issues: 3268
+  forks: 768
+  updated: '2026-11-27T16:46:34Z'
+  issues: 3310
   owner: APIs-guru
   logo: 'https://avatars.githubusercontent.com/u/10975548?v=4'
   license: CC0-1.0
@@ -669,11 +669,11 @@
   language: PHP
   category: '?'
   archived: false
-  stars: 1387
+  stars: 1388
   watch: 80
-  updated: '2026-11-19T18:38:01Z'
+  updated: '2026-11-27T23:06:42Z'
   issues: 33
-  forks: 313
+  forks: 312
   owner: Luracast
   logo: 'https://avatars.githubusercontent.com/u/236217?v=4'
   downloads: 0
